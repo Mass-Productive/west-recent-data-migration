@@ -38,5 +38,27 @@ export default {
   
   // CloudFront URL Pattern
   CLOUDFRONT_DOMAIN: 'd278yjzsv5tla9.cloudfront.net',
-  CLOUDFRONT_URL_PATTERN: /^https:\/\/d278yjzsv5tla9\.cloudfront\.net\//
+  CLOUDFRONT_URL_PATTERN: /^https:\/\/d278yjzsv5tla9\.cloudfront\.net\//,
+  
+  // AWS Configuration
+  AWS_REGION: 'us-west-2',
+  S3_BUCKET_NAME: 'west-auction-images',
+  S3_BUCKET_NAME_FALLBACK: 'west-auction-images-historic',
+  
+  // Migration Settings
+  CONCURRENT_UPLOADS: 10,
+  MIGRATION_BATCH_SIZE: 100,
+  MIGRATION_CHECKPOINT_FILE: './data/migration-checkpoint.json',
+  MIGRATION_LOG_FILE: './data/migration.log',
+  MIGRATION_ERROR_LOG_FILE: './data/migration-errors.log',
+  
+  // Retry & Timeout
+  UPLOAD_TIMEOUT_MS: 30000,
+  DOWNLOAD_TIMEOUT_MS: 20000,
+  MAX_UPLOAD_RETRIES: 3,
+  UPLOAD_RETRY_BACKOFF_MS: [1000, 3000, 9000],
+  
+  // Progress Reporting
+  LOG_EVERY_N_IMAGES: 100,
+  CHECKPOINT_EVERY_N_IMAGES: 50
 };

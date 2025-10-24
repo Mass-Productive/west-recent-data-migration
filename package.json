@@ -6,7 +6,11 @@
   "scripts": {
     "fetch-auctions": "node scripts/fetch-by-week.js",
     "collect-lots": "node scripts/collect-lots.js",
-    "collect-images": "node scripts/collect-lot-images.js"
+    "collect-images": "node scripts/collect-lot-images.js",
+    "setup-s3": "node scripts/setup-s3.js",
+    "test-s3": "node scripts/test-s3-connection.js",
+    "test-migration": "node scripts/test-migration.js",
+    "migrate": "node scripts/migrate-images-to-s3.js"
   },
   "keywords": [
     "auction",
@@ -18,7 +22,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.679.0",
+    "@aws-sdk/lib-storage": "^3.679.0",
     "date-fns": "^4.1.0",
+    "dotenv": "^16.4.5",
     "form-data": "^4.0.0",
     "node-fetch": "^3.3.2"
   }

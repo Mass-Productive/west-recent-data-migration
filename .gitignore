@@ -8,6 +8,9 @@ node_modules/
 # Environment
 .env
 
+# Cursor
+.cursor/
+
 # Temporary files
 nohup.out
 *.tmp
