@@ -304,11 +304,125 @@ After migration completes:
 
 1. **Verify counts** in S3 console
 2. **Spot-check** random images
-3. **Update application** to use S3 URLs instead of CloudFront
-4. **Delete IAM user** (optional, for security)
+3. **Set up CloudFront CDN** (see below)
+4. **Update application** to use new CloudFront URLs
+5. **Delete IAM user** (optional, for security)
+
+---
+
+# CloudFront CDN Setup
+
+After migrating images to S3, set up CloudFront to serve them globally with low latency.
+
+## Quick Start
+
+See **[CloudFront Quick Start](CLOUDFRONT_QUICKSTART.md)** for full guide.
+
+### 1. Install Dependencies
+
+```bash
+npm install
+```
+
+### 2. Create CloudFront Distribution
+
+```bash
+npm run setup-cloudfront
+```
+
+This will:
+- ✅ Create CloudFront distribution with optimal caching
+- ✅ Configure Origin Access Control (OAC) for secure S3 access
+- ✅ Update S3 bucket policy automatically
+- ✅ Save configuration to `data/cloudfront-config.json`
+- ⏱️ Takes ~20 minutes (AWS deployment time)
+
+### 3. Test CloudFront
+
+```bash
+npm run test-cloudfront
+```
+
+Verifies:
+- ✅ CloudFront serves images correctly
+- ✅ Cache is working (Hit/Miss status)
+- ✅ HTTPS and compression enabled
+- ✅ No errors or access issues
+
+## Your New Image URLs
+
+After setup completes, your images will be accessible via:
+
+```
+https://YOUR-CLOUDFRONT-ID.cloudfront.net/lotimages/{auctionId}/{timestamp}/{filename}.jpg
+```
+
+**Example**:
+```
+https://d1a2b3c4d5e6f7.cloudfront.net/lotimages/3483/1713553344/i0178-1.jpg
+```
+
+**Get your CloudFront domain from**:
+- `data/cloudfront-config.json` after setup
+- Or run `npm run test-cloudfront`
+
+## Features
+
+### Performance
+- ✅ **Global CDN**: 450+ edge locations worldwide
+- ✅ **Low Latency**: ~50-200ms from edge
+- ✅ **High Cache Hit Rate**: 80-95% (faster, lower cost)
+- ✅ **Compression**: Automatic Gzip/Brotli
+
+### Security
+- ✅ **HTTPS Only**: TLS 1.2+ encryption
+- ✅ **Private S3**: Bucket not publicly accessible
+- ✅ **OAC**: CloudFront signs all S3 requests
+- ✅ **DDoS Protection**: AWS Shield Standard included
+
+### Cost
+- **Free Tier**: 1TB transfer + 10M requests/month (first year)
+- **Estimated Cost**: $0-20/month for typical usage
+- **Lower than direct S3**: Better caching = fewer S3 requests
+
+## Integration
+
+Update your application code:
+
+**Before** (old CloudFront):
+```javascript
+const imageUrl = `https://d278yjzsv5tla9.cloudfront.net/auctionimages/${id}/${ts}/${file}.jpg`;
+```
+
+**After** (new CloudFront):
+```javascript
+// Get domain from cloudfront-config.json or environment variable
+const CLOUDFRONT_DOMAIN = 'd1a2b3c4d5e6f7.cloudfront.net';
+const imageUrl = `https://${CLOUDFRONT_DOMAIN}/lotimages/${id}/${ts}/${file}.jpg`;
+```
+
+## Monitoring
+
+Access CloudFront Console:
+https://console.aws.amazon.com/cloudfront/
+
+**Key Metrics**:
+- Requests per minute
+- Data transfer (GB)
+- Cache hit rate (target: >80%)
+- Error rate (4xx/5xx)
+
+## Documentation
+
+- **Quick Start**: [CLOUDFRONT_QUICKSTART.md](CLOUDFRONT_QUICKSTART.md)
+- **Detailed Setup**: [docs/CLOUDFRONT_SETUP.md](docs/CLOUDFRONT_SETUP.md)
+- **Implementation Details**: [docs/CLOUDFRONT_IMPLEMENTATION.md](docs/CLOUDFRONT_IMPLEMENTATION.md)
+
+---
 
 ## Support
 
 - **Setup Issues**: See [AWS Setup Guide](docs/aws-setup-guide.md)
-- **Connection Test**: Run `node scripts/test-s3-connection.js`
+- **Connection Test**: Run `npm run test-s3`
+- **CloudFront Issues**: See [CloudFront Setup](CLOUDFRONT_QUICKSTART.md)
 - **Check Logs**: Review `data/migration.log` and `data/migration-errors.log`

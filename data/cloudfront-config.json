@@ -1,0 +1,16 @@
+{
+  "cloudfront": {
+    "distributionId": "E2U1T9Z34RX1ZK",
+    "domain": "dqfexh51rz6c5.cloudfront.net",
+    "arn": "arn:aws:cloudfront::891612576854:distribution/E2U1T9Z34RX1ZK",
+    "createdAt": "2025-10-24T19:53:21.096Z"
+  },
+  "s3": {
+    "bucket": "west-auction-images",
+    "region": "us-west-2"
+  },
+  "urls": {
+    "pattern": "https://dqfexh51rz6c5.cloudfront.net/lotimages/{auctionId}/{timestamp}/{filename}.jpg",
+    "example": "https://dqfexh51rz6c5.cloudfront.net/lotimages/3483/1713553344/i0178-1.jpg"
+  }
+}
