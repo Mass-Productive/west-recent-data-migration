@@ -38,9 +38,6 @@ Coming in Step 2 (after Step 1 data collection completes)
 ## Installation
 
 1. **Clone/Navigate to Project Directory**
-   ```bash
-   cd /Users/jophie/Dev/Repo/west-image-migration
-   ```
 
 2. **Install Dependencies**
    ```bash
