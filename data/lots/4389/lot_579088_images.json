@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579088/images",
+      "name": "Images for RIGID 4 Gallon 5.0 Peak HP Portable Shop Vac Wet Dry Vacuum with Fine Dust Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1133-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1133-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1133-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1133-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/we12ceb38-b607-4ebf-8344-c12c707feb50.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/we12ceb38-b607-4ebf-8344-c12c707feb50_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/w46c602d2-91a2-479e-9beb-2b9728f7f524.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579088/w46c602d2-91a2-479e-9beb-2b9728f7f524_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579088",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:57.180Z"
+}

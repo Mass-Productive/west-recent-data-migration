@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582380/images",
+      "name": "Images for WESTIN PRO TRAXX STEP BAR "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582380/app/19-1750-088610c0-79fb-4c89-ad2c-e934d30a267d/w0114-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582380/app/19-1750-088610c0-79fb-4c89-ad2c-e934d30a267d/w0114-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582380",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:45:53.048Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609372/images",
+      "name": "Images for (2) Upholstered Benches"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1552-7d81a2c2-a354-4e65-b82e-ab76564e6738/w0818-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1554-026f8689-d5a2-4c91-8715-b3eb122460f4/w0818-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1554-026f8689-d5a2-4c91-8715-b3eb122460f4/w0818-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609372",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:52.801Z"
+}

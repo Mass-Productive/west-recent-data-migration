@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557948/images",
+      "name": "Images for Tool head For Late Model Ponsness &#38; Warren 375C "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w35abe516-0c86-4e27-8a6f-45222a187548.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w35abe516-0c86-4e27-8a6f-45222a187548_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w2103e67e-267d-4907-b8b2-abeb9bcd6766.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w2103e67e-267d-4907-b8b2-abeb9bcd6766_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w5ce5f629-c076-4ed4-bd3b-948676bbd098.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w5ce5f629-c076-4ed4-bd3b-948676bbd098_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w071bb381-ffe4-43d6-910b-5915ba0ad63b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w071bb381-ffe4-43d6-910b-5915ba0ad63b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w66357073-f675-4af5-9f7b-d52ea35c391a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w66357073-f675-4af5-9f7b-d52ea35c391a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557948",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:36:52.133Z"
+}

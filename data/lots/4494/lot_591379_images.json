@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591379/images",
+      "name": "Images for RIDGID 14 Gallon 6.0 Peak HP NXT Shop Vacuum Wet Dry Vac with Fine Dust Filter, Locking Hose, Wands and Accessory Attachments - $119 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3083-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3083-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w9ef4b0ba-e5ac-436d-9cb7-726992f57c74.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w9ef4b0ba-e5ac-436d-9cb7-726992f57c74_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3083-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3083-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591379",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:46.860Z"
+}

@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/565364/images",
+      "name": "Images for (430) 2&#34; Maclura, (200) 2&#34; Teucrium Chamandris, (20) 2&#34; Acer P.J. Green "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206731x565364/w01776-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "565364",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:52:47.103Z"
+}

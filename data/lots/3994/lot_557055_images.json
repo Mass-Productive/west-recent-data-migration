@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3994/items/557055/images",
+      "name": "Images for (2) Round End Tables "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0134-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557055",
+  "auctionId": "3994",
+  "collectedAt": "2025-10-23T20:55:41.846Z"
+}

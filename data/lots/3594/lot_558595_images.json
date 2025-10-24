@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558595/images",
+      "name": "Images for (1) Uba Tuba 3cm Polished Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6cfdf946-b87c-4fdf-81fb-58cc65fcd5b3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6cfdf946-b87c-4fdf-81fb-58cc65fcd5b3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i644c455e-43b9-46c9-b687-f37354b73fdb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i644c455e-43b9-46c9-b687-f37354b73fdb_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i9f10e2af-4851-4b7e-9115-b0f63119f0b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i9f10e2af-4851-4b7e-9115-b0f63119f0b9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558595",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:55.469Z"
+}

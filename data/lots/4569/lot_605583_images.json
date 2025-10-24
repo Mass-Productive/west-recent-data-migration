@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605583/images",
+      "name": "Images for (2) Radial Tractor Tires"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tires.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tires_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresa.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresa_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresb.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresb_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresc.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/1753978888/w18.4R.26_Tractor_Tiresc_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/31-1946-a23bee48-3877-4839-9b49-2c438ba46ab4/w0104-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/31-1946-a23bee48-3877-4839-9b49-2c438ba46ab4/w0104-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605583",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:25:32.579Z"
+}

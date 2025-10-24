@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581809/images",
+      "name": "Images for Shimano ultegra cs-6800 11 speed 11-28t cassette silver "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0303-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581809",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:38:41.348Z"
+}

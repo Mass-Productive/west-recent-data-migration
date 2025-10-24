@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591322/images",
+      "name": "Images for Bosch Compact Tripod with Extendable Height for Use with Line Lasers, Point Lasers, and Laser Distance Tape Measuring Tools - $79 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3053-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591322",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:24.307Z"
+}

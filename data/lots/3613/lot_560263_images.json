@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560263/images",
+      "name": "Images for (5) Metal Motorcycle Tire Displays"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-1_t.jpg",
+      "image_width": "320",
+      "image_height": "270",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-1937-210f0043-45fc-4d8f-bba4-eb2a8c451b9a/i0224-7_t.jpg",
+      "image_width": "283",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560263",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:03.702Z"
+}

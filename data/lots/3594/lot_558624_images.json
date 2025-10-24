@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558624/images",
+      "name": "Images for (4) Verde Fire 2cm Polished Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia5ac6831-182d-4e54-833b-5dfd525e878a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia5ac6831-182d-4e54-833b-5dfd525e878a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6a6c16c8-a5a7-46a6-8e67-418c20979d49.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6a6c16c8-a5a7-46a6-8e67-418c20979d49_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/iad1e779d-3ab2-45db-b5b0-1dc3f3884aa6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/iad1e779d-3ab2-45db-b5b0-1dc3f3884aa6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558624",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:07.111Z"
+}

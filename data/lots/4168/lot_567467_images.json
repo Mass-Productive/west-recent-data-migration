@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4168/items/567467/images",
+      "name": "Images for (10) Sylvania MR-16 lamps"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0799-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "567467",
+  "auctionId": "4168",
+  "collectedAt": "2025-10-23T21:08:33.723Z"
+}

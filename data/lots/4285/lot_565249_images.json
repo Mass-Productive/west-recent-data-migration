@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/565249/images",
+      "name": "Images for (25) 5 Gallon Rhaphiolepis Ballerina "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565249/wecb002b6-8363-43f4-b6d1-ff009801d670.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565249/wecb002b6-8363-43f4-b6d1-ff009801d670_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565249/w9d9237eb-d62e-407e-9f86-8d4a488a6471.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565249/w9d9237eb-d62e-407e-9f86-8d4a488a6471_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "565249",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:52:05.192Z"
+}

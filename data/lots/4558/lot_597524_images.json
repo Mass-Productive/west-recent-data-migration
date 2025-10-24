@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597524/images",
+      "name": "Images for ProMaxima Raptor Series Sitting Bench"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/26-2021-1c194464-aea6-439e-8b59-41a4c061b327/w0142-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597524",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:19:27.627Z"
+}

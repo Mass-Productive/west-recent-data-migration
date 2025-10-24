@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583889/images",
+      "name": "Images for Bontrager Knee Warmer Large"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/wc2e96e06-f1de-4a1b-8263-d8d6f4346790.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/wc2e96e06-f1de-4a1b-8263-d8d6f4346790_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/w620eda51-8bcd-42f9-8e83-89dde06a7fee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/w620eda51-8bcd-42f9-8e83-89dde06a7fee_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/we7487993-a40c-4c4b-b746-ef1576445e83.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583889/we7487993-a40c-4c4b-b746-ef1576445e83_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583889",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:22.634Z"
+}

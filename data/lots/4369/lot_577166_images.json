@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577166/images",
+      "name": "Images for (51) Cream Colored Travertine Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0173-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577166",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:25.711Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572596/images",
+      "name": "Images for 150’ Cam Lock 2-Phase Cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572596/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2431-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572596/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2431-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572596/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2431-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572596/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2431-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572596",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:24.983Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4414/items/589814/images",
+      "name": "Images for Hobart Deli Slicer Manual "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0126-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589814",
+  "auctionId": "4414",
+  "collectedAt": "2025-10-24T00:29:23.988Z"
+}

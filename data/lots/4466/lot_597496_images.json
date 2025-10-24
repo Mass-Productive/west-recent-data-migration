@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/597496/images",
+      "name": "Images for Stainless Steel Table (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/w46f3ece8-b400-4d07-a3c9-6274c3157fb9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/w46f3ece8-b400-4d07-a3c9-6274c3157fb9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597496/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0910-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597496",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:06:30.759Z"
+}

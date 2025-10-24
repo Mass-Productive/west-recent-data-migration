@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/607994/images",
+      "name": "Images for Hampton Bay Sadler 29.33&#34; Rubbed Bronze Steel Outdoor Wood Fire Pit with Cover"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9983.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9983_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_0043.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_0043_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_0044.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_0044_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9984.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9984_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9985.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046818/wIMG_9985_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607994",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:41:57.967Z"
+}

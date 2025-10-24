@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585812/images",
+      "name": "Images for BESSEY 6 in. Heavy-Duty Bench Vise with Swivel Base - $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2187-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585812",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:27.679Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558712/images",
+      "name": "Images for Dolly"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1756-a22ec799-6e4a-417f-9697-4341da352630/w0172-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558712",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:56.267Z"
+}

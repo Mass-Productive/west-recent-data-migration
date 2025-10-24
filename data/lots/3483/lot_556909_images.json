@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/556909/images",
+      "name": "Images for Stage Lighting Gels "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0553-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "556909",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:12.152Z"
+}

@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561225/images",
+      "name": "Images for (3) Boxes: Assorted DVDs CDs And Books "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1125-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561225",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:49:10.116Z"
+}

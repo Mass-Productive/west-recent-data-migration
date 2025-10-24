@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4413/items/591084/images",
+      "name": "Images for (4) Black HDPE High Density PolyEthylene Pipes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-2.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-2_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-1.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-1_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-3.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-3_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-4.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-4_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-5.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-5_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-6.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-6_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-7.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/680168aad1ed4/w0133-7_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591084",
+  "auctionId": "4413",
+  "collectedAt": "2025-10-24T00:28:27.880Z"
+}

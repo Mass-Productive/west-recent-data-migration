@@ -1,0 +1,78 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597295/images",
+      "name": "Images for Freightliner Cascadia Hood "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/24-2204-e2a5fbe9-5f9f-4352-8a78-58a223b3585b/w0162-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/25-1556-52fbb556-bf92-4bf9-88bf-e3e8b62e9db0/w0162-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/25-1556-52fbb556-bf92-4bf9-88bf-e3e8b62e9db0/w0162-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/d6d70e08/w946907fc-61aa-4a59-a8ef-c9af533aa126.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/d6d70e08/w946907fc-61aa-4a59-a8ef-c9af533aa126_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/d6d70e08/w70c7570d-f5b7-43bb-8e65-b5dc0ec845d3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/d6d70e08/w70c7570d-f5b7-43bb-8e65-b5dc0ec845d3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597295",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:33.289Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595280/images",
+      "name": "Images for Westward Rolling Tool Box "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0470-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595280",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:57:59.365Z"
+}

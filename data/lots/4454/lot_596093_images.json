@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596093/images",
+      "name": "Images for Edlund Knife Sterilizer Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2042-4c286942-7026-4993-9605-34daad3faa52/w0110-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596093",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:12.342Z"
+}

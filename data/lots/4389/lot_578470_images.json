@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578470/images",
+      "name": "Images for RIDGID 18V Hybrid Jobsite Radio with Bluetooth Technology (Tool Only)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578470/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1093-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578470",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:01.905Z"
+}

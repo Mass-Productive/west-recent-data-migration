@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608871/images",
+      "name": "Images for (2) Glacier Bay 16 in. W x 26 in. H Rectangular Wood Composite Medicine Cabinet with Mirror - $159 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608871/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1540-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608871",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:30.722Z"
+}

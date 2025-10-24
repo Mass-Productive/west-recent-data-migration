@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4388/items/582289/images",
+      "name": "Images for (108) Scribner Plastics Utility Jugs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/05-2131-865da2e1-7b2a-41d3-a85b-f5e457b88717/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/05-2131-865da2e1-7b2a-41d3-a85b-f5e457b88717/w0109-1_t.jpg",
+      "image_width": "320",
+      "image_height": "174",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/01-2111-1d900233-4ec2-4686-89f8-b67deb3dc22d/w0109-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582289",
+  "auctionId": "4388",
+  "collectedAt": "2025-10-24T00:15:22.099Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595452/images",
+      "name": "Images for (2) Rotary Vacuum Pumps, (2) Control Panels, And (1) Centrifugal Blower "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0287-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595452",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:59:08.653Z"
+}

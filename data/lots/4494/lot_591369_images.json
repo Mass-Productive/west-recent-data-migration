@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591369/images",
+      "name": "Images for Ridgid Wet/Dry Shop Vac"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0517-c4a28796-ad4e-4f82-9f74-639b7048815d/wH3093-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591369",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:42.810Z"
+}

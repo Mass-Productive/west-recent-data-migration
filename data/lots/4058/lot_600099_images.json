@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600099/images",
+      "name": "Images for (3) Gatco Chrome Robe Hooks"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-4-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0102-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600099",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:55.961Z"
+}

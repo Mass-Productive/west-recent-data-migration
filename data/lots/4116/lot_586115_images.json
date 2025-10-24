@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586115/images",
+      "name": "Images for EAW CIS400 70v Ceiling Speakers (pair)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0160-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586115",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:06.246Z"
+}

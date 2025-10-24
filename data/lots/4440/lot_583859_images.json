@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583859/images",
+      "name": "Images for Trek Skull Cap UV Protection"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w107af831-5881-489a-93e8-95b2fb262be8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w107af831-5881-489a-93e8-95b2fb262be8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w9be89d52-1b58-433d-a30e-dcd374ca183b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w9be89d52-1b58-433d-a30e-dcd374ca183b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w0829f68d-2f1e-4159-afe0-b1b0a0d93796.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583859/w0829f68d-2f1e-4159-afe0-b1b0a0d93796_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583859",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:10.457Z"
+}

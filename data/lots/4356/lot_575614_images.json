@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575614/images",
+      "name": "Images for (2) 6’ Fold Out Tables With Benches And (2) 6’ Folding Tables "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wa323fe3d-4b77-4246-bbd1-214088d5add4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wa323fe3d-4b77-4246-bbd1-214088d5add4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w864561fd-88d0-48d4-8b16-0aa94af99367.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w864561fd-88d0-48d4-8b16-0aa94af99367_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w85d23d0e-58fb-4402-be15-497706407863.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w85d23d0e-58fb-4402-be15-497706407863_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w1b03412e-1ab4-4eed-94ed-0a6dcc5ca42c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w1b03412e-1ab4-4eed-94ed-0a6dcc5ca42c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w2a2e7cf7-91e6-4b5a-8ba2-d816d45115d3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w2a2e7cf7-91e6-4b5a-8ba2-d816d45115d3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575614",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:11:48.275Z"
+}

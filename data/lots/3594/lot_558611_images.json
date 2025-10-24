@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558611/images",
+      "name": "Images for (1) Amazon Blue Polished Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i0bbe42aa-8263-4064-b6ff-85847288db42.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i0bbe42aa-8263-4064-b6ff-85847288db42_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i946d7a1b-62dc-4351-b3f5-13407366258c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i946d7a1b-62dc-4351-b3f5-13407366258c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558611",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:01.867Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601564/images",
+      "name": "Images for Bi-Parting Galvanized Wrought Iron Gate H4.9&#39;xW5.9&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601564/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1084-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601564",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:24.061Z"
+}

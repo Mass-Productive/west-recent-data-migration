@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586076/images",
+      "name": "Images for Anchor audio AN-100 powered speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/29-0117-c1d92bf1-4c7f-4716-bbce-e7cf24d58135/w0130-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586076",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:50.554Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/581568/images",
+      "name": "Images for 33&#39;x3.3&#39; Roll of Self Adhesive Heat Insulation - 108sqft Total (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581568/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0676-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581568",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:34:21.958Z"
+}

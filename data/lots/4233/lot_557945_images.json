@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557945/images",
+      "name": "Images for (4) Assorted Welding Eye Protection "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w13773325-7c25-4d70-912d-5a398a9282ce.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w13773325-7c25-4d70-912d-5a398a9282ce_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w1f9bf8d6-8fae-4e83-9204-ead3f435181e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w1f9bf8d6-8fae-4e83-9204-ead3f435181e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wd134d96e-3998-49ab-b0b5-25b73ce14d40.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wd134d96e-3998-49ab-b0b5-25b73ce14d40_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w9c1b6a7f-1baa-40a8-903d-00970c7d1a53.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w9c1b6a7f-1baa-40a8-903d-00970c7d1a53_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557945",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:36:50.926Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/586372/images",
+      "name": "Images for Louisville 1’ Stepstool"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0656-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586372",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:45:18.146Z"
+}

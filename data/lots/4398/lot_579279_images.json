@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579279/images",
+      "name": "Images for Manitowoc Ice Maker With Dispenser "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0107-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579279",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:06.308Z"
+}

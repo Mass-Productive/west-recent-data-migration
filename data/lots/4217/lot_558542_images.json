@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558542/images",
+      "name": "Images for (10) OSRAM 54659 Halogen Lamp"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1812-ce8cad37-fb18-49fc-89e2-bc8ff418e27b/w1152-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1905-046d7012-2d7d-401b-9080-866021926943/w1152-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1905-046d7012-2d7d-401b-9080-866021926943/w1152-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558542",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:32.760Z"
+}

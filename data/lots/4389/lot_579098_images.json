@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579098/images",
+      "name": "Images for Schlage B62 Series Aged Bronze Double Cylinder Deadbolt Certified Highest for Security and Durability"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579098/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1300-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579098",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:01.279Z"
+}

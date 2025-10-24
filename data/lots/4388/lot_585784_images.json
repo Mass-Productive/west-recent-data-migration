@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4388/items/585784/images",
+      "name": "Images for 1000lbs Swivel Hoist"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/09-2029-e8d18238-b955-416b-b079-ef68ef0a47ae/w0135-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585784",
+  "auctionId": "4388",
+  "collectedAt": "2025-10-24T00:15:33.537Z"
+}

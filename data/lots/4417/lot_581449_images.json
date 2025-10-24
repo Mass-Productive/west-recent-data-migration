@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/581449/images",
+      "name": "Images for Bakers Rack With Trays And Other Cookware (Located in Woodland CA)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1000-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581449",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:32.667Z"
+}

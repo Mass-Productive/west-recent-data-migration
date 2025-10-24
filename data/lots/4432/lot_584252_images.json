@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/584252/images",
+      "name": "Images for Louisville 1’ Step Stool"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0530-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584252",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:44:21.495Z"
+}

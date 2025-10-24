@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559581/images",
+      "name": "Images for Heated Cabinet Only "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0158-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559581",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:18.983Z"
+}

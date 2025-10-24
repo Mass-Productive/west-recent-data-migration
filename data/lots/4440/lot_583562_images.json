@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583562/images",
+      "name": "Images for Bontrager se elite mtb grip lot of 3"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583562/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0891-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583562",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:47:10.024Z"
+}

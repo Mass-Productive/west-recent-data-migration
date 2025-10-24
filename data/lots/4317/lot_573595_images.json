@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573595/images",
+      "name": "Images for 6’ Rug With (4) Brazilian Coffee Bags "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/we4729eb7-7223-492d-a751-0ac8171850bb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/we4729eb7-7223-492d-a751-0ac8171850bb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wffadec73-c463-452f-a142-8e72d5c7668b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wffadec73-c463-452f-a142-8e72d5c7668b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1ecabc0f-128a-4a39-b9cc-9d7ecfd8f3a8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1ecabc0f-128a-4a39-b9cc-9d7ecfd8f3a8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w85e13c65-07fb-404c-8f56-0014cdf86e02.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w85e13c65-07fb-404c-8f56-0014cdf86e02_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w468f4590-90d9-4bda-bbef-ec5df445e8bb-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w468f4590-90d9-4bda-bbef-ec5df445e8bb-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573595",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:55.982Z"
+}

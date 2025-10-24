@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573226/images",
+      "name": "Images for Heat Shrink Tubing"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573226/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2210-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573226/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2210-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573226",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:38.249Z"
+}

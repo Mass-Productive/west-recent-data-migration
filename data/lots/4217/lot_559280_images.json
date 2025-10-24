@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/559280/images",
+      "name": "Images for Blackhurst Stage Gear Box (W x 20”  H x 16”  D x 20”)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2123-00767345-4af3-4c20-ba45-fbf950f3a88d/w1192-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559280",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:47.550Z"
+}

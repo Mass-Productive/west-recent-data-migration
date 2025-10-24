@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572035/images",
+      "name": "Images for Contents Of Bin: (3) 10’x20’ Vinyl Tent Canopy Tops "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/wd56730ce-0ead-4f42-aa1a-9daeed194493.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/wd56730ce-0ead-4f42-aa1a-9daeed194493_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/wd2896380-1a84-4201-a07b-6c1a5d5862b3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/wd2896380-1a84-4201-a07b-6c1a5d5862b3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w96acf54a-82be-4b81-a521-1368b4f6f282.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w96acf54a-82be-4b81-a521-1368b4f6f282_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w48295b9e-1a1f-4239-960c-47866808d53f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w48295b9e-1a1f-4239-960c-47866808d53f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w048399cf-acb1-4c0e-8a5d-43a460206a8c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572035/w048399cf-acb1-4c0e-8a5d-43a460206a8c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572035",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:02.539Z"
+}

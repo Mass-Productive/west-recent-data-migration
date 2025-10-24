@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4414/items/589805/images",
+      "name": "Images for One Section Reach In Refrigerator Stainless Steel Door"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/15-0002-7e02266a-ada9-4d5e-ad7d-e9d980c55d03/w0113-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589805",
+  "auctionId": "4414",
+  "collectedAt": "2025-10-24T00:29:20.371Z"
+}

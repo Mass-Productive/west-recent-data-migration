@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560513/images",
+      "name": "Images for B + W 49mm ND 3.0 10-Stop Neutral Density Filter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1211-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560513",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:55.985Z"
+}

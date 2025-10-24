@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572018/images",
+      "name": "Images for (5) 32 Gallon Rubbermaid Garbage Cans "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/we736e53c-213d-4916-968d-766dd8668669.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/we736e53c-213d-4916-968d-766dd8668669_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wbf003e33-e0cc-417b-b9f1-c7d0d593027c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wbf003e33-e0cc-417b-b9f1-c7d0d593027c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wb10cf37f-fc76-4bde-947f-b6f2edfddd9b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wb10cf37f-fc76-4bde-947f-b6f2edfddd9b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/w14e5e35e-392a-40ef-a634-a06273e0a2bf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/w14e5e35e-392a-40ef-a634-a06273e0a2bf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wad841e91-596c-4b39-a35f-7c795d5885e8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572018/wad841e91-596c-4b39-a35f-7c795d5885e8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572018",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:13:55.657Z"
+}

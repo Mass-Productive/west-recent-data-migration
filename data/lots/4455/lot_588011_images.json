@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588011/images",
+      "name": "Images for Burley Trailer Parts "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588011/app/15-0352-0f88da8b-a1ce-42ec-8cae-60bb149af68e/w1955-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588011/app/15-0352-0f88da8b-a1ce-42ec-8cae-60bb149af68e/w1955-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588011",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:51.618Z"
+}

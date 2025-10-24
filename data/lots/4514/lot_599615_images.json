@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599615/images",
+      "name": "Images for Lot of Beer Garden Tables And Benches"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/13-0142-c1be6c87-7656-4276-852a-899f2a63818a/w0245-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599615",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:23.125Z"
+}

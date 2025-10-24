@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594412/images",
+      "name": "Images for HDX 5 Tier Plastic Adjustable Garage Storage Shelving Unit in Black (48 in. W x 75 in. H x 24 in. D) - $109 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594412/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3697-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594412",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:18.158Z"
+}

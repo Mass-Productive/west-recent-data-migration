@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585268/images",
+      "name": "Images for Outer Front Motorcycle Flaring "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0518-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585268",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:33:16.916Z"
+}

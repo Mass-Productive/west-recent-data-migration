@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579326/images",
+      "name": "Images for Insulated Cambro Catering Box 4” Deep"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2339-49e9c0e7-43c9-4425-97c1-cf7a12751783/w0152-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579326",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:25.114Z"
+}

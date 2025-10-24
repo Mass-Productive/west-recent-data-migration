@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591460/images",
+      "name": "Images for Husky 4-Tier Industrial Duty Steel Freestanding Garage Storage Shelving Unit in Black (77 in. W x 72 in. H x 24 in. D) - $229 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3112.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3112_t.png",
+      "image_width": "320",
+      "image_height": "241",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3112-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591460",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:19.039Z"
+}

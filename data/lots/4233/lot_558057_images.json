@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558057/images",
+      "name": "Images for Starrett Dial Indictaor Components "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0220-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558057",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:36.383Z"
+}

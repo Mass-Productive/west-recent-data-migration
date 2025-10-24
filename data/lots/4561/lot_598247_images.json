@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598247/images",
+      "name": "Images for Husky Pneumatic 3-in-1 15.5-Gauge and 16-Gauge 2 in. Flooring Nailer and Stapler with Quick Jam Release -$169 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1180-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1180-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1180-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1180-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598247",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:36.252Z"
+}

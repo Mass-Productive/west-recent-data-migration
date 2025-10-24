@@ -1,0 +1,85 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4413/items/591059/images",
+      "name": "Images for Furnace"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-4.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-4_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-1.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-1_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-2.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-2_t.JPG",
+      "image_width": "320",
+      "image_height": "277",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-3.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-3_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-5.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-5_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-6.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-6_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-7.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-7_t.JPG",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-8.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-8_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-9.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-9_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-10.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/67d9d727abef2/w107-10_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591059",
+  "auctionId": "4413",
+  "collectedAt": "2025-10-24T00:28:18.638Z"
+}

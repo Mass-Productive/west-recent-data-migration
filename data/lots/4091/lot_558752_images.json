@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4091/items/558752/images",
+      "name": "Images for Weight Plate Set Lot"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w741eff0f-748d-4c9a-8da1-27ab707ad2fe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w741eff0f-748d-4c9a-8da1-27ab707ad2fe_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wd2ac34d5-8ca4-4132-9c7b-34abd76af69a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wd2ac34d5-8ca4-4132-9c7b-34abd76af69a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wc5eebb51-29b1-4aba-b004-9628e63eda77.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wc5eebb51-29b1-4aba-b004-9628e63eda77_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wf2bf21bb-544e-4b1e-a68b-391b4b593be5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wf2bf21bb-544e-4b1e-a68b-391b4b593be5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w4c4286a3-ed9c-468c-8a45-575f5c2e75c1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w4c4286a3-ed9c-468c-8a45-575f5c2e75c1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7d2a1f53-dc3e-4a5a-9194-d51fcb0d0a29.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7d2a1f53-dc3e-4a5a-9194-d51fcb0d0a29_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558752",
+  "auctionId": "4091",
+  "collectedAt": "2025-10-23T20:58:42.663Z"
+}

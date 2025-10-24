@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582390/images",
+      "name": "Images for VEHICLE SEAT   "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582390/app/26-1500-b2d0dee6-5c45-44af-91b4-cce149ad4121/w0122-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582390/app/26-1500-b2d0dee6-5c45-44af-91b4-cce149ad4121/w0122-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582390",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:45:57.095Z"
+}

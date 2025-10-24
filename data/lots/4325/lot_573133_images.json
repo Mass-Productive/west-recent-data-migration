@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573133/images",
+      "name": "Images for (6) Power Outlet Strips"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573133/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2335-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573133/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2335-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573133/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2335-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573133/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2335-2-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573133",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:00.350Z"
+}

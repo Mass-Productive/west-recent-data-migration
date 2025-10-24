@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575121/images",
+      "name": "Images for White Reusable HDPE Anti Bird Garden Protection Mesh, 20&#39;x98.5&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575121/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0400-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575121",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:51:25.727Z"
+}

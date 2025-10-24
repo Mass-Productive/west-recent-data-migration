@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4168/items/567441/images",
+      "name": "Images for (11) general electric dwe 120v 650w"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0781-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "567441",
+  "auctionId": "4168",
+  "collectedAt": "2025-10-23T21:08:23.753Z"
+}

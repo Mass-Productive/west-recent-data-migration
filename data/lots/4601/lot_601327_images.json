@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4601/items/601327/images",
+      "name": "Images for (3) Signode Combination Strapping Tools"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/11-1447-827bd2d6-3092-4005-a4c8-3fd65cc0ac9a/w0265-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601327",
+  "auctionId": "4601",
+  "collectedAt": "2025-10-24T02:30:52.735Z"
+}

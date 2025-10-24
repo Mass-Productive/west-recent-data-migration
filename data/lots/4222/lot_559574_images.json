@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559574/images",
+      "name": "Images for Insulated Stainless Steel Smoker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/19-2218-3b1c7d59-f1d2-43de-b321-c60712a0fb7a/w0155-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559574",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:16.010Z"
+}

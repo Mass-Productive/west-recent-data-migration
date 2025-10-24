@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583636/images",
+      "name": "Images for Trek bontrager women’s circuit rain jacket size medium"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583636/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0924-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583636",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:47:40.263Z"
+}

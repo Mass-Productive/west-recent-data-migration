@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4492/items/592664/images",
+      "name": "Images for (1) Pallet of Cobble Stone Mojave Blend Rectangle Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746733857/wIMG_3529.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746733857/wIMG_3529_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4118-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4118-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592664",
+  "auctionId": "4492",
+  "collectedAt": "2025-10-24T01:48:50.996Z"
+}

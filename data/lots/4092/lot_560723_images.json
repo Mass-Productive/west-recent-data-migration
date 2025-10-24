@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/560723/images",
+      "name": "Images for (1) Pallet of U Beam Gray Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3925.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3925_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3927.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3927_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3926.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3926_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3928.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429909x560723/w0015AIMG_3928_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560723",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T21:00:26.499Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4545/items/595190/images",
+      "name": "Images for (3) Can-Am defender Doors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4545/1749495398/w68472e683b07b.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4545/1749495398/w68472e683b07b_t.JPG",
+      "image_width": "164",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4545/1749495398/w68472e67977d6.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4545/1749495398/w68472e67977d6_t.JPG",
+      "image_width": "320",
+      "image_height": "164",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595190",
+  "auctionId": "4545",
+  "collectedAt": "2025-10-24T02:10:15.543Z"
+}

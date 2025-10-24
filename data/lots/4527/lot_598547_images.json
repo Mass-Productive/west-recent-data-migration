@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598547/images",
+      "name": "Images for (15) Muffin Trays Fits 12 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0207-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598547",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:05.908Z"
+}

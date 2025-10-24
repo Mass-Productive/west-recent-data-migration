@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581895/images",
+      "name": "Images for Cash Drawer (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-1-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2130-ef0d5629-c23c-4876-a5f1-d84ed01e61ee/w0112-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581895",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:15.953Z"
+}

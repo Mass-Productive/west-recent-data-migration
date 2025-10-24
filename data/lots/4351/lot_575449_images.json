@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4351/items/575449/images",
+      "name": "Images for GR T-Series T3A3-B Self-Priming Centrifugal Pump Housing"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0245-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575449",
+  "auctionId": "4351",
+  "collectedAt": "2025-10-24T00:11:25.813Z"
+}

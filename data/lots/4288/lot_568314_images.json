@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4288/items/568314/images",
+      "name": "Images for Reelcraft Hose Reel Model 6Z160"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4288/cp1730501706x568314/app/10-1546-5b74d9d0-1ca5-4876-a451-b657fe57bc7c/w0402-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568314",
+  "auctionId": "4288",
+  "collectedAt": "2025-10-23T21:53:33.116Z"
+}

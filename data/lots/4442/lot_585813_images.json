@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585813/images",
+      "name": "Images for RIDGID 6 Gal. 150 PSI Portable Electric Pancake Air Compressor - $99 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2186-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585813",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:28.079Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590047/images",
+      "name": "Images for Delta Drill Press"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2019-c5b2f0e1-f88b-4246-b643-730b966991e6/w0211-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590047",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:27.140Z"
+}

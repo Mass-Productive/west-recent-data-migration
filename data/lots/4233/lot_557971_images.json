@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557971/images",
+      "name": "Images for Tiltall Aluminum Tripod "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w6e8ffa5e-2848-4da8-a99d-382075af8f10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w6e8ffa5e-2848-4da8-a99d-382075af8f10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w2a4750bd-a859-4d78-a2a2-3dbb40dccfb8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w2a4750bd-a859-4d78-a2a2-3dbb40dccfb8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/we74b1136-1314-4c03-af94-258eb48f797e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/we74b1136-1314-4c03-af94-258eb48f797e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557971",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:01.413Z"
+}

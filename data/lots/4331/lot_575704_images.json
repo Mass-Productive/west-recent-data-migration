@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/575704/images",
+      "name": "Images for Metal Storage Cage - 49&#34;x29&#34;x16”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/app/15-0548-a1e2f821-f41b-44e8-a8cb-526bdc086553/w0301-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575704",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:11:25.092Z"
+}

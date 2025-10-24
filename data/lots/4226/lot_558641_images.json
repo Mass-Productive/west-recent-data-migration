@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558641/images",
+      "name": "Images for Multiquip GloBug 4-spot Lamp Stand"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-6-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1322-55dbb0d7-a917-4111-bec9-d9efe51ee3d9/w0101-6-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558641",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:31.469Z"
+}

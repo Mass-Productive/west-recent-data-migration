@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585828/images",
+      "name": "Images for RIDGID 16 Gallon 6.5 Peak HP NXT Wet Dry Shop Vac with Detachable Blower, Filter, Locking Hose and Accessories - $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2171-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585828",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:34.184Z"
+}

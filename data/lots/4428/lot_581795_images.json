@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581795/images",
+      "name": "Images for Dell computer, 32” monitor, keyboard, mouse 1.8 TB HDD"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-1648-23471072-cf3f-4a3c-bac8-344c89687f5f/w0104-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-1648-23471072-cf3f-4a3c-bac8-344c89687f5f/w0104-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/22-1803-a161af3c-88cd-4927-8db3-87eb11a2c8ee/w0270-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/22-1803-a161af3c-88cd-4927-8db3-87eb11a2c8ee/w0270-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/22-1803-a161af3c-88cd-4927-8db3-87eb11a2c8ee/w0270-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/22-1803-a161af3c-88cd-4927-8db3-87eb11a2c8ee/w0270-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581795",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:38:35.642Z"
+}

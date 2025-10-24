@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573800/images",
+      "name": "Images for Central Machinery 30” Pedestal Shop Fan "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w15bcbec2-5070-4ffa-b3b7-f7b91e1d6ea1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w15bcbec2-5070-4ffa-b3b7-f7b91e1d6ea1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wc2a64bb5-3f5c-4fc7-be5b-d77152bd279b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wc2a64bb5-3f5c-4fc7-be5b-d77152bd279b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w5578042a-9bae-46f3-b083-4d1a58ba82f2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w5578042a-9bae-46f3-b083-4d1a58ba82f2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w9f452406-4f08-46d9-bad1-d18b059625e2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w9f452406-4f08-46d9-bad1-d18b059625e2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573800",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:32:51.526Z"
+}

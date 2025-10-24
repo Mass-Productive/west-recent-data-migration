@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595301/images",
+      "name": "Images for (2) Dayton Fans "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wffd8c3d8-3100-4ad3-9042-a63ae9a914f8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wffd8c3d8-3100-4ad3-9042-a63ae9a914f8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/we4b3a7c5-1793-490b-a916-675fa1af4f25.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/we4b3a7c5-1793-490b-a916-675fa1af4f25_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w0de62ee5-74c5-461b-86d9-97fb22879563.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w0de62ee5-74c5-461b-86d9-97fb22879563_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wf3b8e757-203c-486d-949e-13db62ba1eb1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wf3b8e757-203c-486d-949e-13db62ba1eb1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w26238b23-18c7-4d70-b46a-8912fe20bed6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w26238b23-18c7-4d70-b46a-8912fe20bed6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w49ad1fd6-9720-49d1-b6fb-af15ea7ec0d2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w49ad1fd6-9720-49d1-b6fb-af15ea7ec0d2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595301",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:58:07.845Z"
+}

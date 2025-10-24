@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/571630/images",
+      "name": "Images for (6) Crates Of (25) Wine Glasses - Approximately (150) Glasses Total"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571630/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0545-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571630",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:11:17.649Z"
+}

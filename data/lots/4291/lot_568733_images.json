@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568733/images",
+      "name": "Images for Pile of Approximately (11) Tarps "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w7a6d6ae5-9a5a-4c40-ae3d-961a396b0293.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w7a6d6ae5-9a5a-4c40-ae3d-961a396b0293_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w42cca798-4336-4baf-8a22-1fed8e947282.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w42cca798-4336-4baf-8a22-1fed8e947282_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/wa0ec1077-88ae-4f48-883f-308873e56e20.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/wa0ec1077-88ae-4f48-883f-308873e56e20_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w1039c335-1161-4482-89ce-672b5248f56f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w1039c335-1161-4482-89ce-672b5248f56f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w48bd7883-b565-4f82-81ca-600326f58cde.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/84daf221/w48bd7883-b565-4f82-81ca-600326f58cde_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568733",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:45.012Z"
+}

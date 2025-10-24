@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558582/images",
+      "name": "Images for Roller Tables "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia6c5027d-0ebe-49d3-8f0f-777d06a6914a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia6c5027d-0ebe-49d3-8f0f-777d06a6914a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6fa577d7-9150-487a-aa5b-9a22e21db1ec.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i6fa577d7-9150-487a-aa5b-9a22e21db1ec_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3798e0ff-51a2-461d-ba29-f9454c08a77b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3798e0ff-51a2-461d-ba29-f9454c08a77b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i5cfa622d-7f05-467a-9552-8ebdeb357e97.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i5cfa622d-7f05-467a-9552-8ebdeb357e97_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i99c5f693-3fa9-4976-ae01-c168def87fb6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i99c5f693-3fa9-4976-ae01-c168def87fb6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia9e9d64e-b083-45de-8958-08eb01770a88.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia9e9d64e-b083-45de-8958-08eb01770a88_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558582",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:50.322Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4601/items/601651/images",
+      "name": "Images for Steel Storage Rack with (96) Divots"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/app/13-1919-0809da6b-b115-4b0f-b219-3c7f433ab7d0/w0321-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601651",
+  "auctionId": "4601",
+  "collectedAt": "2025-10-24T02:31:13.863Z"
+}

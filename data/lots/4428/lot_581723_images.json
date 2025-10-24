@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581723/images",
+      "name": "Images for Bike Display Rack, 20&#39;x5, (Bikes Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0265-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581723",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:38:10.325Z"
+}

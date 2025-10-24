@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558067/images",
+      "name": "Images for (15) Split Dorf Spark Plugs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w6caef583-ecfc-4f8b-af13-92e14690daf7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w6caef583-ecfc-4f8b-af13-92e14690daf7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w27109f06-56f8-4a08-8be3-141917998cdc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w27109f06-56f8-4a08-8be3-141917998cdc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0230-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558067",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:40.385Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599355/images",
+      "name": "Images for 3/4 in. Tankless Water Heater Valves Installation Kit- $139 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1404-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599355",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:30.512Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557946/images",
+      "name": "Images for Contents Of Box: Approximately (14) Handloaders Digest Books"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w72a449ff-9e0d-40d7-bcd0-e44da472c4ea.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w72a449ff-9e0d-40d7-bcd0-e44da472c4ea_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w851ed4e9-55de-49a7-9896-e1b7cbc3c523.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w851ed4e9-55de-49a7-9896-e1b7cbc3c523_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w53619bef-5a8f-495b-873b-0de546d2c571.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w53619bef-5a8f-495b-873b-0de546d2c571_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w3d895cf0-2580-411a-899d-ed3da191a8ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w3d895cf0-2580-411a-899d-ed3da191a8ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wd429ddf0-b0fb-42d9-9ec5-ea53d4214a11-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wd429ddf0-b0fb-42d9-9ec5-ea53d4214a11-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557946",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:36:51.315Z"
+}

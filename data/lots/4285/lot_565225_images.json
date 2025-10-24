@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/565225/images",
+      "name": "Images for (25) 5 Gallon Rusmarinus Prostrata "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/w6669cd6a69cdb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/w6669cd6a69cdb_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/we00707ee-3bd7-4613-91d1-d6c2fc463e1b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/we00707ee-3bd7-4613-91d1-d6c2fc463e1b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/wdc95b902-79a6-40a5-8747-569f0992783c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729206541x565225/wdc95b902-79a6-40a5-8747-569f0992783c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "565225",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:51:55.420Z"
+}

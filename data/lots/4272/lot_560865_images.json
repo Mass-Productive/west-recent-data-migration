@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/560865/images",
+      "name": "Images for (4) Vinyl Chairs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-6-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-6-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0923-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560865",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:46:45.125Z"
+}

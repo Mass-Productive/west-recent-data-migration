@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4200/items/566280/images",
+      "name": "Images for Ferguson – Sherman Three Point Soil Chisel"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1208_(1).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1208_(1)_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1209.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1209_t.jpeg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1209.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1209_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1210.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wIMG_1210_t.jpeg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wtempImageLunDuL.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wtempImageLunDuL_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wtempImageotqIKg.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728758482/wtempImageotqIKg_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728680961/wtempImageNfCbwX.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728680961/wtempImageNfCbwX_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566280",
+  "auctionId": "4200",
+  "collectedAt": "2025-10-23T21:13:02.538Z"
+}

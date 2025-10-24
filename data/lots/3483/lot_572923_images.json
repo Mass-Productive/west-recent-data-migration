@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572923/images",
+      "name": "Images for (2) Channel 1/4&#34; TS Cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572923/i2121-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572923/i2121-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572923",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:50:12.531Z"
+}

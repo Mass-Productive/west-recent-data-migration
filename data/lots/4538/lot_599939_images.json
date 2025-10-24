@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/599939/images",
+      "name": "Images for (10 Pack of 100) PPE-Aid Nitrile Gloves (Size M)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-1848-25c62d64-d398-4536-b8ab-dd389ec59581/w0281-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599939",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:00.993Z"
+}

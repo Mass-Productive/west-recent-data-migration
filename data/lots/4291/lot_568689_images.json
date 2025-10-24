@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568689/images",
+      "name": "Images for Starrett No. 216 Micrometer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w565365d3-7688-4a20-a27b-805303fd8b23.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w565365d3-7688-4a20-a27b-805303fd8b23_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w58ab8469-02b9-4d53-965e-6c84312f7454.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w58ab8469-02b9-4d53-965e-6c84312f7454_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wdec3d675-ead8-4e95-872e-b16dc4c1fe52.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wdec3d675-ead8-4e95-872e-b16dc4c1fe52_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w7b08cf73-6129-4d98-afa5-67d38d998b87.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w7b08cf73-6129-4d98-afa5-67d38d998b87_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wcdfbc466-ed58-4f7f-9d40-e870a68528af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wcdfbc466-ed58-4f7f-9d40-e870a68528af_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568689",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:27.552Z"
+}

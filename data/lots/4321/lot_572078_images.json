@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572078/images",
+      "name": "Images for 5-Tier Shelf With Contents: Assorted Party Rental Supply For Parts Or Repair "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w70da2e6c-1beb-4266-95fa-1f0a41d0d9b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w70da2e6c-1beb-4266-95fa-1f0a41d0d9b9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w2f8dd5ef-227a-4085-81f6-f878cb78920e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w2f8dd5ef-227a-4085-81f6-f878cb78920e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w3360f5f4-3475-4110-916f-a3ac00cb91f1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w3360f5f4-3475-4110-916f-a3ac00cb91f1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w85291a7f-25df-44b5-acf7-135f333892af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w85291a7f-25df-44b5-acf7-135f333892af_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w965f536c-fba5-42a3-a3d6-bd442066ac6b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w965f536c-fba5-42a3-a3d6-bd442066ac6b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w44b79560-1ea6-400f-8550-1ad4a5c98e36.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w44b79560-1ea6-400f-8550-1ad4a5c98e36_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w1168090c-1e78-42e3-baac-8f21788bf569.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w1168090c-1e78-42e3-baac-8f21788bf569_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w9e53a6fa-18e8-4d2c-8663-b77db3e4fea9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572078/w9e53a6fa-18e8-4d2c-8663-b77db3e4fea9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572078",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:20.001Z"
+}

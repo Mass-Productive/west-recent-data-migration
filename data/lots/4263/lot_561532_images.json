@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561532/images",
+      "name": "Images for (4) Assorted Push Brooms "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w2fec1828-c463-4672-9675-9c64c6cb7edd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w2fec1828-c463-4672-9675-9c64c6cb7edd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd07c40a7-b73d-4c2e-89c8-52f0790141c1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd07c40a7-b73d-4c2e-89c8-52f0790141c1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w2d29d053-62c9-481f-b143-b2baf02c7ad6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w2d29d053-62c9-481f-b143-b2baf02c7ad6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wb9c10c0d-fad6-43fe-a905-ae6041a4349a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wb9c10c0d-fad6-43fe-a905-ae6041a4349a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561532",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:07.395Z"
+}

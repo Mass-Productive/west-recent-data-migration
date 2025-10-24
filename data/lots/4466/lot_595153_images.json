@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595153/images",
+      "name": "Images for 275 Gallon IBC Tote (Empty)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/wf9ca89ff-58f6-4774-8b09-4c1ab1a7734f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/wf9ca89ff-58f6-4774-8b09-4c1ab1a7734f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/w16a51ca7-95cd-416e-a029-a0b45d148238.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/w16a51ca7-95cd-416e-a029-a0b45d148238_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/w578b0892-1406-4709-bceb-1f8add3a290a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/w578b0892-1406-4709-bceb-1f8add3a290a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/wcd343869-3f22-45ce-acd9-bb5d120d5c34.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595153/wcd343869-3f22-45ce-acd9-bb5d120d5c34_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595153",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:19.357Z"
+}

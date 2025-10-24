@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580020/images",
+      "name": "Images for Custom Old School Restroom Pointers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1625-5a879500-684d-4c08-a158-72e752fb81e0/w0101-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1625-5a879500-684d-4c08-a158-72e752fb81e0/w0101-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1625-5a879500-684d-4c08-a158-72e752fb81e0/w0101-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1625-5a879500-684d-4c08-a158-72e752fb81e0/w0101-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580020",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:16.971Z"
+}

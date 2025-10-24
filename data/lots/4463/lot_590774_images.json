@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4463/items/590774/images",
+      "name": "Images for Steel Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/05-2030-9257b756-bbe3-493c-9671-46a4995674dd/w0364-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590774",
+  "auctionId": "4463",
+  "collectedAt": "2025-10-24T01:01:50.681Z"
+}

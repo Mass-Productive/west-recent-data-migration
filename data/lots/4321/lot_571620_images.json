@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/571620/images",
+      "name": "Images for Contents Of Shelf: (2) Chafing Trays, (4) Table Setters, Beverage Tub, And Beverage Dispenser "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571620/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0556-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571620",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:11:13.520Z"
+}

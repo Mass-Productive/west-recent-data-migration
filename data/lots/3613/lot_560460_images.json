@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560460/images",
+      "name": "Images for Lot Of 1/4” Hitex Black Shock Cord"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i987b8bf5-a297-4a9c-8ce3-9b9ddbea66b2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i987b8bf5-a297-4a9c-8ce3-9b9ddbea66b2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2114-0a9d50a9-bfd7-4734-9471-e10a8f4f7790/i0420-6_t.jpg",
+      "image_width": "320",
+      "image_height": "248",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/if41bc945-e60a-4353-ac5e-ce0ec2ed64b0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/if41bc945-e60a-4353-ac5e-ce0ec2ed64b0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560460",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:22.875Z"
+}

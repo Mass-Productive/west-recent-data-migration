@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608921/images",
+      "name": "Images for Grisham 28 in. x 78 in. Universal/Reversible 808 Series Protector Black Steel Security Door with Expanded Steel Screen - $358 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608921/i1606.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608921/i1606_t.png",
+      "image_width": "320",
+      "image_height": "221",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608921/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1606-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608921/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1606-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608921",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:14.733Z"
+}

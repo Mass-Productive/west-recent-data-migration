@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591455/images",
+      "name": "Images for Husky 72 in. W x 24 in. D Adjustable Height Black Workbench for Ready to Assemble Steel Garage Storage System - $308 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747686776/iScreenshot_2025-05-19_at_1.33.10_PM.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747686776/iScreenshot_2025-05-19_at_1.33.10_PM_t.png",
+      "image_width": "320",
+      "image_height": "201",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3117-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591455",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:17.034Z"
+}

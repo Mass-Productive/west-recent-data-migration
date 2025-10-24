@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/569035/images",
+      "name": "Images for (7) 3’ Tall Fiberglass Décor Pots"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w79c1cc70-fe04-4068-96b4-02dba8cacb4f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w79c1cc70-fe04-4068-96b4-02dba8cacb4f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w24ffc7a9-abd8-4628-a9b0-9d1b36811852.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w24ffc7a9-abd8-4628-a9b0-9d1b36811852_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w56e69a03-56e1-4f53-8130-654fe0e9103e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w56e69a03-56e1-4f53-8130-654fe0e9103e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wdff27589-dd01-45b2-8210-c1c901091246-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wdff27589-dd01-45b2-8210-c1c901091246-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w2f698a29-2ccc-4431-90f5-d5d12a9d49cd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w2f698a29-2ccc-4431-90f5-d5d12a9d49cd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569035",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:11:36.643Z"
+}

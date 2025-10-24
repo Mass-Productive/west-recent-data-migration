@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/612858/images",
+      "name": "Images for Assorted Air Filters (Bin Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612858/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4007-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612858",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:26:20.298Z"
+}

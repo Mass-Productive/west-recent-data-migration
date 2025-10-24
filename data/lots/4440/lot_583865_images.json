@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583865/images",
+      "name": "Images for Bicycle Safety Flag "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583865/w06b9564f-00a5-4277-ad06-2560e019f505.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583865/w06b9564f-00a5-4277-ad06-2560e019f505_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583865/w437a9ff3-cd8a-4506-a96d-f17a5c8b03cd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583865/w437a9ff3-cd8a-4506-a96d-f17a5c8b03cd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583865",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:12.861Z"
+}

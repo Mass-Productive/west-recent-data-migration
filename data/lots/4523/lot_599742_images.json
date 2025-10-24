@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4523/items/599742/images",
+      "name": "Images for 1967 Utility Dry Van Trailer-Located in Marysville, CA 95901"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-3-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/app/22-2154-3c4ac4c8-04c7-4c34-acd0-ab1a4f637d43/w0003-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/1754333798/w68910267bbf57.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4523/1754333798/w68910267bbf57_t.png",
+      "image_width": "148",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599742",
+  "auctionId": "4523",
+  "collectedAt": "2025-10-24T02:02:39.805Z"
+}

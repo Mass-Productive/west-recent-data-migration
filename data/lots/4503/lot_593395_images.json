@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4503/items/593395/images",
+      "name": "Images for Large Spool Of 1 Gauge Stranded Copper Wire"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-2_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-3_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-4_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/18-1602-5dc3724c-30b0-4049-aaaa-945b8f78371c/w0102-5_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593395",
+  "auctionId": "4503",
+  "collectedAt": "2025-10-24T01:54:34.332Z"
+}

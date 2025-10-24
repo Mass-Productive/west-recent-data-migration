@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595740/images",
+      "name": "Images for Bulk Lot Of Assorted 4x4’s, 2x4’s, 2x6’s, And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-651b0be2-a830-4fc1-a780-4487ec63419b/w0672-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595740",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T02:01:04.250Z"
+}

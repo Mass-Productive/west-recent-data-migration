@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595152/images",
+      "name": "Images for 275 Gallon IBC Tote (Empty)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wf58f72b6-cc75-450b-9bcd-46a0f456e535.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wf58f72b6-cc75-450b-9bcd-46a0f456e535_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wf2410f2f-441b-4dd4-b6eb-d6fc87a49796.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wf2410f2f-441b-4dd4-b6eb-d6fc87a49796_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/w8e4ee3bc-b773-43c2-9d22-34b83e28fc4e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/w8e4ee3bc-b773-43c2-9d22-34b83e28fc4e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/w2a17adb8-bab9-4b92-9d69-967d3de20ccc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/w2a17adb8-bab9-4b92-9d69-967d3de20ccc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wed083f23-28b9-445b-995a-90d6b8c977a5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595152/wed083f23-28b9-445b-995a-90d6b8c977a5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595152",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:18.959Z"
+}

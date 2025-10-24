@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583857/images",
+      "name": "Images for Trek Balaclava Black "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/wafa440d0-95df-44f2-9fd0-86a5cd9c4e3e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/wafa440d0-95df-44f2-9fd0-86a5cd9c4e3e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/w5ae47240-bc7f-4a3d-bc46-f0334441c433.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/w5ae47240-bc7f-4a3d-bc46-f0334441c433_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/wbf0e3789-897c-4ffa-b422-7a09a56d60d5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583857/wbf0e3789-897c-4ffa-b422-7a09a56d60d5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583857",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:09.669Z"
+}

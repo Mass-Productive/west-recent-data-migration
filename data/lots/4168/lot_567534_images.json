@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4168/items/567534/images",
+      "name": "Images for (5) Osram BVV 1000w lamp"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0695-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0695-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0695-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0695-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "567534",
+  "auctionId": "4168",
+  "collectedAt": "2025-10-23T21:08:50.061Z"
+}

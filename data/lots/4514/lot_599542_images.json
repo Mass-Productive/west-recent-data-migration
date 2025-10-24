@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599542/images",
+      "name": "Images for (3) 2&#34; Stainless Sanitary Ball Valves"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2316-d3ea07e2-228c-49ca-8820-ff279aad7893/w0159-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599542",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:56:54.159Z"
+}

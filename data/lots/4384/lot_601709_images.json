@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4384/items/601709/images",
+      "name": "Images for 7kw Champion Generator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/06-1646-a151ec7a-3ed1-4f19-b821-488c7088a0e4/w0126-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601709",
+  "auctionId": "4384",
+  "collectedAt": "2025-10-24T00:15:16.774Z"
+}

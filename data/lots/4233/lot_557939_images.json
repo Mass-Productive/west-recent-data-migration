@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557939/images",
+      "name": "Images for Angle Block Set With Fitted Wood Case"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w8bdea0fa-5160-461a-b1df-fc90d381cbf4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w8bdea0fa-5160-461a-b1df-fc90d381cbf4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w7472d1a1-8fd4-440b-a187-efd0aeeecf39.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w7472d1a1-8fd4-440b-a187-efd0aeeecf39_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wac320c51-6483-4f7f-9940-7900c850debc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wac320c51-6483-4f7f-9940-7900c850debc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557939",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:36:48.470Z"
+}

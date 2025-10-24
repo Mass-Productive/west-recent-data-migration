@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/575963/images",
+      "name": "Images for Weed Barrier Landscape Fabric 3&#39;x300’"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0180-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575963",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:41:28.374Z"
+}

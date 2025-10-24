@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/596921/images",
+      "name": "Images for (3) 86” Barbells "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0211-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596921",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:03:47.196Z"
+}

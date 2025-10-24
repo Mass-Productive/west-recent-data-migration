@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4091/items/558748/images",
+      "name": "Images for Weight Bar"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wc859fd57-c093-494c-931d-eda29ae24d95.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wc859fd57-c093-494c-931d-eda29ae24d95_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w03d1f0f4-7555-4c5b-ad91-3ab8b75326b5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w03d1f0f4-7555-4c5b-ad91-3ab8b75326b5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w99881c1d-2169-4662-af4b-bbf39f890974.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w99881c1d-2169-4662-af4b-bbf39f890974_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w102ba9c1-f4cc-422e-99f7-4119876e5b6c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w102ba9c1-f4cc-422e-99f7-4119876e5b6c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/weae65baf-e79c-418a-b3c2-f2647da151d3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/weae65baf-e79c-418a-b3c2-f2647da151d3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wd411fb00-c3a8-4e43-b371-eff567f03ca1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wd411fb00-c3a8-4e43-b371-eff567f03ca1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558748",
+  "auctionId": "4091",
+  "collectedAt": "2025-10-23T20:58:41.074Z"
+}

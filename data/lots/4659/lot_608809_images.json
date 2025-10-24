@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608809/images",
+      "name": "Images for Quantity of (2) 52 in LED Indoor Ceiling Fans - $191 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608809/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1561-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608809",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:06.807Z"
+}

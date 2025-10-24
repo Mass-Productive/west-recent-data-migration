@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561531/images",
+      "name": "Images for (12) Assorted Shovels And Spades "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w4653e8f8-c5ad-4e67-a794-0b226cea88a1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w4653e8f8-c5ad-4e67-a794-0b226cea88a1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w45897ed7-c95f-45e0-8a1b-0e3819b4f5d9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w45897ed7-c95f-45e0-8a1b-0e3819b4f5d9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wf1b9f52b-e5fc-45d5-b2d0-d1a5c9878624.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wf1b9f52b-e5fc-45d5-b2d0-d1a5c9878624_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w8b063171-7654-4fba-85b1-7990a1db63ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w8b063171-7654-4fba-85b1-7990a1db63ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w07ecaa16-9306-4b4b-b204-6a5f61d7e0a8-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w07ecaa16-9306-4b4b-b204-6a5f61d7e0a8-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd31ce1d5-6ee7-4c40-bb70-b50c22404656.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd31ce1d5-6ee7-4c40-bb70-b50c22404656_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561531",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:06.994Z"
+}

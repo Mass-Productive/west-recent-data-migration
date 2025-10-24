@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578200/images",
+      "name": "Images for (2) Rakes (2) Screeds (1) 9’ Post Hole Shovel"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w9973459e-74c3-4e67-a0b3-96e1a0311847.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w9973459e-74c3-4e67-a0b3-96e1a0311847_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8c2cb5ef-be9d-4b31-8590-bebae9dcea00.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8c2cb5ef-be9d-4b31-8590-bebae9dcea00_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8ad1ec16-a5f3-46ba-bcb1-3bddd6f1d504.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8ad1ec16-a5f3-46ba-bcb1-3bddd6f1d504_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf528c848-ae11-4806-9501-f58efe66e939.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf528c848-ae11-4806-9501-f58efe66e939_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w95226fa0-d2e3-4c30-81d1-1b9ff60bc771.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w95226fa0-d2e3-4c30-81d1-1b9ff60bc771_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf6818217-01d6-4638-97ea-c2d76b8a6abd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf6818217-01d6-4638-97ea-c2d76b8a6abd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w18e4088f-fc35-43f5-8a3f-abe21c75ca10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w18e4088f-fc35-43f5-8a3f-abe21c75ca10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w1b224e26-cf33-440c-a189-fb1486ca0723.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w1b224e26-cf33-440c-a189-fb1486ca0723_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578200",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:48.624Z"
+}

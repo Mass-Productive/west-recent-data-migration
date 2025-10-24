@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595972/images",
+      "name": "Images for Garrott-Callahan 40 Gal Chem-Feed Square "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0201-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595972",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:54.017Z"
+}

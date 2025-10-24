@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587598/images",
+      "name": "Images for Trek/Bontrager Circuit Twin Gel Glove XL Lot Of 2- Black, Red "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587598/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1415-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587598/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1415-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587598/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1415-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587598/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1415-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587598",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:56:07.509Z"
+}

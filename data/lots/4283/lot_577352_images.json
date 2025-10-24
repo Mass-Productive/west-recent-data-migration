@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4283/items/577352/images",
+      "name": "Images for 10ft Outdoor Heavy-Duty Free Standing Metal Picnic Table, Thermoplastic Coated Galvanized Steel "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.0_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.1_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w2.2_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w4_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1738714890/w5_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577352",
+  "auctionId": "4283",
+  "collectedAt": "2025-10-23T21:50:29.368Z"
+}

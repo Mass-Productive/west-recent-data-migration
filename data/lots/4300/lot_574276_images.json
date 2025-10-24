@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4300/items/574276/images",
+      "name": "Images for Matrix Incline Bench with Weight Tree and Spotter Plate"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0145-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574276",
+  "auctionId": "4300",
+  "collectedAt": "2025-10-23T22:00:58.734Z"
+}

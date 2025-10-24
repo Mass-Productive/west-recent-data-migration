@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561537/images",
+      "name": "Images for (6) Assorted Sawhorses "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w5b198243-dfc0-4b6d-8873-4b4758c2a187.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w5b198243-dfc0-4b6d-8873-4b4758c2a187_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w8b852bb2-7cde-4658-a84d-95e73d83198d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w8b852bb2-7cde-4658-a84d-95e73d83198d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wc265b2e4-b8ae-4ea2-8bfd-94c81eee6352.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wc265b2e4-b8ae-4ea2-8bfd-94c81eee6352_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w5ad82a53-73d3-47cb-bd04-62d9764e2081.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w5ad82a53-73d3-47cb-bd04-62d9764e2081_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wb994e641-09b0-48f3-b10d-ec1ec789fb6b-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wb994e641-09b0-48f3-b10d-ec1ec789fb6b-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561537",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:09.432Z"
+}

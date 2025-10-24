@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574508/images",
+      "name": "Images for (1) Tascam 322 Duplicating Cassette Deck"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2101-a03b300a-a10e-4f5f-9dbb-abdf036ceb14/w0250-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574508",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:04:06.315Z"
+}

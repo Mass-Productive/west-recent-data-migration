@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589937/images",
+      "name": "Images for (2) Citizen Watches "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-6-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0106-6-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589937",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:07.152Z"
+}

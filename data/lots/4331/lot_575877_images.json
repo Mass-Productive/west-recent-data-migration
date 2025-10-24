@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/575877/images",
+      "name": "Images for Bin and Contents: 32” Metal Pallet Racking Crossmembers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w0df1b0e0-0024-4fee-8a6b-fe9e62d3c649.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w0df1b0e0-0024-4fee-8a6b-fe9e62d3c649_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w6dcd9a9a-2503-401c-b61c-2d11d9a650c5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w6dcd9a9a-2503-401c-b61c-2d11d9a650c5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w7b10d1d5-46aa-47cb-b32d-426d9817a6fc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w7b10d1d5-46aa-47cb-b32d-426d9817a6fc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w690d9805-8cd6-476f-8a18-0c2794bc8260.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w690d9805-8cd6-476f-8a18-0c2794bc8260_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w2f1cdebd-5323-4843-b451-5313ac4971eb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w2f1cdebd-5323-4843-b451-5313ac4971eb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w7a1a4a03-560e-4661-b328-3fc97a9cded6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575877/w7a1a4a03-560e-4661-b328-3fc97a9cded6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575877",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:11:28.681Z"
+}

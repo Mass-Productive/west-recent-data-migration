@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599450/images",
+      "name": "Images for Glacier Bay 36.4 in. W x 30.2 in. H Rectangular Medicine Cabinet with Mirror in White with Adjustable Shelves- $239 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1501-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1501-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1501-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1501-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599450",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:06.166Z"
+}

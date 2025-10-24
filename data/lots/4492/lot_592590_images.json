@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4492/items/592590/images",
+      "name": "Images for (1) Pallet of Castle Stone Napa Blend Rectangle Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746730911/wIMG_3453.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746730911/wIMG_3453_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4043-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592590",
+  "auctionId": "4492",
+  "collectedAt": "2025-10-24T01:48:20.411Z"
+}

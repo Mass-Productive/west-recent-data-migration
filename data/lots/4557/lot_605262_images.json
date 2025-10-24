@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605262/images",
+      "name": "Images for Blueprint File Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1726-90e32e02-0561-41c3-b96e-ac2124b1db18/w0144-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605262",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:15.672Z"
+}

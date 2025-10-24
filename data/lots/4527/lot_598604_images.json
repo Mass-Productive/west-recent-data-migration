@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598604/images",
+      "name": "Images for Star Bagel Toaster Fast QCS "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0220-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598604",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:28.739Z"
+}

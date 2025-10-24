@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599289/images",
+      "name": "Images for (4) HDX 20 in. x 20 in. x 1 in. Standard Pleated Furnace Air Filter FPR 5, MERV 8 -$20 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1373-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599289",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:04.536Z"
+}

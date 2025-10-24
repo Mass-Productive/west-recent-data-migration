@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558458/images",
+      "name": "Images for EAW SM500 Speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-2002-43d41c02-751c-4645-a19d-230ad0ef5336/w1058-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558458",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:13:58.999Z"
+}

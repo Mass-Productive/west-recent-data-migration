@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605574/images",
+      "name": "Images for Bag Sander"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/15-2049-3a7a4515-8cdc-49d0-ba02-b3e952750bff/w0499-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605574",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:19:20.423Z"
+}

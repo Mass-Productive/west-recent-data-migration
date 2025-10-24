@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4413/items/591120/images",
+      "name": "Images for Red Dot MALB-6 2&#34; Mogul Pulling Elbow"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-1.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-1_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-2.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-2_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-3.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-3_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-4.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-4_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-5.JPG",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/6807b763477c4/w0168-5_t.JPG",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591120",
+  "auctionId": "4413",
+  "collectedAt": "2025-10-24T00:28:41.986Z"
+}

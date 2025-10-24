@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575037/images",
+      "name": "Images for White Bi-Parting Galvanized Wrought Iron Gate H4&#39;xW6&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575037/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0484-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575037",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:50:51.116Z"
+}

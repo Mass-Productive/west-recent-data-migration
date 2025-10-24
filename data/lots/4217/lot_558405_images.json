@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558405/images",
+      "name": "Images for Vari*Lite VL3000 Spot Moving Head"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1750-1eecd905-4550-4551-891f-8eaeda797e28/w1012-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558405",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:13:37.734Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/570972/images",
+      "name": "Images for (2) Chandelier Display Fixtures "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/23-0115-f8d9e5cf-15f7-4e54-a399-708187634e3a/w0415-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "570972",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:01.823Z"
+}

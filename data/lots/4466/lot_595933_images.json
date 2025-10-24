@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595933/images",
+      "name": "Images for Custom Tank Platform With Ladder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1502-8ec9cc60-7dca-4000-ad68-cac6379606b8/w1003-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1502-8ec9cc60-7dca-4000-ad68-cac6379606b8/w1003-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/wa5d9499e-9cc5-48bd-8e0e-d8396808f474.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/wa5d9499e-9cc5-48bd-8e0e-d8396808f474_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749508401x595933/app/06-1638-ac8c5138-4059-4f33-816a-1b5832c79360/w1003-5-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595933",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:49.605Z"
+}

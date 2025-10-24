@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568138/images",
+      "name": "Images for True Teo Door Under Counter Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568138/app/24-2317-684f9b3b-b989-411e-9603-99838c105f70/w0416-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568138",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:55:50.572Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559807/images",
+      "name": "Images for (6) 1/2 BBL Kegs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1109-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559807",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:57:27.094Z"
+}

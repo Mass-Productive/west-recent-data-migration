@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585088/images",
+      "name": "Images for Approximately (8) Tshirts And (2) Shorts"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0415-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585088",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:32:06.419Z"
+}

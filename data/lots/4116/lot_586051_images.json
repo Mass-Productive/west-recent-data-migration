@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586051/images",
+      "name": "Images for 2 Shure DFR 11 EQ And 1 Shure DP 11 EQ Signal Processors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0209-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586051",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:40.631Z"
+}

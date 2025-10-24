@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560357/images",
+      "name": "Images for Box Of Brown Roughman Leather Scraps"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-1_t.jpg",
+      "image_width": "320",
+      "image_height": "265",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-2_t.jpg",
+      "image_width": "320",
+      "image_height": "265",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-6_t.jpg",
+      "image_width": "320",
+      "image_height": "251",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1739-e2d116d4-3797-403b-9906-21e66839ed36/i0257-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560357",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:41.478Z"
+}

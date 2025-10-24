@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560473/images",
+      "name": "Images for Lot Of Autralian Sheep Skin Pieces / Remnants"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/30-1743-e12ab052-2505-44a6-878f-80d4978663e0/i0432-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560473",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:28.091Z"
+}

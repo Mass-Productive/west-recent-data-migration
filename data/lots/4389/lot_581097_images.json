@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/581097/images",
+      "name": "Images for RDGD 6 Gal. Portable Electric Pancake Air Compressor w/18GA Brad Nailer and Hose"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581097/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1130-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581097",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:18:03.954Z"
+}

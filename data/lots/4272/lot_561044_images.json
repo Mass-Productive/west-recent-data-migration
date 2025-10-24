@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561044/images",
+      "name": "Images for 5’ Table With Chairs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-2-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-2-rot180_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2108-08dcd3b3-cd78-44e6-89d0-dedfcb255446/w0876-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561044",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:47:56.189Z"
+}

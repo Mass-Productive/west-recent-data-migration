@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591464/images",
+      "name": "Images for Legend Force 9 in. 79 cc Gas Powered 4-Stroke Walk Behind Landscape Edger - $299 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3108-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591464",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:20.643Z"
+}

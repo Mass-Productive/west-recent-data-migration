@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605367/images",
+      "name": "Images for DeWalt Screw Guns"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0291-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605367",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:57.809Z"
+}

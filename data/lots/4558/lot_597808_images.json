@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597808/images",
+      "name": "Images for (2) 20” Adjustable Speed Fans "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0394-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/2bdb9722/w05b9119b-268f-4963-a06c-29142d02f41c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/2bdb9722/w05b9119b-268f-4963-a06c-29142d02f41c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597808",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:21:21.667Z"
+}

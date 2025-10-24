@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595082/images",
+      "name": "Images for Husky 60-Gallon Air Compressor "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595082/app/12-2152-5e5acb93-fe80-4b95-a982-a9072cc5e303/w0474-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595082",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:55.978Z"
+}

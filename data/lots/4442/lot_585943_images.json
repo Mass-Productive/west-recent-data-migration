@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585943/images",
+      "name": "Images for HDX 3-Tier Steel Wire Shelving Unit in Black (24 in. W x 30 in. H x 14 in. D)-$44 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513680/i2237.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513680/i2237_t.png",
+      "image_width": "320",
+      "image_height": "302",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-2339-c407ac44-dcb7-4547-a263-9c9164f40b60/wH2237-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585943",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:20.794Z"
+}

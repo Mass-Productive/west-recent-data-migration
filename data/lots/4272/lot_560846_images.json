@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/560846/images",
+      "name": "Images for (2) Grey Chairs; (1) For Repair "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0942-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560846",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:46:37.526Z"
+}

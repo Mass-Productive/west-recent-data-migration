@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559534/images",
+      "name": "Images for True TSSU-48-12-HC Sandwich/Prep Table With Refrigerated Base "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0102-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559534",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:15:59.555Z"
+}

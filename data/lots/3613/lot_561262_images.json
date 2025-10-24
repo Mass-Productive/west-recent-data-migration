@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561262/images",
+      "name": "Images for Farberware Rotissery Motor Parts"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ib011d596-d538-4cf6-8697-7c7de2cb17f6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ib011d596-d538-4cf6-8697-7c7de2cb17f6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1832-916a6876-e166-4fdc-a35e-582f2278ab55/i0462-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561262",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:42.070Z"
+}

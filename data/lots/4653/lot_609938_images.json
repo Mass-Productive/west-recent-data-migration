@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4653/items/609938/images",
+      "name": "Images for Contents Of Bin: Foam Packaging Materials "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/30-0135-99bd9bf7-6838-4eb0-b9af-aee21b0a7bfd/w0284-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609938",
+  "auctionId": "4653",
+  "collectedAt": "2025-10-24T02:44:04.803Z"
+}

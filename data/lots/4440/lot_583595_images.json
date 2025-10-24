@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583595/images",
+      "name": "Images for 12” tubes- lot of 5 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583595/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0858-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583595/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0858-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583595/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0858-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050186x583595/app/04-1738-9669b97e-2183-4d5c-a8c7-9381243d0cb8/w0858-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583595",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:47:23.633Z"
+}

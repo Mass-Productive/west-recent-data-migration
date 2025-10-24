@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583812/images",
+      "name": "Images for Nite Rider Mako 250 Head Light"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583812/w184473df-7487-4724-86fc-28b81bcc55f1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583812/w184473df-7487-4724-86fc-28b81bcc55f1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583812/wa3ab2b3c-a18b-47c9-9d94-b165bb732c68.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583812/wa3ab2b3c-a18b-47c9-9d94-b165bb732c68_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583812",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:51.243Z"
+}

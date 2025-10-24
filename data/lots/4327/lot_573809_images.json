@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573809/images",
+      "name": "Images for Cushioned Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w077661c6-0fa0-4c45-aac8-537f1762a93a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w077661c6-0fa0-4c45-aac8-537f1762a93a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wfb0a2fcb-3520-4b3c-996b-feceadfa88ce.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wfb0a2fcb-3520-4b3c-996b-feceadfa88ce_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w03c3f1b6-0060-4076-8a16-c0aa8a38fade.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w03c3f1b6-0060-4076-8a16-c0aa8a38fade_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573809",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:32:55.723Z"
+}

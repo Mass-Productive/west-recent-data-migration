@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579701/images",
+      "name": "Images for Husky 4 in. Caster Kit for Heavy Duty Welded Steel Garage Base Cabinets"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226051x579701/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1320-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579701",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:56.602Z"
+}

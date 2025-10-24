@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594699/images",
+      "name": "Images for Quantity of (8) Mission Cooling Wide Brim Polyester Hat-Khaki"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594699/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3816-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594699/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3816-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594699/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3816-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594699/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3816-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594699",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:15.707Z"
+}

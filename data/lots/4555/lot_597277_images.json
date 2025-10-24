@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597277/images",
+      "name": "Images for (2) Volvo Diesel Tanks "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-3-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0134-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597277",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:26.130Z"
+}

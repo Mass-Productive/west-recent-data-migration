@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558482/images",
+      "name": "Images for Magicpanel 602 Road Case"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1738-e6ac37e0-60ce-431c-a38f-a87f14abaa87/w1088-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558482",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:08.656Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579339/images",
+      "name": "Images for Condiments Containers Miscellaneous Items "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/28-2221-afb35475-c248-4927-bc07-2f04332b38e1/w0171-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579339",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:30.344Z"
+}

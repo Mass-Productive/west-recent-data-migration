@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573508/images",
+      "name": "Images for Steel Cables and Adapter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573508/app/19-0229-830a21b0-e2c1-4efc-bd0b-57e051bb7788/i2195-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573508/app/19-0229-830a21b0-e2c1-4efc-bd0b-57e051bb7788/i2195-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573508/app/19-0229-830a21b0-e2c1-4efc-bd0b-57e051bb7788/i2195-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573508/app/19-0229-830a21b0-e2c1-4efc-bd0b-57e051bb7788/i2195-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573508",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:17:32.901Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4414/items/589900/images",
+      "name": "Images for Vintage Lamps "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/21-2135-945885f7-f4bd-4526-ba6c-58df1ccee2e3/w0186-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589900",
+  "auctionId": "4414",
+  "collectedAt": "2025-10-24T00:29:58.887Z"
+}

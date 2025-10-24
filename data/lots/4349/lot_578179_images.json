@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578179/images",
+      "name": "Images for Concrete Stamp Roller"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w7428e630-4ba3-4dbe-9849-1c5bd9d9f139.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w7428e630-4ba3-4dbe-9849-1c5bd9d9f139_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w938c118b-8fab-433a-89a5-d6f955b80cc9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w938c118b-8fab-433a-89a5-d6f955b80cc9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wa7c9efd3-5999-43ab-b2d6-8787119a0ff4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wa7c9efd3-5999-43ab-b2d6-8787119a0ff4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd737f412-237c-4626-8294-19ec9597001d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd737f412-237c-4626-8294-19ec9597001d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w5fb0c2a1-3b8a-4790-8156-8ccd2e3d7abf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w5fb0c2a1-3b8a-4790-8156-8ccd2e3d7abf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w66a7eaff-dfc3-44a3-84c3-f20802c89a64.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w66a7eaff-dfc3-44a3-84c3-f20802c89a64_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd630c444-9345-4433-8c5c-9955179b1ef3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd630c444-9345-4433-8c5c-9955179b1ef3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578179",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:39.669Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4565/items/596879/images",
+      "name": "Images for (10) 300&#39;x6&#39; Rolls of Woven Landscape Fabric (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750805217x596879/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0839-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596879",
+  "auctionId": "4565",
+  "collectedAt": "2025-10-24T02:25:28.181Z"
+}

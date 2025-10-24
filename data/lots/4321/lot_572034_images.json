@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572034/images",
+      "name": "Images for Bulk Lot: Assorted 80” Tent Poles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w39c7bac5-9ab9-4685-84c7-d94eeaf43307.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w39c7bac5-9ab9-4685-84c7-d94eeaf43307_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/we19b6cc5-9943-41fe-bacb-606e82076b0d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/we19b6cc5-9943-41fe-bacb-606e82076b0d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w14b1bb38-846b-4afd-9a7c-6187c2f4df01.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w14b1bb38-846b-4afd-9a7c-6187c2f4df01_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/we387a8cf-ff13-4006-b887-3bef96cec296.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/we387a8cf-ff13-4006-b887-3bef96cec296_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/wfd9c7495-4ae5-46fd-9487-fbfd841ec5aa.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/wfd9c7495-4ae5-46fd-9487-fbfd841ec5aa_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w093bc5cb-dcc5-4068-b2a5-02ee51434b4c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572034/w093bc5cb-dcc5-4068-b2a5-02ee51434b4c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572034",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:02.140Z"
+}

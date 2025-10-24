@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559561/images",
+      "name": "Images for Two Compartment Commercial Sink "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/16-2259-8b17ef6f-2fab-4e1a-b2af-fb3d19dc7a43/w0136-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559561",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:10.346Z"
+}

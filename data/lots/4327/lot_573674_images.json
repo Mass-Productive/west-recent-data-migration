@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573674/images",
+      "name": "Images for Handmade Wood Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0332-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573674",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:17:56.276Z"
+}

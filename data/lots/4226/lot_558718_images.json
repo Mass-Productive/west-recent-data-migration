@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558718/images",
+      "name": "Images for 1/0-3 Stranded Aluminum Wire"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-2_66e49c7102df5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-2_66e49c7102df5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1826-7597f25f-ec92-4eb5-be64-db5b1bebc998/w0178-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558718",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:58.686Z"
+}

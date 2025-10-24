@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582012/images",
+      "name": "Images for Wolftooth powertrac drop-stop chainring, elliptical 40t"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w8a0145e6-0d73-4603-8d3e-b9cd9a653265.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w8a0145e6-0d73-4603-8d3e-b9cd9a653265_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wcdfc56b2-5f48-41fb-be2a-fdeef6cdf6dd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wcdfc56b2-5f48-41fb-be2a-fdeef6cdf6dd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3343cf58-f821-43a5-9e10-430f5db151c4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3343cf58-f821-43a5-9e10-430f5db151c4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582012",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:02.810Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4407/items/579246/images",
+      "name": "Images for Stainless Steel NSF Wall Mounted Shelf (contents Not included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0127-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579246",
+  "auctionId": "4407",
+  "collectedAt": "2025-10-24T00:23:50.931Z"
+}

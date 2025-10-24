@@ -1,0 +1,78 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4019/items/558191/images",
+      "name": "Images for (1) Pallet of 20&#34; x 20&#34; Coliseum Colorado Ephesus Porcelain Tile (233 sqft)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-28.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-28_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-27.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-27_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-25.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-25_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-26.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-26_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-29.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-29_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-30.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-30_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-31.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-31_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-32.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-32_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-33.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4019/app/06-1958-34c5ccbd-d64c-490a-9c03-672f391740b1/w0175-33_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558191",
+  "auctionId": "4019",
+  "collectedAt": "2025-10-23T20:56:48.036Z"
+}

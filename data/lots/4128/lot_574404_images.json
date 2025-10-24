@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574404/images",
+      "name": "Images for (1) 19&#34; Single Space Middle Atlantic Rack Shelf"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2037-a236db2d-3031-41a7-81b2-64ad496f6e46/w0147-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574404",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:24.788Z"
+}

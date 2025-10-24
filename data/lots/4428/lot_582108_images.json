@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582108/images",
+      "name": "Images for (2) Look Delta Cleat "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-1648-664c98b5-013a-4247-9ed9-b34534e637b0/w0541-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582108",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:41.607Z"
+}

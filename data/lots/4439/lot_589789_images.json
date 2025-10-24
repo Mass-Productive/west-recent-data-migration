@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/589789/images",
+      "name": "Images for ARE Truck Topper Off F150"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/25-1417-34c03f17-e417-4cc6-9711-17ba05450677/w0228-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0228-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0228-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0228-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589789/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0228-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589789",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:20.992Z"
+}

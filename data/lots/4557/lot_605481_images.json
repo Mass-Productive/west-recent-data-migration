@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605481/images",
+      "name": "Images for Lumber"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-1936-79bd2548-a3a5-47b6-8919-cedf22c4e833/w0412-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605481",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:43.503Z"
+}

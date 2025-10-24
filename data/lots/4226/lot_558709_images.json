@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558709/images",
+      "name": "Images for Dayton Tornado Vacuum Drum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-3-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-3-rot180_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1747-2e287506-7cb0-4639-9aad-e1c7a97a2c9f/w0169-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558709",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:55.064Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/601107/images",
+      "name": "Images for (14) GREEN PATTERNED TASK CHAIRS "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0347-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0347-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601107",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:23.638Z"
+}

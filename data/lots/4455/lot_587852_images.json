@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587852/images",
+      "name": "Images for Trek Ponto Saddle Riser, Raises Ponto Saddle 6”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587852/app/10-2043-4e43f3d5-ae09-4c64-961a-2be6656dde9a/w1739-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587852",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:51.280Z"
+}

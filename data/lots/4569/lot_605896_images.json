@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605896/images",
+      "name": "Images for (12) Clemens Radius 860 Weed Blades"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/19-1315-0f2790d0-0ccb-42c3-bd35-b0e2f79776b9/w0246-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605896",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:26:26.143Z"
+}

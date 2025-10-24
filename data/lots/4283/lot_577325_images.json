@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4283/items/577325/images",
+      "name": "Images for Clovis Goods 20S0301-72, 72 x 36 Inch Rectangular Frameless LED Bathroom Mirror (NEW)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_4_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_3_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_1_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20S0301-72_5_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20241108_133621.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4283/1737675141/w20241108_133621_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577325",
+  "auctionId": "4283",
+  "collectedAt": "2025-10-23T21:50:22.073Z"
+}

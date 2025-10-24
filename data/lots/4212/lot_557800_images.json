@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557800/images",
+      "name": "Images for Assorted Shelving And Hostess Stand "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/04-2222-d38bcb6f-9f49-4d7d-bdc8-e26a8fe7c4ac/w0146-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557800",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:23.810Z"
+}

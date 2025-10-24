@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578317/images",
+      "name": "Images for Bay Of 3/8” Pammy Pebbles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wd408579e-3d7f-4a3d-b88f-c0d3c1d36265.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wd408579e-3d7f-4a3d-b88f-c0d3c1d36265_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w317cbe08-2901-4e35-bd09-720ee48bc5d1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w317cbe08-2901-4e35-bd09-720ee48bc5d1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w55a0dbd3-de15-41f2-820a-5c54181973fb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w55a0dbd3-de15-41f2-820a-5c54181973fb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w7883cb3f-184c-467d-a06a-2b4beb6f3860.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w7883cb3f-184c-467d-a06a-2b4beb6f3860_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578317",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:36.263Z"
+}

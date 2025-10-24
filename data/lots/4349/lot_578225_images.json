@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578225/images",
+      "name": "Images for (5) 5-Gallon Buckets Of Paint Stripper"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2124-38d17b9b-d1e3-4d72-945f-1bb4c2a26bae/w0302-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578225",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:58.835Z"
+}

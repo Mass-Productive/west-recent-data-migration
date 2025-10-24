@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598508/images",
+      "name": "Images for Wasserstorm Prep Table With Drawers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0130-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598508",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:02:50.321Z"
+}

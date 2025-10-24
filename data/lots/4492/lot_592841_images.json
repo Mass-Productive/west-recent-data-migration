@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4492/items/592841/images",
+      "name": "Images for (1) Pallet of Legacy Cap Tan/Brown"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4295-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4295-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746738187/wIMG_3713.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746738187/wIMG_3713_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4295-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-2153-21191299-debf-427d-a140-3506747c82ec/w4295-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592841",
+  "auctionId": "4492",
+  "collectedAt": "2025-10-24T01:50:02.074Z"
+}

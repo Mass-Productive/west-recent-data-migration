@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573806/images",
+      "name": "Images for Franklin Chef Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we7968b57-f02b-40ed-b76f-63af02363659.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we7968b57-f02b-40ed-b76f-63af02363659_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wed148c16-13c8-4c50-8bcb-9d9bbd8a4062.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wed148c16-13c8-4c50-8bcb-9d9bbd8a4062_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w650e4564-1aab-4fa2-a629-9a146961bc01.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w650e4564-1aab-4fa2-a629-9a146961bc01_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w4920685a-016e-48ab-b9e1-3af66d08594d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w4920685a-016e-48ab-b9e1-3af66d08594d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w1bc6451a-e982-4dcf-90db-33762d3692aa.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w1bc6451a-e982-4dcf-90db-33762d3692aa_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w57cd9d53-784b-479d-8984-87afce77f1cf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w57cd9d53-784b-479d-8984-87afce77f1cf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wda2d0c4e-a244-4e7c-8331-a5da67515c44.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wda2d0c4e-a244-4e7c-8331-a5da67515c44_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we5836a9c-8117-41fd-881e-8bef74f787a1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we5836a9c-8117-41fd-881e-8bef74f787a1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573806",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:32:54.433Z"
+}

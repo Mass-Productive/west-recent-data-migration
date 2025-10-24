@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574415/images",
+      "name": "Images for (1) Netgear GS516T 16 Port Switch"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2144-c9d50c70-105a-4d6d-a6bf-7212993564f0/w0153-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574415",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:29.166Z"
+}

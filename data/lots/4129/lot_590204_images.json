@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590204/images",
+      "name": "Images for 4qt Measuring Cups "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/24-0832-ea6c1a0d-61b8-4ba2-9f4c-9618aae2b95e/w0165-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590204",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:37.304Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583887/images",
+      "name": "Images for Bontrager Leg Warmer Large"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583887/w32ee17d2-7430-4d12-8c00-415c5aa31938.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583887/w32ee17d2-7430-4d12-8c00-415c5aa31938_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583887/wf6e6df19-d594-40a1-b312-eb9ad84838b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583887/wf6e6df19-d594-40a1-b312-eb9ad84838b9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583887",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:21.791Z"
+}

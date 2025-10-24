@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575067/images",
+      "name": "Images for (20) Brown Metal Roof Wall Panels 20&#39;x3&#39;x0.3mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575067/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0454-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575067",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:51:03.227Z"
+}

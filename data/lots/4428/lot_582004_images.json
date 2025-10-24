@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582004/images",
+      "name": "Images for Sram x01 11 speed chainring "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w71c1e4d9-5aed-4ce8-9524-5bb75f9986bd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w71c1e4d9-5aed-4ce8-9524-5bb75f9986bd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3d714da4-d553-42c3-9ae1-beeb53c9cc4a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3d714da4-d553-42c3-9ae1-beeb53c9cc4a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582004",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:59.475Z"
+}

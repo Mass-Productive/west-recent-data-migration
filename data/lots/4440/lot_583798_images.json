@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583798/images",
+      "name": "Images for Kryptonite Cable Lock-Set Your Own Combo 6’ X 10mm"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/wd8beb6f2-7669-4343-95ab-020524f98a72.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/wd8beb6f2-7669-4343-95ab-020524f98a72_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/wea6ca3c7-5b62-411b-9fe0-d64e120e4bd0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/wea6ca3c7-5b62-411b-9fe0-d64e120e4bd0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/w741a1c68-aec2-4dbb-a580-f36f34f6ee42.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583798/w741a1c68-aec2-4dbb-a580-f36f34f6ee42_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583798",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:45.585Z"
+}

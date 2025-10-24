@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600150/images",
+      "name": "Images for Emtek 7108 Teton Door LeverPassage Set With #1 Rosette Flat Black"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1751305069/wEmtek_7108-teton.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1751305069/wEmtek_7108-teton_t.jpg",
+      "image_width": "300",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-1939-4251a0fa-d42b-4600-83bc-262ec5064274/w0158-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600150",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:16.344Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584863/images",
+      "name": "Images for DEWALT Professional 30 Amp Battery Charger, 3 Amp Battery Maintainer with 100 Amp Engine Start - $119 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2040-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584863",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:16.790Z"
+}

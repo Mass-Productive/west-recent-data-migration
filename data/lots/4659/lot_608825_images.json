@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608825/images",
+      "name": "Images for eightdoors 36 in. x 80 in. x 1-3/8 in. 1-Lite Solid Core Frosted Glass Shaker Primed Wood Interior Door Slab - $323 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608825/i1603.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608825/i1603_t.png",
+      "image_width": "320",
+      "image_height": "203",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608825/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1603-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608825/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1603-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608825",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:13.461Z"
+}

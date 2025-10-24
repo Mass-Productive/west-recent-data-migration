@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/608005/images",
+      "name": "Images for Assorted Bathroom Supplies: Large and Small Trash Cans, Toilet Brushes, Plungers, and Stainless Steel Seat Cover Dispensers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0011.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0011_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0012.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0012_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0013.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0013_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0014.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046022/wIMG_0014_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608005",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:42:02.375Z"
+}

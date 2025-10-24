@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578189/images",
+      "name": "Images for (10) Wooden And Plastic Handles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w5038cbf9-346f-4bac-bf76-b0c0e5c7b45e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w5038cbf9-346f-4bac-bf76-b0c0e5c7b45e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8288be82-7178-41fd-a396-1c88c8748336.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8288be82-7178-41fd-a396-1c88c8748336_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf111d2eb-e360-4337-b37a-17bcccd62f21.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf111d2eb-e360-4337-b37a-17bcccd62f21_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w80e8ceea-3930-43f1-878c-eb1401526d80.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w80e8ceea-3930-43f1-878c-eb1401526d80_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w4e36d4d4-cfea-45ff-ab0d-09ecfa41c6e2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w4e36d4d4-cfea-45ff-ab0d-09ecfa41c6e2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8a712286-a010-4a13-bc48-e9be4f40da4e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w8a712286-a010-4a13-bc48-e9be4f40da4e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w335d87b9-0756-4a89-abb9-a089a0e7ead8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w335d87b9-0756-4a89-abb9-a089a0e7ead8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578189",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:43.814Z"
+}

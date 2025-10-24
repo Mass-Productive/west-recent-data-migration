@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/600524/images",
+      "name": "Images for (6) GREY STACKING CHAIRS "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-2004-36272a7c-036e-4374-8481-f72641dc5628/w0331-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-2004-36272a7c-036e-4374-8481-f72641dc5628/w0331-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600524",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:15.648Z"
+}

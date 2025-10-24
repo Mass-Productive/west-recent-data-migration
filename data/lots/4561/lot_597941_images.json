@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/597941/images",
+      "name": "Images for RIDGID 2.0 Pro Gear System 22 in. XL 4 Drawers Modular Tool Box Storage- $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1148-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597941",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:31.449Z"
+}

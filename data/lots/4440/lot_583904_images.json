@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583904/images",
+      "name": "Images for Wald Rear Basket, Mounts On Rear Rack, Silver, Open Item"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w3a948b19-bd93-4da1-a03e-e20853ec8e6b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w3a948b19-bd93-4da1-a03e-e20853ec8e6b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w151d84e6-9a9f-4e52-9e50-c84765550f1c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w151d84e6-9a9f-4e52-9e50-c84765550f1c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w44370ed0-d4d0-4538-bafb-4e6033c90f8f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w44370ed0-d4d0-4538-bafb-4e6033c90f8f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w597a3ea3-bc43-4614-9bba-fd3e760c249a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w597a3ea3-bc43-4614-9bba-fd3e760c249a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/wa96b8579-6f2f-443e-a2e5-45172affcb33.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/wa96b8579-6f2f-443e-a2e5-45172affcb33_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w7dac35ef-121d-447f-b50a-2a25e7911f89.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583904/w7dac35ef-121d-447f-b50a-2a25e7911f89_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583904",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:28.735Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609470/images",
+      "name": "Images for 2 Dark Grey Bar Stools "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1537-6e68b820-1865-489e-b022-fbbc13db579f/w0876-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1537-6e68b820-1865-489e-b022-fbbc13db579f/w0876-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609470",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:11.562Z"
+}

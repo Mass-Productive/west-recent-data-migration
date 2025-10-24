@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592229/images",
+      "name": "Images for (30) Gray Metal Roof Panels 12&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592229/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0874-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592229",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:07:24.535Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/580241/images",
+      "name": "Images for (4) Wood Crates"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580241/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w01500-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580241",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:18:00.241Z"
+}

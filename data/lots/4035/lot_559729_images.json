@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559729/images",
+      "name": "Images for Glass Display Case"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/11-1832-6be495d6-404f-4c62-afe5-76fc5e205d99/w1054-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559729",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:56:57.782Z"
+}

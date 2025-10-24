@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583511/images",
+      "name": "Images for 27.5” tubes- lot of 5 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583511/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0804-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583511/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0804-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583511/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0804-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583511/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0804-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583511",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:46:49.151Z"
+}

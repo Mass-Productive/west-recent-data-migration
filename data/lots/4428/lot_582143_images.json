@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582143/images",
+      "name": "Images for (2) Shimano Road Cleat "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0506-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0506-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0506-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0506-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582143",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:55.495Z"
+}

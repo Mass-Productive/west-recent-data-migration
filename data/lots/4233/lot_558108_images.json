@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558108/images",
+      "name": "Images for 22” Lakeside Angle And 24” Starret Angle "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-1706-221198eb-2582-4dd0-8f65-625b83afc4bc/w0169-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558108",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:56.067Z"
+}

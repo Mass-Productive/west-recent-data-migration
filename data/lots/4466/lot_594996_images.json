@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/594996/images",
+      "name": "Images for Contents Of Pallet: Assorted Steel Fittings, Copper Pipe, Springs, And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/wf6d87d87-81ff-4a67-94d4-e9804e58bad2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/wf6d87d87-81ff-4a67-94d4-e9804e58bad2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w04d7e0d8-4c53-4702-8988-502c1ce2e157.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w04d7e0d8-4c53-4702-8988-502c1ce2e157_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w540fc17a-829b-4f98-8aa8-4033601a02a1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w540fc17a-829b-4f98-8aa8-4033601a02a1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/wa030fff2-dd5b-441b-b5bb-3654483593f2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/wa030fff2-dd5b-441b-b5bb-3654483593f2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/we9af4ad6-8eb0-47c2-b364-fea84c153a17.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/we9af4ad6-8eb0-47c2-b364-fea84c153a17_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w56b49214-8cb4-457c-928b-c26751d5d108.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492816x594996/w56b49214-8cb4-457c-928b-c26751d5d108_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594996",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:21.376Z"
+}

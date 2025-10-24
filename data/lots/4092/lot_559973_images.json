@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/559973/images",
+      "name": "Images for (1) Pallet of 12x8x8 Open End Half Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3804.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3804_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3803.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3803_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3805.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726862965/wIMG_3805_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559973",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T20:59:44.029Z"
+}

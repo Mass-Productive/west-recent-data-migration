@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579318/images",
+      "name": "Images for Winco EPO-1 Countertop Pizza Oven"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/25-2218-65d27f62-a813-42fc-8e68-5eed4c3cb242/w0149-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579318",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:21.857Z"
+}

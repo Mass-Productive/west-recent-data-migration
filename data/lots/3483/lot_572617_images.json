@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572617/images",
+      "name": "Images for Socapex Light Bar With Edison Plugs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572617/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2432-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572617",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:27.811Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580019/images",
+      "name": "Images for Baby changing Station"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1623-c200cb75-0cb2-41bd-bb4e-cee2eb244afc/w0100-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1623-c200cb75-0cb2-41bd-bb4e-cee2eb244afc/w0100-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1623-c200cb75-0cb2-41bd-bb4e-cee2eb244afc/w0100-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/05-1623-c200cb75-0cb2-41bd-bb4e-cee2eb244afc/w0100-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580019",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:16.541Z"
+}

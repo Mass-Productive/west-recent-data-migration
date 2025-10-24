@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560471/images",
+      "name": "Images for Lot Of 3/4” And 2” White Sew-on Loop Material"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i33142dcb-b5f5-4390-ae56-6588120d16e8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i33142dcb-b5f5-4390-ae56-6588120d16e8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-5_t.jpg",
+      "image_width": "249",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/25-2315-1b3b5615-6a72-4cd1-b0ac-9903487f5dbb/i0429-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560471",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:27.240Z"
+}

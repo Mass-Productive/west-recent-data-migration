@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596176/images",
+      "name": "Images for Advance Tabco Work Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-1_t.jpg",
+      "image_width": "320",
+      "image_height": "205",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-2_t.jpg",
+      "image_width": "320",
+      "image_height": "193",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-3_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-4_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-5_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0142-6_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596176",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:46.058Z"
+}

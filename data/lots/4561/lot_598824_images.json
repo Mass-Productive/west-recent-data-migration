@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598824/images",
+      "name": "Images for VEVOR Dump Truck Mesh Tarp, 8 x 18 ft, PVC Coated Black Heavy Duty Cover with 5.5&#34; 18oz Double Pocket, Brass Grommets, Reinforced Double Needle Stitch Webbing Fits Manual or Electric Dump Truck System- $54 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1271-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598824",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:14.359Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/569029/images",
+      "name": "Images for 4’ Bags And Baggage Sign"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w086592a8-8166-43c8-92ba-94de6da773aa.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w086592a8-8166-43c8-92ba-94de6da773aa_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w6afc1811-4e2e-45ef-b6b2-85e56a68b017.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w6afc1811-4e2e-45ef-b6b2-85e56a68b017_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wa9fa9cd9-1d81-4dd8-a0e3-1a7028c74e5c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wa9fa9cd9-1d81-4dd8-a0e3-1a7028c74e5c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w9104af9a-b3ec-49dc-a34e-1c3e9febd8af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w9104af9a-b3ec-49dc-a34e-1c3e9febd8af_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/we400bcd1-bf56-4d2b-a101-fab402fe2809.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/we400bcd1-bf56-4d2b-a101-fab402fe2809_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569029",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:11:35.045Z"
+}

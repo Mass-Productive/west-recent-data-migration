@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588142/images",
+      "name": "Images for (2) Magura disc brake pad set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/w5c7b808e-823c-42ca-abca-4e68b7a6b0b6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/w5c7b808e-823c-42ca-abca-4e68b7a6b0b6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/wa7a22066-6a23-4b2f-960b-6aecfe991b1f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/wa7a22066-6a23-4b2f-960b-6aecfe991b1f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/we47bf8be-ffa5-4748-b3e5-9b858741ec09.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588142/we47bf8be-ffa5-4748-b3e5-9b858741ec09_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588142",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:15.235Z"
+}

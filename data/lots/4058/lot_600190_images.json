@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600190/images",
+      "name": "Images for Lot of 3 Moen DN67080RB Rubbed Bronze Toilet Paper Holders"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0178-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600190",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:32.331Z"
+}

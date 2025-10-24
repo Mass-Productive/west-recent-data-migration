@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598844/images",
+      "name": "Images for Maasdam 2,000 lb. 1-Ton Capacity 12 ft. Max Lift 15:1 Leverage Winch Puller Come Along Tool with 12 ft. of Cable Included- $72 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1301-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598844",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:21.180Z"
+}

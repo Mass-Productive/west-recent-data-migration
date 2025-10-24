@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579684/images",
+      "name": "Images for General Tools Combo Pin and Pinless Moisture Meter for Water Damage and Mold Prevention"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579684/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1367-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579684",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:49.719Z"
+}

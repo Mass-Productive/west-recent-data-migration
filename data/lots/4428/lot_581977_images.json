@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581977/images",
+      "name": "Images for Shimano 105 brake shoe set lot of 4 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wa520bc77-3c0e-41ae-a8a9-baaa62d455ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wa520bc77-3c0e-41ae-a8a9-baaa62d455ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3947a860-0439-44a0-8283-ad12bed718e8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w3947a860-0439-44a0-8283-ad12bed718e8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581977",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:48.516Z"
+}

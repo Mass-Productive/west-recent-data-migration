@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/559970/images",
+      "name": "Images for (1) Pallet of 16x8x16 Open Center Pilaster Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3820.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3820_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3822.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3822_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3824.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/1726861972/wIMG_3824_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559970",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T20:59:42.781Z"
+}

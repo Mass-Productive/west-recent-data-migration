@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4464/items/607264/images",
+      "name": "Images for Contents of Pallet: Antique Grinding Stones and Seat"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4464/app/03-2250-1e10fe6e-d8ab-4626-83fb-cd57cdcd0b09/w0118-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607264",
+  "auctionId": "4464",
+  "collectedAt": "2025-10-24T01:02:43.436Z"
+}

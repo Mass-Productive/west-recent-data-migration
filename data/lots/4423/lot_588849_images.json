@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/588849/images",
+      "name": "Images for 300&#39;X13&#39; Roll of Woven Landscape Fabric (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588849/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0664-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588849",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:36:05.964Z"
+}

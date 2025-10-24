@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/568481/images",
+      "name": "Images for Pasture Feeder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/02-2127-81500783-9825-4051-8624-d09e0186cd2c/w0224-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568481",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T21:59:31.089Z"
+}

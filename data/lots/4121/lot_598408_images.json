@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4121/items/598408/images",
+      "name": "Images for Cypress Slab"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0176-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0176-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/30-2205-37a0f468-f42f-47ad-a52c-198c9e2c8849/w0176-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/30-2205-37a0f468-f42f-47ad-a52c-198c9e2c8849/w0176-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/9ee7b8c5/w660d4d9a-c363-4be5-b710-504bfdb5446e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/9ee7b8c5/w660d4d9a-c363-4be5-b710-504bfdb5446e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/9ee7b8c5/wfc346aa5-9214-49b0-bdec-f0709230e8e5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/9ee7b8c5/wfc346aa5-9214-49b0-bdec-f0709230e8e5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/30-2205-37a0f468-f42f-47ad-a52c-198c9e2c8849/w0176-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/30-2205-37a0f468-f42f-47ad-a52c-198c9e2c8849/w0176-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598408",
+  "auctionId": "4121",
+  "collectedAt": "2025-10-23T21:02:36.107Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597239/images",
+      "name": "Images for (6) Semi Truck Trailer Steel Rims - 24.5&#34;"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/17-1632-9a6f039a-9157-46bd-8719-e7dc977dfa54/w0106-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597239",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:10.996Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/601109/images",
+      "name": "Images for KURT HYDRAULIC HOSES"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0345-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0345-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0345-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1615-f6bc59df-3128-4c99-8a83-cdd6675cdc93/w0345-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601109",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:24.432Z"
+}

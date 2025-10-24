@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/600520/images",
+      "name": "Images for (10) NESTING ROLLING CHAIRS"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-1649-ce0ff57f-6780-4af2-9d0b-f0e627b51f50/w0319-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-1649-ce0ff57f-6780-4af2-9d0b-f0e627b51f50/w0319-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-1649-ce0ff57f-6780-4af2-9d0b-f0e627b51f50/w0319-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/31-1649-ce0ff57f-6780-4af2-9d0b-f0e627b51f50/w0319-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600520",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:14.034Z"
+}

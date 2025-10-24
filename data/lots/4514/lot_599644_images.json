@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599644/images",
+      "name": "Images for (3) Mixed Size Metro Rack Shelves"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-1819-7f29e9e5-f4bc-4fde-830e-25aceb6fe241/w0271-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-1819-7f29e9e5-f4bc-4fde-830e-25aceb6fe241/w0271-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-1819-7f29e9e5-f4bc-4fde-830e-25aceb6fe241/w0271-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-1819-7f29e9e5-f4bc-4fde-830e-25aceb6fe241/w0271-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/e17e9c2c/w8d860ee7-97ff-4fa3-9168-b2849971ac58.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/e17e9c2c/w8d860ee7-97ff-4fa3-9168-b2849971ac58_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/e17e9c2c/w40b65d69-36c0-411d-bd8f-070449e16cab.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/e17e9c2c/w40b65d69-36c0-411d-bd8f-070449e16cab_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599644",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:34.822Z"
+}

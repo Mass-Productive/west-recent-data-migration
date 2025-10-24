@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575146/images",
+      "name": "Images for 49&#39;x3&#39; Roll of Galvanized Steel Welded Wire Fence (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575146/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0438-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575146",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-24T00:07:22.818Z"
+}

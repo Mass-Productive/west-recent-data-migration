@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596022/images",
+      "name": "Images for (2) Heat Guns And (1) Drill"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596022/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0484-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596022",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:03.287Z"
+}

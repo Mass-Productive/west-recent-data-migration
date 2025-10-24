@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560439/images",
+      "name": "Images for (2) White IKEA Filur Plastic Trash Bins"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0396-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560439",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:14.447Z"
+}

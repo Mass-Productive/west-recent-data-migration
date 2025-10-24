@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573959/images",
+      "name": "Images for Contents Of Pallet: Gary Platt Hospitality Chairs (6) Boxes Of (2) Chairs For Assembly "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0571-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573959",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:48:43.984Z"
+}

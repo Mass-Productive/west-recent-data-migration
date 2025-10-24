@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578342/images",
+      "name": "Images for Bulk Lot: Assorted Water Proof Boots "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0239-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578342",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:46.440Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584744/images",
+      "name": "Images for RIDGID Replacement Submersible Water Pump for RIDGID Tile Saws - $37 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-0005-0294af52-8633-43df-8d18-22532d0ccba4/wH2031-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584744",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:50:28.470Z"
+}

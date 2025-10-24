@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/594936/images",
+      "name": "Images for 100-Gallon Stainless Steel Rolling Pressurized Tank "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w52033914-acec-42a6-999e-a0a191c2ae6d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w52033914-acec-42a6-999e-a0a191c2ae6d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w832b7f90-9522-482e-a1a2-4c6116738bbe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w832b7f90-9522-482e-a1a2-4c6116738bbe_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w3277bcf7-6926-41c6-8468-2c04b82a35bd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w3277bcf7-6926-41c6-8468-2c04b82a35bd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/wf044c72e-d128-4bd9-ab4d-0c6dd85722fb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/wf044c72e-d128-4bd9-ab4d-0c6dd85722fb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w996a6254-845e-4224-b17c-93e4712e7558.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w996a6254-845e-4224-b17c-93e4712e7558_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w61e46b98-5cd1-49d7-b440-7f2e1b4be417.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w61e46b98-5cd1-49d7-b440-7f2e1b4be417_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w56179591-a83b-4f05-aa33-99b338900719.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w56179591-a83b-4f05-aa33-99b338900719_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w2b13cb18-861b-4958-9eef-0ac52a5fa924.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594936/w2b13cb18-861b-4958-9eef-0ac52a5fa924_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594936",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:02:57.938Z"
+}

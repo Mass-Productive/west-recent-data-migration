@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/594938/images",
+      "name": "Images for Bag Filler "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w93f99d4b-2b68-43f7-bfc9-c43526124e8d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w93f99d4b-2b68-43f7-bfc9-c43526124e8d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/we2113e84-6af8-4dea-9b49-c2d3732e39b1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/we2113e84-6af8-4dea-9b49-c2d3732e39b1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w349f96b9-bfc8-48c6-be7c-e6bef44d9d3b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w349f96b9-bfc8-48c6-be7c-e6bef44d9d3b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w2e457ce9-65e7-4d76-b9ac-6221774a871e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w2e457ce9-65e7-4d76-b9ac-6221774a871e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w08f0e5f2-cbdc-407e-8999-7b98b0c6847d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594938/w08f0e5f2-cbdc-407e-8999-7b98b0c6847d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594938",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:02:58.744Z"
+}

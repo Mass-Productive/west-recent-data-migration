@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559848/images",
+      "name": "Images for Restaurant Table (Cherry) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-1946-66a78324-5627-4659-b9f5-bf41d827b8f7/w1149-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559848",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:57:43.510Z"
+}

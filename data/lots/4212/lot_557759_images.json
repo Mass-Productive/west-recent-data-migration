@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557759/images",
+      "name": "Images for Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0101-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557759",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:08.516Z"
+}

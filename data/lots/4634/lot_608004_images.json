@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/608004/images",
+      "name": "Images for (5) Black Wood Picture Frames, 11x17"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0017.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0017_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0015.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0015_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0016.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0016_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0018.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046088/wIMG_0018_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608004",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:42:01.974Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593265/images",
+      "name": "Images for Home Decorators Collection 31 in. W x 22 in. D Cultured Marble White Rectangular Single Sink Vanity Top in Bianco Antico - $369 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593265/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3599-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593265/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3599-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593265/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3599-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593265/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3599-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593265",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:06.033Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587942/images",
+      "name": "Images for Pirelli Scorpion Enduro M 29x2.6 Tire "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746176x587942/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1867-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587942",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:25.502Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560389/images",
+      "name": "Images for New Harbinger Padded Leather Weight Belt"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1915-a08eae39-1fe4-4445-aa68-2f8ed2c82648/i0347-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0347-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560389",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:54.268Z"
+}

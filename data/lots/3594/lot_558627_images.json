@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558627/images",
+      "name": "Images for (6) Seagrass 2cm Honed Limestone"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0105-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558627",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:08.321Z"
+}

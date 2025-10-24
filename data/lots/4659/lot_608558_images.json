@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608558/images",
+      "name": "Images for Quantity of (9) Assorted Commercial Electric &#38; Halo Lighting Fixtures - $224 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608558/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1053-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608558",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:13.525Z"
+}

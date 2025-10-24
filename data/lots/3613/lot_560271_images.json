@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560271/images",
+      "name": "Images for BabyBjörn Infant Carrier"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/06-2155-91ffed4b-3bfb-4c86-b698-ca9af4fe6804/i0231-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560271",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:07.000Z"
+}

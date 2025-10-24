@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4425/items/581312/images",
+      "name": "Images for Garbage Can With Contents: Adjustable Coupling "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/24-1427-59645e9e-bb9e-4055-aa56-694b086ca0d7/w0278-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581312",
+  "auctionId": "4425",
+  "collectedAt": "2025-10-24T00:38:01.305Z"
+}

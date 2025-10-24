@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585817/images",
+      "name": "Images for HDX 6-Tier Commercial Grade Heavy Duty Steel Wire Shelving Unit in Chrome (48 in. W x 72 in. H x 18 in. D) - $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513680/i2182.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513680/i2182_t.png",
+      "image_width": "297",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/10-1356-158a2f8f-ebfb-4d2f-bcb8-7b68ba1760db/wH2182-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585817",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:29.695Z"
+}

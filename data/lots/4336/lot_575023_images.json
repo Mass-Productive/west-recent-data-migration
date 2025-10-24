@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575023/images",
+      "name": "Images for Black Wood Burning Stove (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575023/app/02-1433-c0dfa570-f444-45fe-8e4c-b26d7a119204/w0408-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575023",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:43:12.611Z"
+}

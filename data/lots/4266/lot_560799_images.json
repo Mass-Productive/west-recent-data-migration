@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4266/items/560799/images",
+      "name": "Images for Modine Natural Gas Heater "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-14_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-15.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-15_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-16.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-16_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0188-13_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560799",
+  "auctionId": "4266",
+  "collectedAt": "2025-10-23T21:46:06.602Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573189/images",
+      "name": "Images for Headphone Adapters"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573189/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i2285-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573189/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i2285-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573189",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:23.199Z"
+}

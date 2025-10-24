@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596192/images",
+      "name": "Images for Lodge Dutch Oven"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wcaf764b3-c7da-4f12-8d9d-da915702cbef.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wcaf764b3-c7da-4f12-8d9d-da915702cbef_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wfad19cba-7f7a-441d-89d0-562766010510.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wfad19cba-7f7a-441d-89d0-562766010510_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w8e33c12a-a584-4b6c-8721-155c2fbc393d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w8e33c12a-a584-4b6c-8721-155c2fbc393d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wadbb959d-8d65-4239-83d0-397076a6bfcb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wadbb959d-8d65-4239-83d0-397076a6bfcb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596192",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:52.519Z"
+}

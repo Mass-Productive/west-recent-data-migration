@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568161/images",
+      "name": "Images for Food Warmer Countertop"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568161/app/29-0103-7950d216-1176-4e88-87f3-3385959c7239/w0432-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568161",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:55:59.805Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560388/images",
+      "name": "Images for Elf On The Shelf - Double Pack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-8_t.jpg",
+      "image_width": "320",
+      "image_height": "254",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-12_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-13_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1921-2928360c-c52a-4760-a1a2-baf28e032683/i0349-14_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560388",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:53.865Z"
+}

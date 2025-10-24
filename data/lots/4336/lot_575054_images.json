@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575054/images",
+      "name": "Images for (68) 20&#39;x2-1/2&#34; Pieces of Rigid Non-Metallic Conduit (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575054/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0461-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575054",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:50:57.934Z"
+}

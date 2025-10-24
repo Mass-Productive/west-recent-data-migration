@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/560718/images",
+      "name": "Images for (1) Pallet of Slump Block Tan Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3923.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3923_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3921.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3921_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3922.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3922_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3924.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728429654x560718/w0014LIMG_3924_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560718",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T21:00:24.502Z"
+}

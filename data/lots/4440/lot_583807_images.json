@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583807/images",
+      "name": "Images for Kryptonite 4’ X 5mm Combo Cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583807/w1f2c3845-8125-466e-8431-3f7bf145042b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583807/w1f2c3845-8125-466e-8431-3f7bf145042b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583807/wfe29da99-83a9-4d45-b1e1-1e9a55792bad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583807/wfe29da99-83a9-4d45-b1e1-1e9a55792bad_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583807",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:49.210Z"
+}

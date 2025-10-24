@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4585/items/599232/images",
+      "name": "Images for HP Officejet Pro 6968"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/app/17-2246-fc15c340-0e42-4a08-ba18-3564c19dbcc8/w2005-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599232",
+  "auctionId": "4585",
+  "collectedAt": "2025-10-24T02:29:57.181Z"
+}

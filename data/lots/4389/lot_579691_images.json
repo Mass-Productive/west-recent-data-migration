@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579691/images",
+      "name": "Images for RIDGID 4 Gal. 5.0-Peak HP Portable Wet/Dry Shop Vacuum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579691/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1347-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579691/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1347-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579691/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1347-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579691/app/21-0323-c590cf8b-8909-437b-97af-af7b36441932/w1347-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579691",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:52.541Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573860/images",
+      "name": "Images for Uline Tilt Truck (Contents NOT Included) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w6e6c65c8-168a-4605-8385-4c1fde7166c8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w6e6c65c8-168a-4605-8385-4c1fde7166c8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w3b595ab5-6523-4da7-9beb-e01c8d9a3cae.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w3b595ab5-6523-4da7-9beb-e01c8d9a3cae_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we3ce6b9c-10de-49f9-9c61-4ffb377d1610.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/we3ce6b9c-10de-49f9-9c61-4ffb377d1610_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w75fdf7ec-117f-4a7d-b236-99f0cdcb9544.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w75fdf7ec-117f-4a7d-b236-99f0cdcb9544_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573860",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:33:02.231Z"
+}

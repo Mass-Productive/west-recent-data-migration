@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/560544/images",
+      "name": "Images for (1) Pallet of AB Classic Corner Tan Left &#38; Right Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3994.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3994_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3995.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3995_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3996.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3996_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3997.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3997_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3998.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728428981x560544/w0002BIMG_3998_t.jpeg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560544",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T20:59:50.838Z"
+}

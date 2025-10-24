@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578180/images",
+      "name": "Images for (2) Bush Hooks"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wb542b212-acb2-46e9-9d82-7e90d29f08a2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wb542b212-acb2-46e9-9d82-7e90d29f08a2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd9a1173f-3e03-442d-9762-6c96481b53c0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wd9a1173f-3e03-442d-9762-6c96481b53c0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w68e50c7c-7008-4c88-97d2-5b4100de669b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w68e50c7c-7008-4c88-97d2-5b4100de669b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wec8fb93c-115b-45f7-8b47-a843aa97617a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wec8fb93c-115b-45f7-8b47-a843aa97617a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wed17e3b7-5edb-455e-b338-906d63dbd55b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wed17e3b7-5edb-455e-b338-906d63dbd55b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578180",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:40.063Z"
+}

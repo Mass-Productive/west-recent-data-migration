@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558504/images",
+      "name": "Images for Short Mount Road Case "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1933-bc49c0c6-c6db-44f5-a461-36eb66528540/w1115-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558504",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:17.460Z"
+}

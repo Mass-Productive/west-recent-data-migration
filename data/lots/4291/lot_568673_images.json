@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568673/images",
+      "name": "Images for Contents Of Drawer: Assorted Milling Machine Parts "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0146-5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568673",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:21.943Z"
+}

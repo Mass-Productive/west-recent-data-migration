@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4168/items/567392/images",
+      "name": "Images for (10) Misc Light Bulbs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0828-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0828-1-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0828-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0828-2-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "567392",
+  "auctionId": "4168",
+  "collectedAt": "2025-10-23T21:08:04.152Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/597501/images",
+      "name": "Images for Wall Mounted Shelving Units With Contents "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597501/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0905-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597501",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:06:32.777Z"
+}

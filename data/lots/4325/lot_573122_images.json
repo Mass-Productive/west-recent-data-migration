@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573122/images",
+      "name": "Images for (1) Road Case/Trunk on Wheels "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573122/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2413-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573122",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:14:55.857Z"
+}

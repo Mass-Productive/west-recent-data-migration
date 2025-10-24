@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574513/images",
+      "name": "Images for (1) Black Left-Handed Fender Stratocaster"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/31-2128-0119f407-877e-4977-9489-f6d09ed8894c/w0255-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574513",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:04:08.303Z"
+}

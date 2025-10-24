@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560350/images",
+      "name": "Images for Lot Of AMF Dick Weber Wrist Pro 2 Bowling Wrist Guards"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1355-c265506f-4993-4de0-af3b-1d506a5f2e5c/i0264-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560350",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:38.685Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575231/images",
+      "name": "Images for ECR Kids Changing Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2304-7bfb3e5a-ec19-46bb-873a-3c23b5b85cee/w0524-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2304-7bfb3e5a-ec19-46bb-873a-3c23b5b85cee/w0524-1_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2304-7bfb3e5a-ec19-46bb-873a-3c23b5b85cee/w0524-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2304-7bfb3e5a-ec19-46bb-873a-3c23b5b85cee/w0524-2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575231",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:34.448Z"
+}

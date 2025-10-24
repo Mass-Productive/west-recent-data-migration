@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580728/images",
+      "name": "Images for Longer Butcher Prep Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0139-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0139-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0139-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0139-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580728",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:34.071Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596109/images",
+      "name": "Images for Vollrath Roasting Pan"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2256-9fb925b8-a10b-4e26-958d-98d8d880ca95/w0151-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596109",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:18.960Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582428/images",
+      "name": "Images for 80ft of 4/0 awg single conductor round portable power cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582428/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0157-1-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582428/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0157-1-rot180_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582428",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:12.496Z"
+}

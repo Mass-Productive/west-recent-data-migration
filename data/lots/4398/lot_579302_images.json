@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579302/images",
+      "name": "Images for True Curved Glass Deli Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/22-0215-95cdecda-14e8-45cf-89be-bbe2db00a434/w0117-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579302",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:15.158Z"
+}

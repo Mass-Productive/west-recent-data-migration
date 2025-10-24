@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/586424/images",
+      "name": "Images for Stainless Dunnage Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1509-676faeda-f2cf-4c12-89e9-05f00c9269a0/w0571-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586424",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:45:39.269Z"
+}

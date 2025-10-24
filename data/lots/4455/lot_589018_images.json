@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/589018/images",
+      "name": "Images for Adjustable Reamer #29"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589018/app/15-1947-a37eb726-109a-44d7-bea5-4f1119620f4f/w1983-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589018/app/15-1947-a37eb726-109a-44d7-bea5-4f1119620f4f/w1983-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589018/app/15-1947-a37eb726-109a-44d7-bea5-4f1119620f4f/w1983-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589018/app/15-1947-a37eb726-109a-44d7-bea5-4f1119620f4f/w1983-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589018",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:54.528Z"
+}

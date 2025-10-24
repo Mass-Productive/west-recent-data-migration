@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593179/images",
+      "name": "Images for HDX 6-Tier Commercial Grade Heavy Duty Steel Wire Shelving Unit in Chrome (48 in. W x 72 in. H x 24 in. D) - $199 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593179/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3577-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593179",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:31.275Z"
+}

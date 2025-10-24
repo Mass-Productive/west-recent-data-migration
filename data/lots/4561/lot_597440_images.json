@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/597440/images",
+      "name": "Images for DEWALT 29.8 lbs. Compact Miter Saw Stand with 500 lbs. Capacity - $229 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w01000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597440",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:15.437Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588128/images",
+      "name": "Images for (2) Shimano disc brake pad set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588128/w9e76c16a-8ac0-4830-95ad-7cea0172b7ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588128/w9e76c16a-8ac0-4830-95ad-7cea0172b7ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588128/w03427286-3b1a-4aa7-8851-2df595df98a3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588128/w03427286-3b1a-4aa7-8851-2df595df98a3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588128",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:09.515Z"
+}

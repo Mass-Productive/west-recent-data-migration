@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4182/items/555968/images",
+      "name": "Images for Bernard 3 Gallon Hopper "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/app/16-1926-a477a386-5ba0-436e-85a1-195a4392e682/w0144-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "555968",
+  "auctionId": "4182",
+  "collectedAt": "2025-10-23T21:10:12.076Z"
+}

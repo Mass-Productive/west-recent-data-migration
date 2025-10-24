@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601555/images",
+      "name": "Images for (30) Brown Metal Roof Panels 16&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601555/app/13-0142-7d2d7ea8-7479-4264-ae96-d76dd292e13f/wS1058-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601555",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:20.479Z"
+}

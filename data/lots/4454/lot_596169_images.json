@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596169/images",
+      "name": "Images for Advance Tabco Work Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-1_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-2_t.jpg",
+      "image_width": "320",
+      "image_height": "222",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/06-2205-6b0b7f9e-a0f5-4ac2-81a7-da9fd8887c5d/w0135-3_t.jpg",
+      "image_width": "320",
+      "image_height": "219",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596169",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:43.225Z"
+}

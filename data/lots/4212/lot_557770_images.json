@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557770/images",
+      "name": "Images for Kitchen Island Butcher Top "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0115-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557770",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:12.080Z"
+}

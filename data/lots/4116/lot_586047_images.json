@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586047/images",
+      "name": "Images for Industrial Research Voice Matic Mixer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1902-ebddc2a6-938c-4b75-946f-5d577fa8c074/w0213-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586047",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:39.046Z"
+}

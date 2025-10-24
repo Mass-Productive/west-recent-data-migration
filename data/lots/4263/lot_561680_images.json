@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561680/images",
+      "name": "Images for 6’ Husky Fiberglass Ladder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1841-62699ddc-cf5b-4872-818b-f95cf3e27f38/w0381-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561680",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:45:07.355Z"
+}

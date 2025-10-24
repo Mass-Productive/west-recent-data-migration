@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/606922/images",
+      "name": "Images for (4) Office Chairs and Dry Erase Board"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/06-0209-6b8155cc-5462-449d-aac4-4caa90911c6f/w0516-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "606922",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:41:10.597Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/581561/images",
+      "name": "Images for 328&#39; High Strength Polyester Arborist Rope - 3/4&#34; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581561/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0658-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581561/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0658-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581561/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0658-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581561/app/21-2357-39e39e4d-3107-47d4-bac9-97f84bd8a5cc/wS0658-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581561",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:34:19.154Z"
+}

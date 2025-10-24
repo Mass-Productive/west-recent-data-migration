@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581930/images",
+      "name": "Images for (2) Tektro lyra cross disc rotor 140mm 6 bolt "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1730-b97374d2-e753-4c95-9d90-7872468758d9/w0355-5-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581930",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:30.180Z"
+}

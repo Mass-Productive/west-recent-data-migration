@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595043/images",
+      "name": "Images for Bulk Lot Pallet Of Assorted Strip Curtains "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/wa1d95e9e-a778-484c-8331-e7e9c47e1e82.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/wa1d95e9e-a778-484c-8331-e7e9c47e1e82_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/waa3d2e4e-86c9-431e-b522-9cb2a739ff5e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/waa3d2e4e-86c9-431e-b522-9cb2a739ff5e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/we3b3a466-ba27-49f5-a094-5010bd68a64c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/we3b3a466-ba27-49f5-a094-5010bd68a64c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/web737ffc-9057-4aa9-bf8c-b398467b4865.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/web737ffc-9057-4aa9-bf8c-b398467b4865_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/wb6ba5ca1-3c01-458c-a75b-d7ef9f7ff020.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595043/wb6ba5ca1-3c01-458c-a75b-d7ef9f7ff020_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595043",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:40.297Z"
+}

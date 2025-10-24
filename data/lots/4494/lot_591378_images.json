@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591378/images",
+      "name": "Images for RIDGID 16 Gallon 6.5 Peak HP NXT Shop Vacuum Wet Dry Vac with Detachable Blower, Filter, Locking Hose and Accessories - $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/09-0431-1804a606-55dd-4459-8adc-3b4981e6b483/wH3084-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591378",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:46.465Z"
+}

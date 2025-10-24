@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4540/items/600552/images",
+      "name": "Images for 67 x 34 Inch Clovis Goods 20S01102-67 Solid Surface Free Standing Oval Soaker Bathtub - Matte White (NEW)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20S01102-67_(3).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20S01102-67_(3)_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144007.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144007_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144030.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144030_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144124.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250410_144124_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250310_132852.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1748889529/w20250310_132852_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600552",
+  "auctionId": "4540",
+  "collectedAt": "2025-10-24T02:08:33.593Z"
+}

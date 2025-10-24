@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599285/images",
+      "name": "Images for American Standard Fairbury 2S Single-Handle Pull-Down Sprayer Kitchen Faucet in Matte Black  $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1553-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1553-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1553-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1553-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599285",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:02.933Z"
+}

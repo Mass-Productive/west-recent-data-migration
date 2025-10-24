@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560255/images",
+      "name": "Images for Square Red Faux Fur Rug"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/05-0125-74b9e79a-84e8-43f3-abd4-7518525ac5aa/i0220-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560255",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:00.465Z"
+}

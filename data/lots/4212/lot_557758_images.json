@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557758/images",
+      "name": "Images for Pizza Prep Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2041-71165f0f-1e23-473c-9caf-0194c049ae11/w0102-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557758",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:08.113Z"
+}

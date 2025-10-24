@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558574/images",
+      "name": "Images for Napolina Limestone Mosaic S"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia993aa98-30b8-4016-8cea-775e4dc65b70.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ia993aa98-30b8-4016-8cea-775e4dc65b70_t.jpg",
+      "image_width": "320",
+      "image_height": "255",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3e6478f4-8542-4031-92b0-84c75cb05b2d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3e6478f4-8542-4031-92b0-84c75cb05b2d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ic9c75270-3a65-4301-829e-c29f6caabf09.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ic9c75270-3a65-4301-829e-c29f6caabf09_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/idc296454-4a0d-4ba0-bb68-da6633a2d965.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/idc296454-4a0d-4ba0-bb68-da6633a2d965_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/1726680584/w66eb0e09e8dfb_66eb0e40471ce.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/1726680584/w66eb0e09e8dfb_66eb0e40471ce_t.jpg",
+      "image_width": "271",
+      "image_height": "265",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib49f51d1-b76b-43d1-98ac-72ee508b215d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib49f51d1-b76b-43d1-98ac-72ee508b215d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558574",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:47.078Z"
+}

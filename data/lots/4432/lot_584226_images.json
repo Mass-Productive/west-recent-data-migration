@@ -1,0 +1,14 @@
+{
+  "result": "error",
+  "code": "ITEM_NO_IMAGE",
+  "message": "No Image found with the specified Item Id.",
+  "links": [
+    {
+      "rel": "type",
+      "href": "https://www.westauction.com/api/types/errors"
+    }
+  ],
+  "lotId": "584226",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:44:10.974Z"
+}

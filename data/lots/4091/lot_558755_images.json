@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4091/items/558755/images",
+      "name": "Images for Iron Grip Weight Plate Set 2-25 lbs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w28b096e3-2191-40bf-9faa-07930fd879d8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w28b096e3-2191-40bf-9faa-07930fd879d8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7c6d8bae-8f59-4331-a053-84ffb0fc4039.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7c6d8bae-8f59-4331-a053-84ffb0fc4039_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7c20326f-4da0-4eeb-8c44-cf46eec2809b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w7c20326f-4da0-4eeb-8c44-cf46eec2809b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w90c3102b-88b3-4f31-b26d-86feb538eb7c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w90c3102b-88b3-4f31-b26d-86feb538eb7c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wf7dd790b-bdc6-4888-ad48-2a6c68eb0edd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wf7dd790b-bdc6-4888-ad48-2a6c68eb0edd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558755",
+  "auctionId": "4091",
+  "collectedAt": "2025-10-23T20:58:43.843Z"
+}

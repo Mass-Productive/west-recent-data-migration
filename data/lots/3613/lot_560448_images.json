@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560448/images",
+      "name": "Images for 2000yds Of 3/4” White Knitted Elastic"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-1_t.jpg",
+      "image_width": "320",
+      "image_height": "222",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/24-2025-9449659d-17dd-4c8e-93c0-3e4cac0bb815/i0408-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560448",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:18.078Z"
+}

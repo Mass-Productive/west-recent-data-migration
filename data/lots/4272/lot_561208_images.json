@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561208/images",
+      "name": "Images for 12’x16’ Area Rug "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0975-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561208",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:49:03.158Z"
+}

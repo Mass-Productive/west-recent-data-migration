@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578316/images",
+      "name": "Images for Bay Of 1/4” Pammy Pebbles "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdf4ff4d-fd7e-4e1d-88c8-840708ad3450.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdf4ff4d-fd7e-4e1d-88c8-840708ad3450_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdb2cc15-c39b-4cb5-9a7c-d9a1c0c3bb32.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdb2cc15-c39b-4cb5-9a7c-d9a1c0c3bb32_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wf64d6946-331d-4009-97a4-d6b97fd72de4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wf64d6946-331d-4009-97a4-d6b97fd72de4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578316",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:35.867Z"
+}

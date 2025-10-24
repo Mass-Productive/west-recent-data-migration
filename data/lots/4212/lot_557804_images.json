@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557804/images",
+      "name": "Images for Boxes, Butcher Paper, And Binders"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/05-1910-736a9fe2-4545-4930-bd6e-5cabbc79792a/w0155-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557804",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:25.402Z"
+}

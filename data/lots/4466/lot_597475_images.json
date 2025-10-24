@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/597475/images",
+      "name": "Images for HP Printer And Zebra Printer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1751125320x597475/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0933-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597475",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:06:22.315Z"
+}

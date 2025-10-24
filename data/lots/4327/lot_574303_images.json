@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/574303/images",
+      "name": "Images for Wooden Warehouse Shelf"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0820-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0820-1_t.jpg",
+      "image_width": "144",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0820-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0820-2_t.jpg",
+      "image_width": "144",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574303",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T23:10:57.121Z"
+}

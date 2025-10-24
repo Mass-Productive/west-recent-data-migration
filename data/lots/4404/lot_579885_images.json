@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579885/images",
+      "name": "Images for (20) 3&#39;x4&#39;x0.4mm Black Steel Diamond Plates (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/wa228f415-9463-401f-84ca-7b609ee348e9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/wa228f415-9463-401f-84ca-7b609ee348e9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w482697f8-2a5b-4e77-87d6-e5055b6f033d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w482697f8-2a5b-4e77-87d6-e5055b6f033d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w22be5e30-b4c8-4bc9-8e5f-bb98bacd0c8d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w22be5e30-b4c8-4bc9-8e5f-bb98bacd0c8d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/wc84eb369-d5b3-4fa4-a39c-d78cbdd83884.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/wc84eb369-d5b3-4fa4-a39c-d78cbdd83884_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w7eb08ec6-a935-43b6-81d6-495feaacd5b0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579885/w7eb08ec6-a935-43b6-81d6-495feaacd5b0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579885",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:27.783Z"
+}

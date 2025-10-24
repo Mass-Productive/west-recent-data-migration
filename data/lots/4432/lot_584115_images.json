@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/584115/images",
+      "name": "Images for Rolling Metal Catering Transport Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/04-0048-bf447bda-e976-4396-a9f9-da845d69b9b1/w0219c-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584115",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:43:25.815Z"
+}

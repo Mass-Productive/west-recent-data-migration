@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4425/items/581135/images",
+      "name": "Images for (2) 3’ Masonry Scaffolding "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4425/app/20-1754-b3d771e1-1a30-46af-8892-0da8d5b557fb/w0254-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581135",
+  "auctionId": "4425",
+  "collectedAt": "2025-10-24T00:36:51.184Z"
+}

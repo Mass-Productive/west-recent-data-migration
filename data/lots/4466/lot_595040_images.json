@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595040/images",
+      "name": "Images for Contents Of Pallet: Aluminum Platforms, Empty Bottles, Assorted Electronics, And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w1a8aed27-22e0-4e44-9825-a0ff8d509835.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w1a8aed27-22e0-4e44-9825-a0ff8d509835_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w67134638-715b-4f77-8e2b-2a989dc4a0c0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w67134638-715b-4f77-8e2b-2a989dc4a0c0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/wae5395f6-c3b5-48cb-9c6a-e2e2e426d6c4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/wae5395f6-c3b5-48cb-9c6a-e2e2e426d6c4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/wefa369cb-dc15-45ae-84b0-2a3135ac6ed4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/wefa369cb-dc15-45ae-84b0-2a3135ac6ed4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w7f2c51ab-fc55-4ec6-8842-dbacdee50746.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595040/w7f2c51ab-fc55-4ec6-8842-dbacdee50746_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595040",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:39.084Z"
+}

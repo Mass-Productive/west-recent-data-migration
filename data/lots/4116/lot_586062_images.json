@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586062/images",
+      "name": "Images for Dalite Tripod Screen 10ft Diagonal"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-13_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/27-2057-a99dd74c-e613-4491-a693-c845db04e5e5/w0311-14_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586062",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:45.008Z"
+}

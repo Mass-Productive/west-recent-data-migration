@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578468/images",
+      "name": "Images for RYOBI ONE+ HP 18V Brushless Cordless Compact Barrel Grip Jig Saw (Tool Only)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578468/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1097-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578468",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:01.092Z"
+}

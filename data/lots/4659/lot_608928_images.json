@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608928/images",
+      "name": "Images for Hampton Bay Designer Series Soleste Assembled 18x96x23.75 in. Pantry Kitchen Cabinet in Spice - $507 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608928/i1645.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608928/i1645_t.png",
+      "image_width": "320",
+      "image_height": "252",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608928/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1645-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608928/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1645-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608928",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:17.519Z"
+}

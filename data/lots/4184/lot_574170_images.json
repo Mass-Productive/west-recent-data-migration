@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/574170/images",
+      "name": "Images for (3) Insulated Chimney Pipes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/app/09-1809-482d7fe3-7afe-4c0c-9dbd-e7613f7c8eb8/w1000-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574170",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:13:00.149Z"
+}

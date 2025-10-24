@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573805/images",
+      "name": "Images for Steel Table (Contents NOT Included) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w09d19cdd-0f73-4df4-9d0d-384b34b3f095.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w09d19cdd-0f73-4df4-9d0d-384b34b3f095_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w83e0e397-67a2-4a0c-8444-cb9314f6fb8a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w83e0e397-67a2-4a0c-8444-cb9314f6fb8a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w6948be35-9668-4b44-96c8-881199e6a61f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/w6948be35-9668-4b44-96c8-881199e6a61f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wd528151f-3ed3-4b31-b8ad-1a9cf1b2da84.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/6e340c4f/wd528151f-3ed3-4b31-b8ad-1a9cf1b2da84_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573805",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:32:54.034Z"
+}

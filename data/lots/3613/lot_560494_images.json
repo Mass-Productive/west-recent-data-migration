@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560494/images",
+      "name": "Images for Pottery Barn Wooden Teen Desk"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1445-1b478ecf-b22d-4cdc-852d-b3452446fc5a/i0452-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560494",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:36.472Z"
+}

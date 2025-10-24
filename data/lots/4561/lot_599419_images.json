@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599419/images",
+      "name": "Images for Rheem 42,000 Grain Preferred Platinum Wi-Fi Enabled Smart Water Softener for Hard Water and Iron Reduction-$ 627 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1479.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1479_t.png",
+      "image_width": "161",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1479-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599419",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:55.755Z"
+}

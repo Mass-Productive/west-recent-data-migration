@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590094/images",
+      "name": "Images for Nails"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w6c787659-3e91-45d4-a3ea-f13ca0e5b02f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w6c787659-3e91-45d4-a3ea-f13ca0e5b02f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/we6159e8b-f46e-4dde-aeeb-093a6e333a5a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/we6159e8b-f46e-4dde-aeeb-093a6e333a5a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w914c6964-061f-4225-8023-66308f098b48.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w914c6964-061f-4225-8023-66308f098b48_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wfe0905cd-0e4c-4164-b009-59b2cf4d51be.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wfe0905cd-0e4c-4164-b009-59b2cf4d51be_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590094",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:46.654Z"
+}

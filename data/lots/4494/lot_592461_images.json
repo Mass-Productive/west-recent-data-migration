@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592461/images",
+      "name": "Images for Panasonic WhisperThin DC LED Pick-A-Flow 80 -100 CFM Ceiling/Wall Bathroom Exhaust Fan, 3-3/8 in. Low Profile Housing - $158 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3504.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3504_t.png",
+      "image_width": "320",
+      "image_height": "228",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592461/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3504-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592461",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:13.018Z"
+}

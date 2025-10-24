@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586114/images",
+      "name": "Images for EAW CIS400 70v Ceiling Speakers (pair)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/03-0058-8049c9bd-316a-4c0e-ae45-c530b4952f04/w0161-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586114",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:05.835Z"
+}

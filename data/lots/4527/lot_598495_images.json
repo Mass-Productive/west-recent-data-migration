@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598495/images",
+      "name": "Images for Natural Gas Pitco Fryer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/20-0256-92966ca0-1490-43a0-8154-d6b915bcef98/w0120-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598495",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:02:45.027Z"
+}

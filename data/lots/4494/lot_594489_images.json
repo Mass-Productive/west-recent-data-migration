@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594489/images",
+      "name": "Images for Artika Swirl Butterfly 26-Watt 1 Light Chrome Modern 3 CCT Integrated LED Pendant Light Fixture for Dining Room or Kitchen - $199 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594489/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3704-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594489",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:49.162Z"
+}

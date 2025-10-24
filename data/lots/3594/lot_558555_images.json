@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558555/images",
+      "name": "Images for (11) Spectra Leathered 2cm Granite Slabs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0100-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558555",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:39.486Z"
+}

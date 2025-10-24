@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/569013/images",
+      "name": "Images for Glass Display And Contents: Wrapping Paper"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w94574bfa-e919-429b-aa08-3c715e8a0298.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w94574bfa-e919-429b-aa08-3c715e8a0298_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wd1b8e62f-2f5b-47c0-acee-dc4c1966da19.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wd1b8e62f-2f5b-47c0-acee-dc4c1966da19_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w44d21db3-958d-4a1e-9583-87435a6da46f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w44d21db3-958d-4a1e-9583-87435a6da46f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w05e9ea2c-0d32-44a1-8afc-97e05c5827fd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w05e9ea2c-0d32-44a1-8afc-97e05c5827fd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w7b51cccd-fa41-4a24-9872-d90fa6030622.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w7b51cccd-fa41-4a24-9872-d90fa6030622_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569013",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:11:28.673Z"
+}

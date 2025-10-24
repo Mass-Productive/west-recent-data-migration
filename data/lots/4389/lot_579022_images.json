@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579022/images",
+      "name": "Images for DEWALT 4.5 Gal. Portable Electric Air Compressor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w7d908b55-48a4-4071-9f8a-53db3aaff16f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w7d908b55-48a4-4071-9f8a-53db3aaff16f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w6d063ceb-7613-4449-a2c1-e9c726a4b410.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w6d063ceb-7613-4449-a2c1-e9c726a4b410_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w6d6d35c9-b3b5-4ed7-a464-c56035e88505.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w6d6d35c9-b3b5-4ed7-a464-c56035e88505_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w28e05940-ff3c-40ca-9759-3ecc5ae3011a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w28e05940-ff3c-40ca-9759-3ecc5ae3011a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w06ab82ac-f858-4a76-bf36-74f0031008b6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w06ab82ac-f858-4a76-bf36-74f0031008b6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w0f3575a8-86bd-4433-8a7c-f99c1986f655.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579022/w0f3575a8-86bd-4433-8a7c-f99c1986f655_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579022",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:30.366Z"
+}

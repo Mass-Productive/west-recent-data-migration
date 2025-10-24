@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4360/items/576757/images",
+      "name": "Images for (5) 66&#39;x5&#39; Rolls of 14GA Hot-Dip Galvanized Welded Wire Mesh - 330&#39; Total Length (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4360/cp1738609576x576757/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0131J0130-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "576757",
+  "auctionId": "4360",
+  "collectedAt": "2025-10-24T00:13:23.541Z"
+}

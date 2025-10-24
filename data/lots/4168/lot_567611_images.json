@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4168/items/567611/images",
+      "name": "Images for (20) Type A Gobo Holders"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4168/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0661-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "567611",
+  "auctionId": "4168",
+  "collectedAt": "2025-10-23T21:09:03.654Z"
+}

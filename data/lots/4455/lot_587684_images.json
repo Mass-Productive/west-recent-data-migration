@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587684/images",
+      "name": "Images for Shimano Deore XT PD-M8100 SPD Pedal "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587684/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1488-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587684",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:56:42.644Z"
+}

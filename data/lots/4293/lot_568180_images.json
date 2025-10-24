@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568180/images",
+      "name": "Images for Mix of Stainless Steel Lids and Smallware "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568180/app/29-2341-1aa068c7-4e3b-42d3-92dc-390f7b7d1ec4/w0471-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568180",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:56:07.520Z"
+}

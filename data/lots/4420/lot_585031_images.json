@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585031/images",
+      "name": "Images for (2) Handmade Bicycle Stools"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-2159-a12de885-7195-481f-8f35-523398b54f14/w0472-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585031",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:31:43.134Z"
+}

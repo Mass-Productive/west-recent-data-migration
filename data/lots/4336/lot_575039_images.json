@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575039/images",
+      "name": "Images for (30) Red Polycarbonate Roof Panels 8&#39;x3&#39;x0.8mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575039/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0472-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575039",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:50:51.916Z"
+}

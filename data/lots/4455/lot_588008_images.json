@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588008/images",
+      "name": "Images for Park Tool Container + Ferrules And Cable Ends "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/wcb710307-d1e5-4209-a1fd-28372ea9fddc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/wcb710307-d1e5-4209-a1fd-28372ea9fddc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/w261bb181-d4a9-4027-a662-de4f24d4da7f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/w261bb181-d4a9-4027-a662-de4f24d4da7f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/wc802472a-c6e0-4bea-bf87-82bd81ef808a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588008/wc802472a-c6e0-4bea-bf87-82bd81ef808a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588008",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:50.381Z"
+}

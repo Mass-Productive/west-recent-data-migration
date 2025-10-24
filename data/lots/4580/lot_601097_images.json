@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4580/items/601097/images",
+      "name": "Images for Contents Of Pallet: Banding Tools"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfc2f1fca-84d8-4229-8026-1648220439c8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfc2f1fca-84d8-4229-8026-1648220439c8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wba1e5fb6-d972-417e-9a58-4a91a13e25ef.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wba1e5fb6-d972-417e-9a58-4a91a13e25ef_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w5c0063d4-83a9-405b-be0d-a562b1146e1b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w5c0063d4-83a9-405b-be0d-a562b1146e1b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w1e18c23a-2f79-4197-8750-5d8ebf26220d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w1e18c23a-2f79-4197-8750-5d8ebf26220d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w98ceb4b2-44f9-4c46-809d-5d22e203407d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w98ceb4b2-44f9-4c46-809d-5d22e203407d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wb7743c83-2a5b-4ac4-986c-055239dc1319.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wb7743c83-2a5b-4ac4-986c-055239dc1319_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wef43e1e4-bffe-424c-b419-a69c6226ee07.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wef43e1e4-bffe-424c-b419-a69c6226ee07_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601097",
+  "auctionId": "4580",
+  "collectedAt": "2025-10-24T02:29:42.798Z"
+}

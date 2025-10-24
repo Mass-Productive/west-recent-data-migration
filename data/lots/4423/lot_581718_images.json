@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/581718/images",
+      "name": "Images for 2025 Agriquip SG1420 14&#39;x20&#39; Single Garage Metal Shed (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/iSG1420.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/iSG1420_t.jpg",
+      "image_width": "320",
+      "image_height": "188",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/app/11-1515-696ea13d-90e1-453c-b18e-6aa3050bc37d/wC0147-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/app/11-1515-696ea13d-90e1-453c-b18e-6aa3050bc37d/wC0147-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/app/11-1515-696ea13d-90e1-453c-b18e-6aa3050bc37d/wC0147-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743363565x581718/app/11-1515-696ea13d-90e1-453c-b18e-6aa3050bc37d/wC0147-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/app/08-2058-656a1874-eee4-4b16-8f57-5cfdeb46a707/wC0548-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/app/08-2058-656a1874-eee4-4b16-8f57-5cfdeb46a707/wC0548-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/app/08-2058-656a1874-eee4-4b16-8f57-5cfdeb46a707/wC0548-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/app/08-2058-656a1874-eee4-4b16-8f57-5cfdeb46a707/wC0548-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581718",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:35:21.136Z"
+}

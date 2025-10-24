@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586070/images",
+      "name": "Images for TC Electronics M-One Dual Effects Signal Processor. (Intermittent display screen)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2025-07c8de0f-1577-4379-a212-e62fb5368cad/w0214-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586070",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:48.174Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558559/images",
+      "name": "Images for (10) Juparana Guyana 2cm Polished"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ie489ec87-83c9-4a7e-b0ec-a63e43764259.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ie489ec87-83c9-4a7e-b0ec-a63e43764259_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0101-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0101-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i008a6277-3727-4376-9988-d14b80967ab7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i008a6277-3727-4376-9988-d14b80967ab7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558559",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:41.082Z"
+}

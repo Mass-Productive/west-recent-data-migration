@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/575878/images",
+      "name": "Images for Contents Of Pallet: (2) Metal Garbage Cans And One Countryline Trough"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w8ed7e3af-7f53-4234-b75b-8c53969b16f8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w8ed7e3af-7f53-4234-b75b-8c53969b16f8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w84635b5d-f364-4c9d-a46c-55ddada5d198.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w84635b5d-f364-4c9d-a46c-55ddada5d198_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/we356e5c6-b622-4f8e-8bdf-188d173a7a98.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/we356e5c6-b622-4f8e-8bdf-188d173a7a98_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/wa154095f-9068-4fda-8d03-a60bfd193502.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/wa154095f-9068-4fda-8d03-a60bfd193502_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w6f60c130-ce0b-4486-ad51-4f87aac72b46.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575878/w6f60c130-ce0b-4486-ad51-4f87aac72b46_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575878",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:11:29.085Z"
+}

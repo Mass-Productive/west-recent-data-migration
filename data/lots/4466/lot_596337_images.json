@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596337/images",
+      "name": "Images for White Cabinet (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/w07dd03f9-b0b1-4ba8-b3f3-30ed290263d2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/w07dd03f9-b0b1-4ba8-b3f3-30ed290263d2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/we266cf68-4122-4d63-a8d5-f9dc9138dd76.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/we266cf68-4122-4d63-a8d5-f9dc9138dd76_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/w4e448488-2a8d-4cbc-bbfe-25f2c893771d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/w4e448488-2a8d-4cbc-bbfe-25f2c893771d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/wd5501d97-678f-4ab7-a3cd-1b3b43e405d1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596337/wd5501d97-678f-4ab7-a3cd-1b3b43e405d1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596337",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:22.267Z"
+}

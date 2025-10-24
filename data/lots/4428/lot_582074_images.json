@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582074/images",
+      "name": "Images for (3) Jagwire road sport brake cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0456-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582074",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:27.666Z"
+}

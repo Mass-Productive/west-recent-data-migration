@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/606267/images",
+      "name": "Images for HOZAKI ICE MAKER"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/29-1821-83713b33-9cb9-4bad-80a9-333f428bf1d0/w0613-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/29-1821-83713b33-9cb9-4bad-80a9-333f428bf1d0/w0613-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/29-1821-83713b33-9cb9-4bad-80a9-333f428bf1d0/w0613-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/29-1821-83713b33-9cb9-4bad-80a9-333f428bf1d0/w0613-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "606267",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:31.205Z"
+}

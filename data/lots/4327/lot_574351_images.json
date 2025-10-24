@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/574351/images",
+      "name": "Images for 4-Drawer Upright File Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0841-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0841-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0841-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0841-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574351",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T23:11:12.896Z"
+}

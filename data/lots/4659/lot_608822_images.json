@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608822/images",
+      "name": "Images for Glacier Bay 24.4 in. W x 25.2 in. H Rectangular Medicine Cabinet with Mirror in Silver with Adjustable Shelves - $109 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608822/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1547-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608822",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:12.256Z"
+}

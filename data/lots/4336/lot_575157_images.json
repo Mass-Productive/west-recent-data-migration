@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575157/images",
+      "name": "Images for (15) Fluorescent Safety Traffic Cones 16.5&#34;x27&#34; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575157/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0436a-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575157/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0436a-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575157/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0436a-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575157/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0436a-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575157",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-24T00:07:27.260Z"
+}

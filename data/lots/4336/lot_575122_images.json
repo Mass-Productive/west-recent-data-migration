@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575122/images",
+      "name": "Images for (5) 20&#39;x5.9&#39; Fire Retardant Safety Nets with Metal Grommets (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575122/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0426-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575122",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:51:26.127Z"
+}

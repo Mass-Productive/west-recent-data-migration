@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592470/images",
+      "name": "Images for Smart Thermostat"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592470/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3526-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592470/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3526-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592470/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3526-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592470/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3526-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592470",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:16.731Z"
+}

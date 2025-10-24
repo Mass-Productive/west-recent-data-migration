@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568140/images",
+      "name": "Images for Alto-Shaam Heated Cabinet "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568140/app/28-2149-b28be849-f0ee-43d5-8087-e3f54090da67/w0428-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568140",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:55:51.373Z"
+}

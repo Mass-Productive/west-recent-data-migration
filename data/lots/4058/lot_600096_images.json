@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600096/images",
+      "name": "Images for (3) Focus 24” Towel Bars in Polished Chrome Finish"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0104-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600096",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:54.770Z"
+}

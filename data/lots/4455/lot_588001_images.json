@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588001/images",
+      "name": "Images for Misc Spoke Parts "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588001/w8bd18c13-9a27-44b2-bbfb-dbc96e8e8a40.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588001/w8bd18c13-9a27-44b2-bbfb-dbc96e8e8a40_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588001",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:47.420Z"
+}

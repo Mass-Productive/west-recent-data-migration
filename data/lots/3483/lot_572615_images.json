@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572615/images",
+      "name": "Images for Shure UHF Wireless System"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572615/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2394-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572615",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:27.009Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608819/images",
+      "name": "Images for HDC Palermo Grove 5-Light Black with Walnut Accent Linear Coastal Chandelier with Bulbs - $299 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/i1550.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/i1550_t.png",
+      "image_width": "320",
+      "image_height": "194",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608819/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1550-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608819",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:11.301Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558558/images",
+      "name": "Images for (8) River view Brushed 2cm Quartzite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0102-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/08-2253-b229d60a-fc29-422b-879d-65493896f99e/i0102-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i8e143363-3a19-4ae3-8d2b-74f173a6c0b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i8e143363-3a19-4ae3-8d2b-74f173a6c0b9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i5ece8fad-3a75-4a2f-bdc5-c21e292e2888.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i5ece8fad-3a75-4a2f-bdc5-c21e292e2888_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558558",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:40.684Z"
+}

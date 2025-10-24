@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605381/images",
+      "name": "Images for Electronic Time Recorders"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-0212-f0fdefe3-32eb-4b23-91fe-8b76538349f0/w0311-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605381",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:03.403Z"
+}

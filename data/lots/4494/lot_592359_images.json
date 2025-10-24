@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592359/images",
+      "name": "Images for Architectural Mailboxes Chelsea Black, Small, Steel, Locking, Wall Mount Mailbox - $34 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592359/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3244-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592359/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3244-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592359/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3244-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592359/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3244-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592359",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:32.285Z"
+}

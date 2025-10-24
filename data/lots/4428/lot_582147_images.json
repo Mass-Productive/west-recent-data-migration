@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582147/images",
+      "name": "Images for (3) Bontrager Insole"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0502-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582147",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:57.104Z"
+}

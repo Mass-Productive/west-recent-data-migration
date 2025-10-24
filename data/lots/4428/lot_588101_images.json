@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588101/images",
+      "name": "Images for Camelback Cleaning Tabs 2 Boxes (16 Tablets)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747921x588101/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1387-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747921x588101/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1387-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747921x588101/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1387-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747921x588101/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1387-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588101",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:34.862Z"
+}

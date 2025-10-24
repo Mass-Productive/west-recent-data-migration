@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581904/images",
+      "name": "Images for (2) Shimano rear derailleur "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-2349-2a8d6c6d-5bb6-40a3-b7e9-e7e6700c2667/w0348-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581904",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:19.608Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592527/images",
+      "name": "Images for (70) Black Metal Roof Wall Panels 12&#39;x35&#34;x0.3mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747689428x592527/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0115-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592527",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:12:09.146Z"
+}

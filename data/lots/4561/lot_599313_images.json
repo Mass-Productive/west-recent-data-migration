@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599313/images",
+      "name": "Images for Commercial Electric 50 CFM Ceiling Mount Room Side Installation Bathroom Exhaust Fan, ENERGY STAR- $54 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1385-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1385-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1385-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1385-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599313",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:14.148Z"
+}

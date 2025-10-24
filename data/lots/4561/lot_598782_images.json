@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598782/images",
+      "name": "Images for Schumacher Electric Automotive 6 Volt and 12 Volt 15 Amp Fully Automatic Battery Charger and Maintainer with Battery Tester -$56 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1230-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1230-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1230-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1230-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598782",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:57.500Z"
+}

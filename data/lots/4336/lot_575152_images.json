@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575152/images",
+      "name": "Images for 100&#39;x6&#39; Roll of Rustproof Galvanized Iron wire Mesh (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575152/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0428-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575152/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0428-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575152/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0428-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575152/app/08-0004-e055e7c6-19df-4c80-94fe-ed3753cb8e64/w0428-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575152",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-24T00:07:25.232Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608872/images",
+      "name": "Images for Eaton 200 Amp 20-Space 40-Circuit Surface EUSERC BR Type Main Meter Breaker - $320 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608872/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1539-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608872",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:31.125Z"
+}

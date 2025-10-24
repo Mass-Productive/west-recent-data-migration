@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/580773/images",
+      "name": "Images for (7) Stone Top Cafe Tabes "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w20c36fc0-1b08-4e9b-8cc1-eca8ff051c93.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w20c36fc0-1b08-4e9b-8cc1-eca8ff051c93_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wae626eb2-899b-450d-a585-8b613efebbc0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wae626eb2-899b-450d-a585-8b613efebbc0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wc0eae8e9-420b-4de5-8294-48baed90d31e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wc0eae8e9-420b-4de5-8294-48baed90d31e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wd2a748dc-18fe-4582-81a1-3864a8d9aee7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wd2a748dc-18fe-4582-81a1-3864a8d9aee7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w470fb793-3d3d-42cd-993c-82dff9cce480.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w470fb793-3d3d-42cd-993c-82dff9cce480_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580773",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:08.601Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586097/images",
+      "name": "Images for Electro-voice ZX5-60 15in two-way speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0143-12_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586097",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:58.913Z"
+}

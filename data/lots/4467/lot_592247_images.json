@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592247/images",
+      "name": "Images for (68) 20&#39;x2-1/2&#34; Pieces of Rigid Non-Metallic Conduit (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592247/app/13-0215-61dbff99-b41d-4001-9e4b-aa04f43d13b7/wS0891-5-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592247",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:07:31.729Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590175/images",
+      "name": "Images for Ice-O-Matic Commercial Mobile Ice Cart"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-1_t.jpg",
+      "image_width": "286",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-2_t.jpg",
+      "image_width": "257",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0157-3_t.jpg",
+      "image_width": "273",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590175",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:26.176Z"
+}

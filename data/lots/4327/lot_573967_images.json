@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573967/images",
+      "name": "Images for (3) Brooms, (2) Dust Mops, Dustpan And Rubbermaid Brute Trash Can"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-2040-ac034851-b207-4663-9ab6-c247b4f6ef03/w0563-5-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573967",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:48:47.359Z"
+}

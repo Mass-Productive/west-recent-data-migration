@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558507/images",
+      "name": "Images for (4) Aluminum 2 Foot Leg (1.5” Diameter)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1942-2b62dd57-4d2a-4d35-9ce9-bb2f4594f7e0/w1118-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558507",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:18.668Z"
+}

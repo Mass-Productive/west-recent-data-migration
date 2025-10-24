@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592219/images",
+      "name": "Images for (2) Black 4-Tier Metal Collapsible Storage Shelves with Wheels (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592219/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0860-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592219",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:07:20.526Z"
+}

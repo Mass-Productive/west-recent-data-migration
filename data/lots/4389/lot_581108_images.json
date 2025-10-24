@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/581108/images",
+      "name": "Images for RIDGID 9 Gallon 4.25 Peak HP NXT Shop Vacuum Wet Dry Vac with General Debris Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581108/app/19-2225-8c9bb5a3-d8ad-42ad-bbd4-ddf255c4e0c1/w1236-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581108",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:18:08.457Z"
+}

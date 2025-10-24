@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600187/images",
+      "name": "Images for (4) 9TM-2424LW 24&#34; x 24&#34; TMS - Multi-purpose Access Panel - Stainless Steel - For Walls &#38; Ceilings - White Finish"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1753998031/w24-24.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1753998031/w24-24_t.jpg",
+      "image_width": "317",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-3-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0181-3-rot180_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600187",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:31.147Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592416/images",
+      "name": "Images for Commercial Electric 80 /110 CFM Ceiling Mount Room Side Installation Smart Bathroom Exhaust Fan and Bluetooth Speaker Powered by Hubspace - $199 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592416/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3259-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592416",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:54.880Z"
+}

@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560385/images",
+      "name": "Images for (22) White Ceramic Mugs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1722-9d7ea585-1797-4dc2-acdb-934d437886a0/i0344-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560385",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:52.670Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4351/items/575318/images",
+      "name": "Images for Square Dining Table 3’x3’"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/10-0022-c8df5926-464b-4fa5-8195-648e69be7a80/w0143-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575318",
+  "auctionId": "4351",
+  "collectedAt": "2025-10-24T00:10:42.082Z"
+}

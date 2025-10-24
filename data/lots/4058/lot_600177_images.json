@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600177/images",
+      "name": "Images for Crystorama 9845-CH-CG Harper 5 Light 17&#34; Wide Blown Glass Candle Style Mini Chandelier"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1753839454/w9845-CH.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1753839454/w9845-CH_t.jpg",
+      "image_width": "268",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0191-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600177",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:27.134Z"
+}

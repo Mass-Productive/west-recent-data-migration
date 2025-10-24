@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560505/images",
+      "name": "Images for Camera Support "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2141-c65584e0-52cd-4dd6-90fb-024d7c650378/w1206-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560505",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:52.723Z"
+}

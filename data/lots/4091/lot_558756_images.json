@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4091/items/558756/images",
+      "name": "Images for Weight Plate Sets 2-5 lb &#38; 2-10 lbs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wbbfb8c6f-a4f6-46d7-8f17-4540201cfbe9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wbbfb8c6f-a4f6-46d7-8f17-4540201cfbe9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wcfb873f6-b303-4ef9-b4ad-86eacf183222.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/wcfb873f6-b303-4ef9-b4ad-86eacf183222_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w21e50e6b-21ca-4d0a-9505-f924f06a4112.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/w21e50e6b-21ca-4d0a-9505-f924f06a4112_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/we67012fc-9902-4b41-95c5-ef74c8f05b03.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4091/8004ad39/we67012fc-9902-4b41-95c5-ef74c8f05b03_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558756",
+  "auctionId": "4091",
+  "collectedAt": "2025-10-23T20:58:44.248Z"
+}

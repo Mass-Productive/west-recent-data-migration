@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598779/images",
+      "name": "Images for VEVOR PCP Air Pump 3 Stage PCP Hand Pump 4500 psi Inflatable Air Gun Pump with Gauge Multi-Purpose for PCP Rifle Sporting -$47 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1233-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1233-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1233-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1233-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598779",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:56.296Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572697/images",
+      "name": "Images for Wire Connectors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572697/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2389-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572697/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2389-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572697/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2389-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572697/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2389-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572697",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:32.256Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580725/images",
+      "name": "Images for Star Warmer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/10-1845-11a00250-50eb-4154-beb9-ca2ebfca4c4e/w0137-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/10-1845-11a00250-50eb-4154-beb9-ca2ebfca4c4e/w0137-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/a0519fe2/w0f28b35c-052e-4e83-9a2c-b7c11538415c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/a0519fe2/w0f28b35c-052e-4e83-9a2c-b7c11538415c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580725",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:32.802Z"
+}

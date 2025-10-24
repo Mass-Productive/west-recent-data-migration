@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558692/images",
+      "name": "Images for Tornado Vacuum Drum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1624-9c3a1627-8e8e-47ce-b5d6-0c9fc3574b00/w0152-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1625-aa0e2d34-6d3e-4c8d-bb29-905d908ae5c4/w0152-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1625-aa0e2d34-6d3e-4c8d-bb29-905d908ae5c4/w0152-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558692",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:47.402Z"
+}

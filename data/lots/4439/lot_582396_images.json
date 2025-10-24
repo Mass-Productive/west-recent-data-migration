@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582396/images",
+      "name": "Images for DECKER TRUCK TOOL BOX "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582396/app/26-1510-a896905c-b313-450e-bdba-c941f6c221e4/w0124-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582396",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:45:59.504Z"
+}

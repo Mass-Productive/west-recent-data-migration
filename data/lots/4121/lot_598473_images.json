@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4121/items/598473/images",
+      "name": "Images for Black Walnut Slab"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1710-e0827248-f012-463a-9a4c-da6837465e07/w0111-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598473",
+  "auctionId": "4121",
+  "collectedAt": "2025-10-23T21:03:01.524Z"
+}

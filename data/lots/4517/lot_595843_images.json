@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595843/images",
+      "name": "Images for Steel (18) Station Locker System"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-13_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-14_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-15.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0819-15_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595843",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T02:01:45.883Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601612/images",
+      "name": "Images for 50-Ton Air and Manual Hydraulic Shop Press "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601612/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1079-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601612",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:43.271Z"
+}

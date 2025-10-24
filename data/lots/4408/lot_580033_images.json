@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580033/images",
+      "name": "Images for Turbochef 2 Oven"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-4_t.jpg",
+      "image_width": "304",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0121-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c42a4aa9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c42a4aa9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c4309e31.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c4309e31_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c435c11b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c435c11b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c43d314d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/1742834753/w67e18c43d314d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580033",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:21.839Z"
+}

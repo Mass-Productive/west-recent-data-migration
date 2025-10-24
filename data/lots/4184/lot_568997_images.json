@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/568997/images",
+      "name": "Images for After Hours Deposit Box And Binder Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wd7a64177-ece0-49d7-b7a6-e31bc786ddee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wd7a64177-ece0-49d7-b7a6-e31bc786ddee_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w85e44074-161b-43eb-a7db-53f88a1ff9bc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w85e44074-161b-43eb-a7db-53f88a1ff9bc_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w7e6020fb-0520-4363-a9e2-adde861f94ad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w7e6020fb-0520-4363-a9e2-adde861f94ad_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wa7a653a1-cd1e-4ff5-afbe-b98ccc669d57.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wa7a653a1-cd1e-4ff5-afbe-b98ccc669d57_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w31f32f26-c2c1-4d4e-abb5-4ca7fe04a98d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w31f32f26-c2c1-4d4e-abb5-4ca7fe04a98d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568997",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:11:22.256Z"
+}

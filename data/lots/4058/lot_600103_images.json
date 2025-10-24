@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600103/images",
+      "name": "Images for (24) Aspen Sealed Case of 24” Chrome Towel Bars"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w39031328-3e1f-43d7-9716-29377c9fea5b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w39031328-3e1f-43d7-9716-29377c9fea5b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w038253ea-46d9-4d45-ba11-61ec1c3bba00.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w038253ea-46d9-4d45-ba11-61ec1c3bba00_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wd795e4bc-d41c-4754-81ad-a0621dc510e4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wd795e4bc-d41c-4754-81ad-a0621dc510e4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600103",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:57.594Z"
+}

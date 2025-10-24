@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588230/images",
+      "name": "Images for Bulk Lot: Shimano disc brake pad set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/w45e8b51a-f791-446b-bf64-f1aa8afba18b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/w45e8b51a-f791-446b-bf64-f1aa8afba18b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/wb30336a0-1b68-4da2-b899-fc3d091acb50.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/wb30336a0-1b68-4da2-b899-fc3d091acb50_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/w153fdebd-b7d2-44ee-a705-babd903ffed7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/w153fdebd-b7d2-44ee-a705-babd903ffed7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/wb7c814ec-4622-48c9-9c07-9299c79c750e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588230/wb7c814ec-4622-48c9-9c07-9299c79c750e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588230",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:36.071Z"
+}

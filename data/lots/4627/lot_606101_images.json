@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4627/items/606101/images",
+      "name": "Images for (1) Pallet of Century Stone Shasta Blend Giant Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4627/app/28-2359-7faac5cd-a4ae-4e79-8195-0cf37bbd1535/w5116-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "606101",
+  "auctionId": "4627",
+  "collectedAt": "2025-10-24T02:37:03.679Z"
+}

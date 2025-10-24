@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600138/images",
+      "name": "Images for (3) Maxim 1000 BK  Black Outdoor Wall Sconces"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1725993685/w1000BK.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1725993685/w1000BK_t.jpg",
+      "image_width": "207",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0143-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0143-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0143-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0143-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600138",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:11.502Z"
+}

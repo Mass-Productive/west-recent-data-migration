@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593195/images",
+      "name": "Images for Everbilt 1/2 HP Cast Iron Submersible Sump Pump - $259 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593195/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3561-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593195",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:37.722Z"
+}

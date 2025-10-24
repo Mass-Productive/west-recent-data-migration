@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575230/images",
+      "name": "Images for Italian Crafted Pizza Oven "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2010-d6acda6f-638b-4ea5-b9bc-1ec0b43f30c7/w0100-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2010-d6acda6f-638b-4ea5-b9bc-1ec0b43f30c7/w0100-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/03-2304-2b740b66-03bb-4803-9526-451ceeb81275/w0100-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/03-2304-2b740b66-03bb-4803-9526-451ceeb81275/w0100-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575230",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:34.046Z"
+}

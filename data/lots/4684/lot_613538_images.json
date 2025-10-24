@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4684/items/613538/images",
+      "name": "Images for 9’ Collapsible Photo Wall (Frame Only)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4684/app/16-2139-3b051e9d-f824-415f-b574-ff57733879db/w0235-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "613538",
+  "auctionId": "4684",
+  "collectedAt": "2025-10-24T04:27:33.024Z"
+}

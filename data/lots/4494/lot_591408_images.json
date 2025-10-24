@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591408/images",
+      "name": "Images for RIDGID 18V OCTANE Brushless Cordless 3-Speed 1/4 Sheet Sander - $139 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3164-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3164-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3164-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3164-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591408",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:58.515Z"
+}

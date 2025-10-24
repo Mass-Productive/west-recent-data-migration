@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4463/items/590708/images",
+      "name": "Images for Epiphone SG Model Electric Guitar With Case "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-5-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/30-2133-96faa3cd-5837-4b99-bc3f-8cd033adcb56/w0235-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590708",
+  "auctionId": "4463",
+  "collectedAt": "2025-10-24T01:01:26.190Z"
+}

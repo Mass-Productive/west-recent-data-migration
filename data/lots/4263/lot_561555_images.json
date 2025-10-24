@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561555/images",
+      "name": "Images for Forane 22 Refrigerant "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w6e973009-bda2-40ff-b4f5-0a5ee40b1d73.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w6e973009-bda2-40ff-b4f5-0a5ee40b1d73_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0251-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561555",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:16.702Z"
+}

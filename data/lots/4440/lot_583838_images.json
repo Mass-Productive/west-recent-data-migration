@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583838/images",
+      "name": "Images for Nite Rider Lights Set USB Rechargeable "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583838/w493b281c-601f-4c6c-b7d7-706742b14062.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583838/w493b281c-601f-4c6c-b7d7-706742b14062_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583838/w8e1b3971-7c09-40b9-bc31-0b2eec5193d6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583838/w8e1b3971-7c09-40b9-bc31-0b2eec5193d6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583838",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:01.960Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572679/images",
+      "name": "Images for (27) CAT5 Connectors "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572679/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2367-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572679/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2367-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572679",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:30.252Z"
+}

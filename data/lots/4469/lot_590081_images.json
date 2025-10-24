@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590081/images",
+      "name": "Images for Knaack Box"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2251-9e5ff802-726e-4d78-acb7-d24f71ef0e62/w0262-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590081",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:41.448Z"
+}

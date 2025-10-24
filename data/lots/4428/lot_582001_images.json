@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582001/images",
+      "name": "Images for Shimano chainring lot of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w232ce530-1f66-4c04-92b9-3b518045f591.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w232ce530-1f66-4c04-92b9-3b518045f591_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w1264c86d-a68f-4e41-ae5e-ae3d35b1ecda.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w1264c86d-a68f-4e41-ae5e-ae3d35b1ecda_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w4ced5c55-f37e-4e76-9ff9-1284f974c2e7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w4ced5c55-f37e-4e76-9ff9-1284f974c2e7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/we18b21fe-588a-4fdf-a8a5-5ef2e23a5171.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/we18b21fe-588a-4fdf-a8a5-5ef2e23a5171_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582001",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:58.253Z"
+}

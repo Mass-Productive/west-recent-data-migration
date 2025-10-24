@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4580/items/601033/images",
+      "name": "Images for (2) Filing Cabinets"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/app/08-2316-ac43d04b-e025-46fa-bf6d-9416e3c95e7f/w0206-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601033",
+  "auctionId": "4580",
+  "collectedAt": "2025-10-24T02:29:17.060Z"
+}

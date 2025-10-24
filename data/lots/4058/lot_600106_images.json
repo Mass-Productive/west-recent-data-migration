@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600106/images",
+      "name": "Images for Kohler 2279-1-96 Devonshire Drop In Bathroom Sink with Single Hole Drilled and Overflow"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1724098246/w2279.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1724098246/w2279_t.jpg",
+      "image_width": "320",
+      "image_height": "261",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w5e3b5fe7-a957-4d69-acb9-0613102e5323.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w5e3b5fe7-a957-4d69-acb9-0613102e5323_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w63e049fd-14f7-4138-ac0e-898aa8d95d49.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w63e049fd-14f7-4138-ac0e-898aa8d95d49_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w7ce66c0d-8254-4f56-8454-32f8a7ce7ba1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w7ce66c0d-8254-4f56-8454-32f8a7ce7ba1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w302a7801-1e03-46a3-bc49-f2505a462cd9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w302a7801-1e03-46a3-bc49-f2505a462cd9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wfb6ebade-849a-4b01-a2d4-84783060cf76.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wfb6ebade-849a-4b01-a2d4-84783060cf76_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w48277c59-145a-43d9-a18f-c9e5286d0418.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w48277c59-145a-43d9-a18f-c9e5286d0418_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600106",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:58.785Z"
+}

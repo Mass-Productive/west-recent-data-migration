@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579783/images",
+      "name": "Images for (15) Fluorescent Safety Traffic Cones 16.5&#34;x27&#34; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579783/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0545-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579783",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:24.558Z"
+}

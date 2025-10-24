@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592417/images",
+      "name": "Images for Quantity of (3) Commercial Electric 50 CFM Ceiling Mount Room Side Installation Bathroom Exhaust Fan with Adjustable Color Temperature LED and Night Light - $194 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3258.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3258_t.png",
+      "image_width": "320",
+      "image_height": "208",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592417/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3258-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592417",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:55.279Z"
+}

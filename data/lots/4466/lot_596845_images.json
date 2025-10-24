@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596845/images",
+      "name": "Images for Bulk Lot Of Accessory Piping And Wall Brackets (No Equipment Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750361480x596845/app/17-1457-233aa164-209e-4cb1-8f55-cdb6835338bd/w2000-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750361480x596845/app/17-1457-233aa164-209e-4cb1-8f55-cdb6835338bd/w2000-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750361480x596845/app/17-1457-233aa164-209e-4cb1-8f55-cdb6835338bd/w2000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750361480x596845/app/17-1457-233aa164-209e-4cb1-8f55-cdb6835338bd/w2000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "238",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596845",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:06:16.678Z"
+}

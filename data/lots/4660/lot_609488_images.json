@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609488/images",
+      "name": "Images for FIRE KING HEAVY DUTY CABINET 4 Drawer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1750-89998d90-c2bd-440b-ba02-22def05719fd/w0891-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1750-89998d90-c2bd-440b-ba02-22def05719fd/w0891-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609488",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:18.697Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592486/images",
+      "name": "Images for (2) Bathroom Accessory Kits and (2) Double Handle Bathroom Faucet in Nickel and Black"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592486/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3510-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592486",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:23.196Z"
+}

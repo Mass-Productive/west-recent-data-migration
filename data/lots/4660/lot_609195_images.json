@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609195/images",
+      "name": "Images for Xerox Printer Ink Cartridges"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/cp1758308681x609195/app/03-1602-287ab830-df87-4b93-a67c-1dfb59574ad2/w0702-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609195",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:42.455Z"
+}

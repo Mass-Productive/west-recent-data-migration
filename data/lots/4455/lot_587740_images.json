@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587740/images",
+      "name": "Images for Flop Stop And Faux Top Tube For Transport Of Step thru Bikes "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587740/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1543-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587740/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1543-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587740/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1543-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587740/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1543-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587740",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:05.509Z"
+}

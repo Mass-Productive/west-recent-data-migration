@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595302/images",
+      "name": "Images for (2) Dayton Fans "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wf92f7bb3-6eaf-4861-b208-2d48ac7a80cd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wf92f7bb3-6eaf-4861-b208-2d48ac7a80cd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wb05fbfd9-33d8-41f3-bceb-ee774d2eddf3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wb05fbfd9-33d8-41f3-bceb-ee774d2eddf3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wff60f16b-8066-488b-8052-1b0b9b4d15f9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wff60f16b-8066-488b-8052-1b0b9b4d15f9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w6b40a334-9f88-45eb-90d0-651512773e10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w6b40a334-9f88-45eb-90d0-651512773e10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wfd2ce9aa-5178-46a1-a850-f8a06c73e7eb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wfd2ce9aa-5178-46a1-a850-f8a06c73e7eb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wc9d21e58-e7db-4768-8626-d096788ad647.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wc9d21e58-e7db-4768-8626-d096788ad647_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w2d255ae9-0d87-481a-a57a-3689a295da10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w2d255ae9-0d87-481a-a57a-3689a295da10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595302",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:58:08.249Z"
+}

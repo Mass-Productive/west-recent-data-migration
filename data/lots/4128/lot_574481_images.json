@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574481/images",
+      "name": "Images for (1) Netgear GS524T 24 Port Switch"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2302-9870578a-53f5-401c-86a7-8a00a67c6900/w0223-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574481",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:55.480Z"
+}

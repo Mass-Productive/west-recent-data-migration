@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4633/items/607047/images",
+      "name": "Images for Commercial Coffee/Espresso Machine Cafection Innovation"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-1_t.jpg",
+      "image_width": "185",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/30-1957-bec09d16-c3dd-48d0-a9df-cb51445c2917/w0514-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607047",
+  "auctionId": "4633",
+  "collectedAt": "2025-10-24T02:39:18.934Z"
+}

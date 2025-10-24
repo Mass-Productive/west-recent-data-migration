@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598926/images",
+      "name": "Images for RIDGID 2-1/2 in. x 13 ft. DUAL-FLEX Locking Vacuum Hose Kit Accessory Shop Vacuum Attachment for RIDGID Wet Dry Vacs -$27 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iRidge_Vac_hose_.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iRidge_Vac_hose__t.png",
+      "image_width": "245",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1109-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1109-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598926",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:24.389Z"
+}

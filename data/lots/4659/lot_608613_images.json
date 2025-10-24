@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608613/images",
+      "name": "Images for Quantity of (4) Hampton Bay Garfield 11&#34;x2.42&#34; Integrated LED Brushed Aluminum Square Track Flush Mount Ceiling Light - $432 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608613/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1057-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608613",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:35.902Z"
+}

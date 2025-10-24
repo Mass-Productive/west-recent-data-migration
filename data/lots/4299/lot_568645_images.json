@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/568645/images",
+      "name": "Images for Metal Gate - 91”x54”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w86e8813f-6bd6-4a56-8da2-a992b6b2b193.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w86e8813f-6bd6-4a56-8da2-a992b6b2b193_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w3ffe830a-39e9-48de-8d2d-68913bdcffdb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w3ffe830a-39e9-48de-8d2d-68913bdcffdb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w69bb8597-4c52-4a3f-b10a-3f415ab39672.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w69bb8597-4c52-4a3f-b10a-3f415ab39672_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568645",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T22:00:33.180Z"
+}

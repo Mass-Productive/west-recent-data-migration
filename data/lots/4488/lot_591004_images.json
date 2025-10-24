@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4488/items/591004/images",
+      "name": "Images for (5) Hand Pumps"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/app/02-0111-a92d6315-7579-4faf-bdf1-5b9d57ef10f8/w0150-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591004",
+  "auctionId": "4488",
+  "collectedAt": "2025-10-24T01:38:31.913Z"
+}

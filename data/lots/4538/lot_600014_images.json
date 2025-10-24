@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/600014/images",
+      "name": "Images for Disposable Nitrile Examination Gloves XL (10 Pack of 100) Disposable Nitrile Examination Gloves (Size XL)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0402-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0402-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0402-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0402-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600014",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:31.168Z"
+}

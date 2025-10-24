@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598339/images",
+      "name": "Images for Husky 3 Gal. 120 PSI Portable Electric Oil-Free Light Duty Pancake Air Compressor with Fold Down Handle and 1-Quick Coupler -$67 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w1189-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w1189-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w1189-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w1189-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598339",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:51.104Z"
+}

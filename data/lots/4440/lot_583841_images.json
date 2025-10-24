@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583841/images",
+      "name": "Images for Trek Bontrager Head Light USB Rechargeable "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/w5b95c332-1f1d-40f3-8f5c-cfc76b944915.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/w5b95c332-1f1d-40f3-8f5c-cfc76b944915_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/w5f1ae26b-bb1c-447c-b8f2-f68cb2fff1b1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/w5f1ae26b-bb1c-447c-b8f2-f68cb2fff1b1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/wdc843818-59b8-4893-88b6-677b12890d96.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/wdc843818-59b8-4893-88b6-677b12890d96_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/wa6ee9fa6-9e84-45ca-a076-b410704baf6b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583841/wa6ee9fa6-9e84-45ca-a076-b410704baf6b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583841",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:03.208Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573228/images",
+      "name": "Images for Lot of Heat Shrink Tubing"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418196x573228/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2208-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573228",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:39.061Z"
+}

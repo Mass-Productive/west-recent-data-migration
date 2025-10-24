@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595155/images",
+      "name": "Images for Contents Of Pallet: (4) Boxes Of 1 Gallon Jugs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/w8580831f-8a4b-40ce-a24e-46ef9e8e1615.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/w8580831f-8a4b-40ce-a24e-46ef9e8e1615_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/wf2cb57d0-5f9c-42fd-b3ff-af8c3491d95e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/wf2cb57d0-5f9c-42fd-b3ff-af8c3491d95e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/wb1df7dec-e2be-46bc-b09d-190239c55769.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/wb1df7dec-e2be-46bc-b09d-190239c55769_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/w8346b75b-21b5-49f8-90ed-86d3ff474376.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/w8346b75b-21b5-49f8-90ed-86d3ff474376_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/webfaa2f2-9b77-41c2-9d14-8c4d724dab37.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595155/webfaa2f2-9b77-41c2-9d14-8c4d724dab37_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595155",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:20.163Z"
+}

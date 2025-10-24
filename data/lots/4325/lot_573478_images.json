@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573478/images",
+      "name": "Images for (3) Speakon Cables"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573478/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2411-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573478",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:17:20.707Z"
+}

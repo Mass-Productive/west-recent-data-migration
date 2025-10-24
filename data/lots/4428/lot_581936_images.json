@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581936/images",
+      "name": "Images for (3) Shimano shifter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-1811-751cbe14-eb97-43fa-838c-af8b33ae76db/w0381-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581936",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:32.652Z"
+}

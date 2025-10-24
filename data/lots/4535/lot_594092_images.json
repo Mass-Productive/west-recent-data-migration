@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4535/items/594092/images",
+      "name": "Images for 5’ Wood Slab"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-44abf7c2-387d-4654-bb40-839d51548d42/w0106-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594092",
+  "auctionId": "4535",
+  "collectedAt": "2025-10-24T02:05:50.318Z"
+}

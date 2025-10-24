@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581989/images",
+      "name": "Images for Absoluteblack oval chainring "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w2317bd59-cf46-4f4b-911a-8c81b83632fb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w2317bd59-cf46-4f4b-911a-8c81b83632fb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w7fdcba9c-6cee-41a8-94a0-b87853ec96c9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w7fdcba9c-6cee-41a8-94a0-b87853ec96c9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581989",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:53.393Z"
+}

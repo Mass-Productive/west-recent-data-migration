@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589970/images",
+      "name": "Images for Board Buddies"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1642-786c0c57-2ff7-4956-81a1-ffc43988b314/w0142-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589970",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:21.163Z"
+}

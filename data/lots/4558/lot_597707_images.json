@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597707/images",
+      "name": "Images for (2) 50lb Dumbbells"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0181-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597707",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:20:41.124Z"
+}

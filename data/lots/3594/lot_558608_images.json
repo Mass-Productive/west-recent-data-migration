@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558608/images",
+      "name": "Images for (1) Emperador Light 2cm Polished Marble"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib50692dc-8823-47bc-be77-4f881000f073.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib50692dc-8823-47bc-be77-4f881000f073_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib83f79e1-1de4-48e2-87e7-78e110721d17.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ib83f79e1-1de4-48e2-87e7-78e110721d17_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558608",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:00.682Z"
+}

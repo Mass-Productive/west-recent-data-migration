@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599384/images",
+      "name": "Images for Glacier Bay 19-5/8 in. x 26 in. Rectangular Recessed or Surface Mount Beveled Frameless Medicine Cabinet with Mirror -$119 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1431-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1431-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1431-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1431-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599384",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:42.173Z"
+}

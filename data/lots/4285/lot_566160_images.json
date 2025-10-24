@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/566160/images",
+      "name": "Images for (50) 1 Gallon Ophyopogon Mondo Grass"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566160/w671953a34b91f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566160/w671953a34b91f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566160",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:53:10.057Z"
+}

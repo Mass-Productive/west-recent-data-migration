@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578193/images",
+      "name": "Images for (5) Post Hole Diggers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/we6409910-7d5f-40d3-9884-dc7ef3eaf64f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/we6409910-7d5f-40d3-9884-dc7ef3eaf64f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w440d9b07-cc56-443b-971d-728392d72168.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w440d9b07-cc56-443b-971d-728392d72168_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w289e39fd-c878-4804-a5ba-aa2611f2579e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w289e39fd-c878-4804-a5ba-aa2611f2579e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w33a1cfb1-7b88-45aa-a286-3f3392865f1d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w33a1cfb1-7b88-45aa-a286-3f3392865f1d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w29e4acb3-78dd-49f3-8eb4-e470e2897b97.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/w29e4acb3-78dd-49f3-8eb4-e470e2897b97_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf9073c35-2978-4368-8b92-89a8f18f4646.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wf9073c35-2978-4368-8b92-89a8f18f4646_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wc2b35f64-b230-4d52-b54f-fb4685679b75.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/6c1e785c/wc2b35f64-b230-4d52-b54f-fb4685679b75_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578193",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:08:45.593Z"
+}

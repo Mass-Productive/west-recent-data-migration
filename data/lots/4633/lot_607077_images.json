@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4633/items/607077/images",
+      "name": "Images for Hobart 1612 Manual Slicer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2127-acc29635-1f40-4f8e-b5e2-312d832130e3/w0555-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607077",
+  "auctionId": "4633",
+  "collectedAt": "2025-10-24T02:39:30.933Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583495/images",
+      "name": "Images for Ergon gp2-l grip "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583495/app/04-2000-67185661-4c98-4aa6-98b1-f4fb63b21c16/w0756-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583495",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:46:42.541Z"
+}

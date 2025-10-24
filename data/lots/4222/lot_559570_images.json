@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559570/images",
+      "name": "Images for Hoshizaki FREEZER Undercounter "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/17-2310-d8500cac-4a80-4e16-a16c-079119ef6e42/w0141-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559570",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:13.999Z"
+}

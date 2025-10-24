@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4337/items/574836/images",
+      "name": "Images for Wood Shed With Contents Included "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4337/app/03-1443-c1618e5c-2c3f-4c1f-9949-03653dd20069/w0126-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574836",
+  "auctionId": "4337",
+  "collectedAt": "2025-10-24T00:07:55.062Z"
+}

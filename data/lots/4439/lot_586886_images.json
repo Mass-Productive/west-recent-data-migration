@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/586886/images",
+      "name": "Images for WEATHER GUARD SHELF"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1744661120x586886/app/10-1550-1954c80d-46fb-41de-9b40-d49cccd7fbd6/w0208-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586886",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:18.136Z"
+}

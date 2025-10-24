@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586057/images",
+      "name": "Images for Anvil Equipment Case (Blue)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2037-c5b8144e-dd27-4dc7-b491-aaea7604be2d/w0305-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586057",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:43.018Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582161/images",
+      "name": "Images for (7) Jagwire Road Sport Index Adjuster"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0488-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0488-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0488-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/31-0413-b1ebc53e-18b0-4ff7-af63-271f8fa1284c/w0488-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582161",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:02.855Z"
+}

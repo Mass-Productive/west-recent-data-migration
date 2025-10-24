@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592469/images",
+      "name": "Images for (2) Delta Pierce Single-Handle 5-Spray Tub and Shower Faucet in Spot Shield Brushed Nickel (Valve Included) - $378 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3527.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3527_t.png",
+      "image_width": "320",
+      "image_height": "244",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592469/app/14-1445-2a6839b5-cabe-48c6-b695-8782595e0d54/wH3527-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592469",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:16.333Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4413/items/591231/images",
+      "name": "Images for (10+) Rubber Rollers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-2-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4413/app/12-1525-5a0a1a86-44f2-462d-92bb-79ed2a988058/w0114B-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591231",
+  "auctionId": "4413",
+  "collectedAt": "2025-10-24T00:29:07.873Z"
+}

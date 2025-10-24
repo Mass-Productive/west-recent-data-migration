@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/584220/images",
+      "name": "Images for Viking Professional 5 Qt. Mixer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-2318-103b685c-22ff-4ee7-a367-4a382e9e6abe/w0516-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584220",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:44:08.565Z"
+}

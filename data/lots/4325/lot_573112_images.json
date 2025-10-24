@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573112/images",
+      "name": "Images for Pallet Rack Shelving"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-7-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573112/app/06-2159-212273f2-a3c3-47db-b419-f417c9deee86/i2454-7-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573112",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:14:51.844Z"
+}

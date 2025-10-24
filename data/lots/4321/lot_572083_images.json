@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572083/images",
+      "name": "Images for Contents Of Bin: 10’x10’ Sidewalls For White Tent"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w20762386-7472-4dcb-97dd-075bf5120573.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w20762386-7472-4dcb-97dd-075bf5120573_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w685b267f-ccda-40d3-bfce-f51c489b0d4f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w685b267f-ccda-40d3-bfce-f51c489b0d4f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/wa789d1b8-be53-4572-aec5-7b808e6c4d97.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/wa789d1b8-be53-4572-aec5-7b808e6c4d97_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w05c9956a-578b-4ad4-be0e-185fb02ab94b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572083/w05c9956a-578b-4ad4-be0e-185fb02ab94b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572083",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:22.032Z"
+}

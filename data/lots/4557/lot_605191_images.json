@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605191/images",
+      "name": "Images for Clausing 20” Drill Press "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-0021-1f96b7e6-9986-4cc7-b0ba-0d641564b0d1/w0115-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605191",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:16:47.298Z"
+}

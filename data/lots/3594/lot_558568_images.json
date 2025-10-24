@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558568/images",
+      "name": "Images for Tile Saw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ieeb2270c-ad68-4d4f-aa59-5b37acbfde12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ieeb2270c-ad68-4d4f-aa59-5b37acbfde12_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i4bfd36ab-074c-437f-9d3a-35a74ca47c28.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i4bfd36ab-074c-437f-9d3a-35a74ca47c28_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558568",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:44.662Z"
+}

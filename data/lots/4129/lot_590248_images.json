@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590248/images",
+      "name": "Images for French Press/ Measuring Cups"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-1_t.jpg",
+      "image_width": "266",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/27-0206-08ff0027-baa7-4430-b0d0-1f70f23da334/w0218-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590248",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:54.911Z"
+}

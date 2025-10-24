@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605964/images",
+      "name": "Images for (4) Narin Catch Leaf Harvester Assembly"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0324-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605964",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:26:49.669Z"
+}

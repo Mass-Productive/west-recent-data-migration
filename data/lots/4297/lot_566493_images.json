@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4297/items/566493/images",
+      "name": "Images for Gramophone Company Gramophone"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0388-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566493",
+  "auctionId": "4297",
+  "collectedAt": "2025-10-23T21:58:10.007Z"
+}

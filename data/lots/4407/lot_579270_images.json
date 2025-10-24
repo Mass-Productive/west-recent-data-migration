@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4407/items/579270/images",
+      "name": "Images for General Commercial 2-stage Microwave "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0103-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579270",
+  "auctionId": "4407",
+  "collectedAt": "2025-10-24T00:24:00.347Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579082/images",
+      "name": "Images for RIGID 4 Gallon 5.0 Peak HP Portable Shop Vac Wet Dry Vacuum with Fine Dust Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w7bc39c4a-615d-4b8c-8a34-319104caa17e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w7bc39c4a-615d-4b8c-8a34-319104caa17e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w8ebff02c-46f7-44a2-a347-a4165c2f28f8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w8ebff02c-46f7-44a2-a347-a4165c2f28f8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w8ea85127-7a1e-4813-9daf-b3fcdc996dd9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w8ea85127-7a1e-4813-9daf-b3fcdc996dd9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/wffaad7f4-88fe-4c17-8487-b1f37668d01d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/wffaad7f4-88fe-4c17-8487-b1f37668d01d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w9ef26543-f735-40e2-bdf0-09ef47c34200.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579082/w9ef26543-f735-40e2-bdf0-09ef47c34200_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579082",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:54.758Z"
+}

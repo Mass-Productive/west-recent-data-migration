@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4384/items/601690/images",
+      "name": "Images for 20x20 Aztec Festival Top Tent "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/31-1731-8077fd4c-f216-4831-93a3-ceaaf3bb4c2c/w0116-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/31-1731-8077fd4c-f216-4831-93a3-ceaaf3bb4c2c/w0116-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/31-1731-8077fd4c-f216-4831-93a3-ceaaf3bb4c2c/w0116-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4384/app/31-1731-8077fd4c-f216-4831-93a3-ceaaf3bb4c2c/w0116-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601690",
+  "auctionId": "4384",
+  "collectedAt": "2025-10-24T00:15:08.886Z"
+}

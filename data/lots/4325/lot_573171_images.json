@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573171/images",
+      "name": "Images for Bar Clamps (2)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573171/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2324-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573171/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2324-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573171/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2324-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573171/app/24-0345-32828b89-c077-41a2-b6fc-34072077fc47/w2324-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573171",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:15.781Z"
+}

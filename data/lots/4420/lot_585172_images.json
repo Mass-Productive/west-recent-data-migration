@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585172/images",
+      "name": "Images for (1) 26x9.00-12 Mud Lite Tire "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-1dcf89dc-d014-4d36-9f66-c4a0c485f59b/w0140-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585172",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:32:39.107Z"
+}

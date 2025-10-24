@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577136/images",
+      "name": "Images for Metal Heavy Duty Stands "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0143-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577136",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:13.523Z"
+}

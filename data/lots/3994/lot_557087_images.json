@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3994/items/557087/images",
+      "name": "Images for Wooden Shelf and Lamp"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0262-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557087",
+  "auctionId": "3994",
+  "collectedAt": "2025-10-23T20:55:54.535Z"
+}

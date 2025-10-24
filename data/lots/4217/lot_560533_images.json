@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560533/images",
+      "name": "Images for Electro Voice EV SXA250 Powered Speaker 15inch"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/07-2048-0fac92f5-10ca-4e9f-984f-39af52972866/w1233-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560533",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:15:53.544Z"
+}

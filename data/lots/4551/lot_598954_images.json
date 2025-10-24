@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4551/items/598954/images",
+      "name": "Images for Small Yellow Scaffold "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0214-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0214-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0214-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0214-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598954",
+  "auctionId": "4551",
+  "collectedAt": "2025-10-24T02:13:43.004Z"
+}

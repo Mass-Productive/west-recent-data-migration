@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573486/images",
+      "name": "Images for Misc Cables"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573486/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2378-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733420431x573486/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2378-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573486",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:17:23.926Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599629/images",
+      "name": "Images for Stainless Brewery Mash Rake And Paddle"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2107-cdc93103-23bf-41b5-b1db-bf334c30b867/w0260-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599629",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:28.739Z"
+}

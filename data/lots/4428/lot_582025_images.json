@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582025/images",
+      "name": "Images for Shimano tiagra flat bar road shifter set "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/27-0533-804dca61-cd31-4b99-a225-8aba959a7745/w0388-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582025",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:08.114Z"
+}

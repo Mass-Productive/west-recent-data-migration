@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586074/images",
+      "name": "Images for Pressbox model 2025 transistor isolated"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2059-68300c3a-e123-40ed-81df-22b6481a0fb3/w0128-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2059-68300c3a-e123-40ed-81df-22b6481a0fb3/w0128-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2059-68300c3a-e123-40ed-81df-22b6481a0fb3/w0128-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2059-68300c3a-e123-40ed-81df-22b6481a0fb3/w0128-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586074",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:49.758Z"
+}

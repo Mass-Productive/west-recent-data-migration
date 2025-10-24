@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560504/images",
+      "name": "Images for Grab Handle"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2120-f640a1cb-a577-4eb0-80bc-7c36f7043a0b/w1204-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560504",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:52.332Z"
+}

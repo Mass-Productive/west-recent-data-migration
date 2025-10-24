@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598597/images",
+      "name": "Images for (4) Crowd Control Stanchions "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0227-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598597",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:25.945Z"
+}

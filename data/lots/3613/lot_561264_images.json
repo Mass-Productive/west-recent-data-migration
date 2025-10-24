@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561264/images",
+      "name": "Images for (6) Mary-Anne Crystalex 240ml Glasses"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-1854-f1942868-1e47-4015-8ba1-f7e1645302c7/i0468-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i66b08551-8f3d-4b68-9867-555179de543d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i66b08551-8f3d-4b68-9867-555179de543d_t.jpg",
+      "image_width": "202",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561264",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:42.872Z"
+}

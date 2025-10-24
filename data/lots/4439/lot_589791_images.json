@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/589791/images",
+      "name": "Images for Ingersol Rand T30 3000E25  3-Phase Air Compressor "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1745601747x589791/app/24-1718-1a6cd49c-5421-4a28-83fb-2bb5a01458c1/w0226-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589791",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:21.822Z"
+}

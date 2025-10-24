@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558656/images",
+      "name": "Images for Rubbermaid 9W33 Commercial Smoking Recepticle"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-6-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-6-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-7-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-7-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1444-a5dd759a-f693-4e14-8d9d-f207235740ad/w0116-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558656",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:37.041Z"
+}

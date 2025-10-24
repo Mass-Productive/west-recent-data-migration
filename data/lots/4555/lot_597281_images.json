@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597281/images",
+      "name": "Images for Freightliner Cascadia Driver Side Mirror"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0130-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597281",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:27.710Z"
+}

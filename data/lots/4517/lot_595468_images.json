@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595468/images",
+      "name": "Images for Steel Table With Electrical Outlet "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0271-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595468",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:59:15.106Z"
+}

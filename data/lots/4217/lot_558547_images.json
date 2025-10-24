@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558547/images",
+      "name": "Images for Lot Of Lamps"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1842-fddef08e-0f1a-4d9d-84f0-70b7b204067e/w1160-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1905-046d7012-2d7d-401b-9080-866021926943/w1160-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1905-046d7012-2d7d-401b-9080-866021926943/w1160-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558547",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:34.753Z"
+}

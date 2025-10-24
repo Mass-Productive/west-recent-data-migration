@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599466/images",
+      "name": "Images for Everbilt 1 HP Submersible 2-Wire Motor 10 GPM Deep Well Potable Water Pump -$589 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1507.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1507_t.png",
+      "image_width": "237",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1507-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599466",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:12.567Z"
+}

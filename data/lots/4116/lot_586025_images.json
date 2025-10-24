@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586025/images",
+      "name": "Images for (6) bose 802 lid/cover"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0111-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586025",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:30.310Z"
+}

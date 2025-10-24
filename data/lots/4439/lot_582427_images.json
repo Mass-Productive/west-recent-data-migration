@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582427/images",
+      "name": "Images for 80ft – portable power cable 90°c ul c(ul) msha industrial grade"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582427/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0158-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582427/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0158-2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582427/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0158-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582427/app/03-1849-68c025ca-467d-4f64-8677-57f88c610a7f/w0158-1_t.jpg",
+      "image_width": "148",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582427",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:12.082Z"
+}

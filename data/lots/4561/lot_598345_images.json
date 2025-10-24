@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598345/images",
+      "name": "Images for ECOMAX 6 Gal. 150 PSI Electric Pancake Air Compressor -$139 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/28-1849-abf572a9-f296-479a-be76-2e0046245b8c/w1200-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/28-1849-abf572a9-f296-479a-be76-2e0046245b8c/w1200-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/28-1849-abf572a9-f296-479a-be76-2e0046245b8c/w1200-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/28-1849-abf572a9-f296-479a-be76-2e0046245b8c/w1200-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598345",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:53.480Z"
+}

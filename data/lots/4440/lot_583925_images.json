@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583925/images",
+      "name": "Images for Bontrager Frame Bag"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/w6af9804a-ff6c-4975-b82c-4ac35bd5d2af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/w6af9804a-ff6c-4975-b82c-4ac35bd5d2af_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/w363ea44a-f168-4bec-94c5-09cd63610ae2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/w363ea44a-f168-4bec-94c5-09cd63610ae2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/waae63263-50b8-4af9-bffc-2b784c03eb1a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583925/waae63263-50b8-4af9-bffc-2b784c03eb1a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583925",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:37.199Z"
+}

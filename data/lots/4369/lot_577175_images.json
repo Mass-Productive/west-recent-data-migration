@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577175/images",
+      "name": "Images for Metal Jib Boom"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1914-8c62d5ae-b747-4375-8238-9bbb351d0f41/w0189-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577175",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:29.340Z"
+}

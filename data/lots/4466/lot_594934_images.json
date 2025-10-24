@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/594934/images",
+      "name": "Images for Pennsylvania Model 7500 2000lb Capacity Scale With 4’x4’ Platform"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749490228x594934/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0451-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594934",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:02:57.138Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579677/images",
+      "name": "Images for Husky 3/8 in. x 50 ft. Hybrid Air Hose"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741226013x579677/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1323-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579677",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:46.895Z"
+}

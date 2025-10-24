@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590178/images",
+      "name": "Images for Continental Prep Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0154-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0154-1_t.jpg",
+      "image_width": "320",
+      "image_height": "219",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0154-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0154-2_t.jpg",
+      "image_width": "320",
+      "image_height": "275",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590178",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:27.364Z"
+}

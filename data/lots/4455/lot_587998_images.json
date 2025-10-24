@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587998/images",
+      "name": "Images for Fender Lot Of 3 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/w93ae9a9d-df84-49d6-9b25-684319411705.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/w93ae9a9d-df84-49d6-9b25-684319411705_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/w0828f40b-5c24-43e6-9d3b-86162edcde0a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/w0828f40b-5c24-43e6-9d3b-86162edcde0a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/wc0f01757-4a4a-4658-8d60-7e3121b01813.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587998/wc0f01757-4a4a-4658-8d60-7e3121b01813_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587998",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:46.173Z"
+}

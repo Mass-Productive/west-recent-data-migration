@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/575905/images",
+      "name": "Images for Black Decker 14 In String Trimmer/Edger Corded"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0238-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575905",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:41:04.306Z"
+}

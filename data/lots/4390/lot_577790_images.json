@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4390/items/577790/images",
+      "name": "Images for Chauvet Professional Vesuvio RGBA Geyser Fog Machine"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2040-795b87ea-8125-4bfc-bf2b-108ec5f3ff36/w0038-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577790",
+  "auctionId": "4390",
+  "collectedAt": "2025-10-24T00:18:40.744Z"
+}

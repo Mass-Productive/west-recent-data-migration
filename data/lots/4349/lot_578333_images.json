@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578333/images",
+      "name": "Images for Bulk Lot: Broom Handles, Anchor Mates, And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wc85ebb58-2c8b-4636-bef1-af76b84b25d4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wc85ebb58-2c8b-4636-bef1-af76b84b25d4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wfc355779-18f6-4f72-9f9a-dfb331938eb0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wfc355779-18f6-4f72-9f9a-dfb331938eb0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/we50a2981-91eb-4329-97c2-70d136f42a56.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/we50a2981-91eb-4329-97c2-70d136f42a56_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wa8e8cf84-7aed-40b0-8b63-da7eec452b7b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wa8e8cf84-7aed-40b0-8b63-da7eec452b7b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w5a085b94-decb-4b1b-99ff-1b3199f35614.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w5a085b94-decb-4b1b-99ff-1b3199f35614_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578333",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:42.789Z"
+}

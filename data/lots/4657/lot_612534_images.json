@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4657/items/612534/images",
+      "name": "Images for Stainless Steel Undermount Kitchen Sink with Faucet and Base (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612534/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1111-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612534",
+  "auctionId": "4657",
+  "collectedAt": "2025-10-24T03:06:36.200Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4565/items/597138/images",
+      "name": "Images for 2025 Mini Excavator Ripper (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4565/cp1750892257x597138/app/20-2216-8c54d447-f8e1-459b-a810-6c2f45b67e4f/wD0146-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597138",
+  "auctionId": "4565",
+  "collectedAt": "2025-10-24T02:25:30.578Z"
+}

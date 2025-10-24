@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609461/images",
+      "name": "Images for SET OF 2 BLUE Rolling Chairs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0859-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0859-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609461",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:07.994Z"
+}

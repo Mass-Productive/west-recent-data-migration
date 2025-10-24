@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580840/images",
+      "name": "Images for Small Freezer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-2246-9c07a036-09b0-4cd8-844a-9443235db0e7/w0145-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-2246-9c07a036-09b0-4cd8-844a-9443235db0e7/w0145-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-2246-9c07a036-09b0-4cd8-844a-9443235db0e7/w0145-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-2246-9c07a036-09b0-4cd8-844a-9443235db0e7/w0145-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580840",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:39.315Z"
+}

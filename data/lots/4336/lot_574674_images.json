@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/574674/images",
+      "name": "Images for 2024 Agriquip CP1220 20x12&#39; Steel Carport (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574674/i0401Screen_Shot_2024-11-14_at_6.26.07_PM.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574674/i0401Screen_Shot_2024-11-14_at_6.26.07_PM_t.jpg",
+      "image_width": "320",
+      "image_height": "194",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574674/i0401Screen_Shot_2024-11-14_at_6.26.36_PM.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574674/i0401Screen_Shot_2024-11-14_at_6.26.36_PM_t.png",
+      "image_width": "320",
+      "image_height": "207",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574674",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:43:06.976Z"
+}

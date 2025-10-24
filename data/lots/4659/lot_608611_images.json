@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608611/images",
+      "name": "Images for Quantity of (2) HDC Ashby Park 52&#34; White Color Changing Integrated LED Brushed Nickel Ceiling Fans - $308 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608611/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1000-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608611",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:35.111Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4554/items/596514/images",
+      "name": "Images for Potted Plant - 82” Height"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0130-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596514",
+  "auctionId": "4554",
+  "collectedAt": "2025-10-24T02:14:00.573Z"
+}

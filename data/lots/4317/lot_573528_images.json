@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573528/images",
+      "name": "Images for Contents Of Box: Assorted Bread Baskets "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1199-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573528",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:28.481Z"
+}

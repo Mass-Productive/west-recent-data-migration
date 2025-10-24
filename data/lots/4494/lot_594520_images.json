@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594520/images",
+      "name": "Images for Ring Smart Lighting - Low Voltage Lighting Transformer (12-Volt x 15-Volt, 200-Watt), Black (Bridge Required) - $99 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594520/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3746-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594520",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:01.639Z"
+}

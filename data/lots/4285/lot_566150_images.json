@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/566150/images",
+      "name": "Images for (23) 5 Gallon Muh. Dubia + Muh. C. White + Muh. Lindenmierii"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566150/w671837c217938.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566150/w671837c217938_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566150",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:53:05.987Z"
+}

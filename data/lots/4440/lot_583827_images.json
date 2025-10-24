@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583827/images",
+      "name": "Images for Nite Rider Tail Light TL"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583827/wed7f249e-4309-497c-8988-257d55cabd4a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583827/wed7f249e-4309-497c-8988-257d55cabd4a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583827/we395d152-32a8-4fc6-891d-d55c8de01ca5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583827/we395d152-32a8-4fc6-891d-d55c8de01ca5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583827",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:57.450Z"
+}

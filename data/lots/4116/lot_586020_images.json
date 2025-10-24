@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586020/images",
+      "name": "Images for Microphones Misc"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0115-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0115-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586020",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:28.291Z"
+}

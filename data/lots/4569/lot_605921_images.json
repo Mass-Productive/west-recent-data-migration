@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605921/images",
+      "name": "Images for Gearmore H185 6’ Rototiller"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0248-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605921",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:26:32.525Z"
+}

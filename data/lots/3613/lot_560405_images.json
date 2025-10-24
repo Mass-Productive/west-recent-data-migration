@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560405/images",
+      "name": "Images for (2) TV Wall Mounts"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1359-bbcf977e-1ea3-466a-b3be-72d33d6beb94/i0363-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560405",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:00.777Z"
+}

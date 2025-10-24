@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560384/images",
+      "name": "Images for (2) Metal File Cabinets"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i3fc91a24-901c-419d-8f0b-04744cadd891.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i3fc91a24-901c-419d-8f0b-04744cadd891_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/17-1648-fa8603cc-9886-4403-99aa-8cbe6e41cfd3/i0341-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i517a3843-6cba-4f22-9b40-22cb159c1575.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i517a3843-6cba-4f22-9b40-22cb159c1575_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560384",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:52.270Z"
+}

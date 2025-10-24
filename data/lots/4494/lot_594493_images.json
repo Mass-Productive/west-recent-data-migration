@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594493/images",
+      "name": "Images for Glacier Bay Shaker Style 16 in. W x 12 in. D x 27.7 in. H Floor Cabinet in White - $79 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594493/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3773-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594493",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:50.776Z"
+}

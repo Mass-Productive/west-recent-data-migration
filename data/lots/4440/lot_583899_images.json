@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583899/images",
+      "name": "Images for Trek Arm Warmers W/ Sun Protection Size Small "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583899/we947261d-b2e9-4a25-a99b-384f1a3563ae.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583899/we947261d-b2e9-4a25-a99b-384f1a3563ae_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583899/w31ec6b48-8d42-4176-8136-77b69ef664c5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583899/w31ec6b48-8d42-4176-8136-77b69ef664c5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583899",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:26.678Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587995/images",
+      "name": "Images for Electra Fenders Lot Of 3 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w1474bdb8-f1a3-4fab-85c9-70af3d9aa0e5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w1474bdb8-f1a3-4fab-85c9-70af3d9aa0e5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w222c5e86-f8d6-40c3-b4a3-01f0d5c2945c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w222c5e86-f8d6-40c3-b4a3-01f0d5c2945c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w90020695-fa87-44cc-8b39-8cc9fec3daed.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587995/w90020695-fa87-44cc-8b39-8cc9fec3daed_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587995",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:44.954Z"
+}

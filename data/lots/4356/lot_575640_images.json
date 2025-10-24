@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575640/images",
+      "name": "Images for Contents Of Pallet: Approximately (34) Fire Extinguishers "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w481fc3cd-c755-4c4c-af72-1b4a8d5f2b4d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w481fc3cd-c755-4c4c-af72-1b4a8d5f2b4d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w6df2ce15-c658-4cf3-8b39-48b10700c305.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w6df2ce15-c658-4cf3-8b39-48b10700c305_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wc4db8a3b-2dc4-413e-b483-f64076a7902a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wc4db8a3b-2dc4-413e-b483-f64076a7902a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w0bbd774c-90a7-4b6a-9a02-4bc82ba22248.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w0bbd774c-90a7-4b6a-9a02-4bc82ba22248_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w429f60ad-6d8e-4ef1-99f7-a6412e50e9ae.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w429f60ad-6d8e-4ef1-99f7-a6412e50e9ae_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w5305ec3d-82c1-4710-bbb8-98d25283e659.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w5305ec3d-82c1-4710-bbb8-98d25283e659_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w25fc8fcd-2346-4205-8a03-635181cef518.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w25fc8fcd-2346-4205-8a03-635181cef518_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575640",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:11:59.020Z"
+}

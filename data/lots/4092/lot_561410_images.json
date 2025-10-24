@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4092/items/561410/images",
+      "name": "Images for (1) Pallet of AB Classic Corner Mix Colors Left &#38; Right Off Color"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gh_-_Copy.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gh_-_Copy_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gg_-_Copy.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gg_-_Copy_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gk.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4092/cp1728515790x561410/w0056Gk_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561410",
+  "auctionId": "4092",
+  "collectedAt": "2025-10-23T21:01:19.002Z"
+}

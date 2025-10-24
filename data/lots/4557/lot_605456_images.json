@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605456/images",
+      "name": "Images for Ornamental Rocks "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0365-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605456",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:33.470Z"
+}

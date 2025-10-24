@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587675/images",
+      "name": "Images for Pedals 1/2” Lot Of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587675/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1497-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587675",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:56:38.911Z"
+}

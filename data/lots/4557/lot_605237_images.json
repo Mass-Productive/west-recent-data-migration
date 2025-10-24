@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605237/images",
+      "name": "Images for Milwaukee Sawzall and Craftsman Sawzall"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1749-b331aa37-73e1-4e12-a0b6-101f5466090c/w0169-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605237",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:05.659Z"
+}

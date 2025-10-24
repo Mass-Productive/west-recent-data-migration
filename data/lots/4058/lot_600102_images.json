@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600102/images",
+      "name": "Images for (9) Franklin Brass Satin Chrome Towel Rings "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w4ba5faee-83d1-4195-aea0-9c084c16e2d0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w4ba5faee-83d1-4195-aea0-9c084c16e2d0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w6a84a6f7-f932-4eb1-aea4-fb29df55ae81.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w6a84a6f7-f932-4eb1-aea4-fb29df55ae81_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wf2be905e-8e7d-4ea8-a1c7-bc6b7a99f0a6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wf2be905e-8e7d-4ea8-a1c7-bc6b7a99f0a6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wdee71c2d-12a4-4486-9954-8295724e495b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wdee71c2d-12a4-4486-9954-8295724e495b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wa68e3ea7-7438-40db-a4b5-c6cba45d0948.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wa68e3ea7-7438-40db-a4b5-c6cba45d0948_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600102",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:57.193Z"
+}

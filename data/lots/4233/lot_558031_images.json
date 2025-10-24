@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558031/images",
+      "name": "Images for Assorted Measurement Tools "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0295-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558031",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:26.246Z"
+}

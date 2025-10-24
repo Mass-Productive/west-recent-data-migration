@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608702/images",
+      "name": "Images for RIGID 25ft Indoor/Outdoor Generator Cord"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608702/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1266-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608702",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:36:39.499Z"
+}

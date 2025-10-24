@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592463/images",
+      "name": "Images for Panasonic Whisper Choice Auto DC Pick-A-Flow 80/110 CFM Ceiling Bathroom Exhaust Fan with Humidity Sense and Flex-Z Fast Bracket - $185 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3501.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3501_t.png",
+      "image_width": "320",
+      "image_height": "229",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592463/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3502-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592463",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:13.821Z"
+}

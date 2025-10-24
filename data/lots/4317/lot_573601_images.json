@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573601/images",
+      "name": "Images for (2) 40 Gallon Metal Troughs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w8e97bd47-a5a7-47d9-a93f-d529f2589360.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w8e97bd47-a5a7-47d9-a93f-d529f2589360_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w19b3a3ab-f27a-4c10-be2a-40fd17205181.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w19b3a3ab-f27a-4c10-be2a-40fd17205181_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/we933e227-2a4c-420f-98c4-3206a9bd0c73.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/we933e227-2a4c-420f-98c4-3206a9bd0c73_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w918719d4-de63-46d9-ad24-fe267adb631f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w918719d4-de63-46d9-ad24-fe267adb631f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wc7e37a6e-6a19-4acf-8894-4a70c09a8442.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wc7e37a6e-6a19-4acf-8894-4a70c09a8442_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573601",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:58.373Z"
+}

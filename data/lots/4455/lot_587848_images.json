@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587848/images",
+      "name": "Images for Feedback Sports A frame For Bike Display &#38; Parking"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587848/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1714-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587848",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:49.635Z"
+}

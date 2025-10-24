@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608938/images",
+      "name": "Images for JELD-WEN 32 in. x 80 in. 1 Panel Shaker Right-Hand Solid Core Primed Wood Single Prehung Interior Door - $658 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/i1633.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/i1633_t.png",
+      "image_width": "320",
+      "image_height": "186",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1633-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1633-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1633-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608938/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1633-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608938",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:21.799Z"
+}

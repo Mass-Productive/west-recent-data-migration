@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608886/images",
+      "name": "Images for HDC Heritage Point 25&#34; Indoor/Covered Outdoor Matte Black Fandelier Ceiling Fan with Integrated LED and Remote - $219 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/i1525.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/i1525_t.png",
+      "image_width": "320",
+      "image_height": "195",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608886/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1525-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608886",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:01.953Z"
+}

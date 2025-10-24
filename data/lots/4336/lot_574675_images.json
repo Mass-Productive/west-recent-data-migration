@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/574675/images",
+      "name": "Images for 2024 KJ K1119 11x19&#39; All Steel Carport (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574675/iScreen_Shot_2024-11-14_at_6.39.44_PM.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574675/iScreen_Shot_2024-11-14_at_6.39.44_PM_t.png",
+      "image_width": "320",
+      "image_height": "156",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574675/iLot_404.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1735593179x574675/iLot_404_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574675",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:43:07.385Z"
+}

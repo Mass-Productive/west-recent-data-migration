@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573527/images",
+      "name": "Images for (4) 5 Gallon Water Jugs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1200-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573527",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:28.056Z"
+}

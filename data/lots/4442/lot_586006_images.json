@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/586006/images",
+      "name": "Images for Husky 20 Gal. 165 PSI Vertical Electric Quiet Air Compressor - $329 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744514145/i2332.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744514145/i2332_t.png",
+      "image_width": "239",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2332-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586006",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:46.303Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598791/images",
+      "name": "Images for John Deere 42 in. Twin Bagger for 100 Series Tractors -$499 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753231846/iUntitled.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753231846/iUntitled_t.png",
+      "image_width": "320",
+      "image_height": "258",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1253-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598791",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:01.102Z"
+}

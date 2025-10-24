@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583953/images",
+      "name": "Images for Jandd  Under Saddle Tool Bag"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583953/app/07-1750-24ae04d9-59a3-484a-aec7-7bb03e6274a3/w1240-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583953",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:48.570Z"
+}

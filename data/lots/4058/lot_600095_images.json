@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600095/images",
+      "name": "Images for (3) Moen Caldwell Spot Resistant 4&#34; Shower Heads"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1721673187/wMoen_26016.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1721673187/wMoen_26016_t.jpg",
+      "image_width": "320",
+      "image_height": "312",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1721673187/wMoen_Caldwell.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1721673187/wMoen_Caldwell_t.jpg",
+      "image_width": "239",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0106-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600095",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:54.370Z"
+}

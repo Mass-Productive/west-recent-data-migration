@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584820/images",
+      "name": "Images for Stinger 2.5 Gallon 1.75 Peak HP Small Shop Vacuum Wet Dry Vac with Filter Bag, Hose, Utility Nozzle and Car Nozzle Attachments - $39 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2083-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584820",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:50:59.367Z"
+}

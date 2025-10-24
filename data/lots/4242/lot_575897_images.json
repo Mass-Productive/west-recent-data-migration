@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/575897/images",
+      "name": "Images for Black Decker 18&#34; Chain Saw Corded"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0246-3-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575897",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:41:01.035Z"
+}

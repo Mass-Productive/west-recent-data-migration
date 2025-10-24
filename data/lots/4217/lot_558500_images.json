@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558500/images",
+      "name": "Images for (4) ETC Source Four 750 Ellipsoidal Series "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1854-9cdd5103-9095-40c8-b698-676e85eb054e/w1103-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558500",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:15.855Z"
+}

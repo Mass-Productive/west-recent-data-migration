@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601541/images",
+      "name": "Images for (20) White Metal Roof Panels 4&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601541/app/12-2048-932f7106-4c5f-4a7e-baff-cd2c007042c0/wS1062-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601541",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:14.893Z"
+}

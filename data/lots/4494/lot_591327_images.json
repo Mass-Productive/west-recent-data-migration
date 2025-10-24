@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591327/images",
+      "name": "Images for B-Air 1/8 HP Air Mover Carpet Dryer Floor Blower Fan for Home Use in Blue - $79 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3048-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3048-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3048-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3048-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591327",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:26.325Z"
+}

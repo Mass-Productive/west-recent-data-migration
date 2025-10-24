@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598514/images",
+      "name": "Images for Traulse Heating Cabinet "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/21-0308-7c8f7efd-eb33-41ed-8aee-37aaf1352494/w0124-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598514",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:02:52.722Z"
+}

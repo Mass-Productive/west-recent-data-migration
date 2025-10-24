@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558576/images",
+      "name": "Images for Napolina 18x18 Limestone Tile"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i83a5ced8-501e-4e55-9fee-04dd1825fab9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i83a5ced8-501e-4e55-9fee-04dd1825fab9_t.jpg",
+      "image_width": "318",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ic0fe421f-1ee2-4d50-a96a-d3e806242d54.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ic0fe421f-1ee2-4d50-a96a-d3e806242d54_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i7a859cb3-2d06-4884-b8e6-cda657874fb3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i7a859cb3-2d06-4884-b8e6-cda657874fb3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2c91ae0e-eb69-4c5a-92b0-17235bee8963.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2c91ae0e-eb69-4c5a-92b0-17235bee8963_t.jpg",
+      "image_width": "215",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ida3cb9b3-e723-4daf-94eb-8d3b7a1d75ee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ida3cb9b3-e723-4daf-94eb-8d3b7a1d75ee_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558576",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:47.911Z"
+}

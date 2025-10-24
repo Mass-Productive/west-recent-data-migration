@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578315/images",
+      "name": "Images for Bay Of 1/2” Panmy Pebbles "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w781a6b1d-f72e-49c9-9ec6-15d718933b7c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w781a6b1d-f72e-49c9-9ec6-15d718933b7c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578315",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:35.438Z"
+}

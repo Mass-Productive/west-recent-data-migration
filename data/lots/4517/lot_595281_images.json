@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595281/images",
+      "name": "Images for Global Industries Tool Box "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2245-b226d1a8-2a70-46af-ac0c-2f4338c4b8e2/w0471-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595281",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:57:59.762Z"
+}

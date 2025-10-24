@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4503/items/593471/images",
+      "name": "Images for (16) Traffic Cones"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/we1360a4d-d52d-43ff-ab34-e190fc91ab17.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/we1360a4d-d52d-43ff-ab34-e190fc91ab17_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/w836625a8-5253-415f-bea8-a397a3b738ef.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/w836625a8-5253-415f-bea8-a397a3b738ef_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/w4f06a6b8-2b7c-480c-b2e5-60bcd7ce6cdd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/6c1e785c/w4f06a6b8-2b7c-480c-b2e5-60bcd7ce6cdd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593471",
+  "auctionId": "4503",
+  "collectedAt": "2025-10-24T01:55:04.290Z"
+}

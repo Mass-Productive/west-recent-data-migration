@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4488/items/593292/images",
+      "name": "Images for 6&#39; Drag Disc"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748021903/w6830b291b2855.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748021903/w6830b291b2855_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593292",
+  "auctionId": "4488",
+  "collectedAt": "2025-10-24T01:39:03.480Z"
+}

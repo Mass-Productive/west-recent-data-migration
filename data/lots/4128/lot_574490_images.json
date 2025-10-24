@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574490/images",
+      "name": "Images for (1) UGA Display Adapter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/29-2117-03f47d3b-c862-4cb9-bf96-640febb07ba7/w0232-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574490",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:59.067Z"
+}

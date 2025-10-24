@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598850/images",
+      "name": "Images for DEWALT 6 Gal. to 10 Gal. Dust Bag Filter Wet/Dry Vac, DEWALT 6 Gal. to 16 Gal. Cartridge Filter for High Efficiency Wet/Dry Vacuum, and DEWALT 6 Gal. to 16 Gal. Cartridge Filter HEPA for Wet/Dry Vacuum- $85 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1005-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598850",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:23.592Z"
+}

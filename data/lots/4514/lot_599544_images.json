@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599544/images",
+      "name": "Images for 3&#34; Stainless T&#39;s and Adaptors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2329-2ae5f619-988b-4336-8b0e-7747f2b9dddd/w0171-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599544",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:56:54.951Z"
+}

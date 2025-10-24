@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579110/images",
+      "name": "Images for Architectural Mailboxes Roxbury Black, Large Steel Post Mount Mailbox and Premium Steel Post Combo"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579110/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1269-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579110",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:06.162Z"
+}

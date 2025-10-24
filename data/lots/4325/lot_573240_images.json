@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573240/images",
+      "name": "Images for 16&#39; Chain"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418248x573240/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2166-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418248x573240/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2166-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573240",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:43.913Z"
+}

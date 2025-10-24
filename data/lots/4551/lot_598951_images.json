@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4551/items/598951/images",
+      "name": "Images for Camoplast Tracks "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0217-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0217-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598951",
+  "auctionId": "4551",
+  "collectedAt": "2025-10-24T02:13:41.799Z"
+}

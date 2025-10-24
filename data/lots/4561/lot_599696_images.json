@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599696/images",
+      "name": "Images for Husky 20 Gal.165 PSI Vertical Electric Oil-Free Quiet Auto/Workshop Air Compressor with Dual Gauges and 2-Quick Couplers -$329 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/i1199Untitled.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/i1199Untitled_t.png",
+      "image_width": "272",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w11991198-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w11991198-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w11991198-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753229337x599696/app/27-0542-54244024-f035-44b7-b493-3d01c6ce0735/w11991198-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599696",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:20.990Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599381/images",
+      "name": "Images for (2)Glacier Bay 15-1/4 in. W x 26 in. H Framed Recessed or Surface-Mount Bathroom Medicine Cabinet with Mirror, Gray- $158 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1434-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1434-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1434-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2350-d1f619cf-1d84-4b78-a6d5-048b7ca22e62/w1434-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599381",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:40.971Z"
+}

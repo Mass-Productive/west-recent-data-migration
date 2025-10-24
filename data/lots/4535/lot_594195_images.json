@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4535/items/594195/images",
+      "name": "Images for Light Box And Heater"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0310-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0310-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0310-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0310-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594195",
+  "auctionId": "4535",
+  "collectedAt": "2025-10-24T02:05:55.113Z"
+}

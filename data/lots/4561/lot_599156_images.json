@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599156/images",
+      "name": "Images for Ridgid Shop Vac and Accessories "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1152-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599156",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:30.008Z"
+}

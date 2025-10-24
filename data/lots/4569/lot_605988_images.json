@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605988/images",
+      "name": "Images for Assortment Hydraulic Coolers, Valves, Pumps"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-1-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-2-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/18-2117-7dd8b3ae-f8a5-499c-b39e-a96127d78119/w0328-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605988",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:26:59.365Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608936/images",
+      "name": "Images for Husky 71.36 in. Matte Black Aluminum Full Size Crossbed Truck Tool Box - $425 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/i1635.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/i1635_t.png",
+      "image_width": "320",
+      "image_height": "168",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608936/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1635-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608936",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:20.810Z"
+}

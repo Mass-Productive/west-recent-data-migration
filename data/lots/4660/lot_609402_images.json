@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609402/images",
+      "name": "Images for 18” Black Side Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-2017-14b9c0b2-987f-491b-8b63-d37fcf5fdfd4/w0854-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-2017-14b9c0b2-987f-491b-8b63-d37fcf5fdfd4/w0854-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609402",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:04.814Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592366/images",
+      "name": "Images for Glacier Bay Kagan Stainless Steel 15 in. H Pull Down Sprayer Kitchen Faucet with 360° Swivel Spout - $129 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3237.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3237_t.png",
+      "image_width": "320",
+      "image_height": "236",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592366/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3237-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592366/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3237-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592366/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3237-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592366/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3237-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592366",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:35.107Z"
+}

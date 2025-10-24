@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560408/images",
+      "name": "Images for Lot Of 300yds Of Beige 4” Paiho And Velcro Sew-On Hook &#38; Loop"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-1_t.jpg",
+      "image_width": "320",
+      "image_height": "293",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-3_t.jpg",
+      "image_width": "230",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1539-cb535f5a-228b-4b4d-84a0-ce045267fab8/i0368-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560408",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:01.974Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594927/images",
+      "name": "Images for Quantity of (8) Mission Cooling Wide Brim Polyester Hat-Green"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1749230309x594927/app/06-1643-130459ee-1fe8-4b6c-b634-81d10c16bf69/w03833-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1749230309x594927/app/06-1643-130459ee-1fe8-4b6c-b634-81d10c16bf69/w03833-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594927",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:24.208Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/581582/images",
+      "name": "Images for (68) Pieces of Rigid Non-Metallic Conduit 2-1/2&#34;x20&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743293818x581582/app/20-0000-d660ed16-e839-4e03-85e1-2e7260d8f595/wS0706-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581582",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:34:27.594Z"
+}

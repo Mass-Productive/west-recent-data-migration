@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586108/images",
+      "name": "Images for Custom Double Wide Floor Standing Podium/Lectren"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0317-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586108",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:03.307Z"
+}

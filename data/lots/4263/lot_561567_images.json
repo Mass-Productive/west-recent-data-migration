@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561567/images",
+      "name": "Images for Miller XMT 300 Welder (For Parts Or Repair)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0239-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561567",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:21.529Z"
+}

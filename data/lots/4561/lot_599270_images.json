@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599270/images",
+      "name": "Images for (2) DRYERBOX 4.25 in. Dryer Box Metal Recess- $84 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iDryer_Box.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iDryer_Box_t.png",
+      "image_width": "242",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1366-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1366-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1366-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1366-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599270",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:56.907Z"
+}

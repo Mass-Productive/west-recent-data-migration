@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4315/items/571264/images",
+      "name": "Images for Rustproof Galvanized Iron Mesh 6&#39;x100&#39; (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571264/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0273-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571264",
+  "auctionId": "4315",
+  "collectedAt": "2025-10-23T22:07:16.931Z"
+}

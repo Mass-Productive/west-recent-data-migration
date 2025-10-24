@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575022/images",
+      "name": "Images for (70) Gray Metal Roof Panels 8&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575022/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0467-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575022",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:43:12.212Z"
+}

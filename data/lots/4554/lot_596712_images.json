@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4554/items/596712/images",
+      "name": "Images for Approximately (336) 750ML Glass Bottles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-2-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2145-b6479f80-3128-4c1d-915c-3b76810f0c67/w0521-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596712",
+  "auctionId": "4554",
+  "collectedAt": "2025-10-24T02:15:19.394Z"
+}

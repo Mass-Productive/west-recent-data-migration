@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558076/images",
+      "name": "Images for Adjusting Tilting Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0236-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558076",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:43.971Z"
+}

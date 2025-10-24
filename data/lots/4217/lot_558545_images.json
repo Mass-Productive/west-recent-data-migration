@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558545/images",
+      "name": "Images for (2) Galvanized Steel Winch Cable 3/8 X 5’"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w261e9f2a-0a23-47fd-b35b-7dc2c8c7f62c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w261e9f2a-0a23-47fd-b35b-7dc2c8c7f62c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w121760d9-d6c0-4d0e-9f36-95e37f7f4cb3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w121760d9-d6c0-4d0e-9f36-95e37f7f4cb3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1811-9e5f7ef6-3a26-4ce7-8c79-51916e8b2ef9/w1150-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558545",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:33.953Z"
+}

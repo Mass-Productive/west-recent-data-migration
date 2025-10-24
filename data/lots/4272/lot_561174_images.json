@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561174/images",
+      "name": "Images for (2) 15.5 &#38; 7.75 Gallon Aluminum Kegs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-4-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1001-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561174",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:48:49.145Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558720/images",
+      "name": "Images for Jefferson Electric Dry Type 75kva Transformer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-1_66e49e415ec03.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-1_66e49e415ec03_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/338a91c6/wa434c969-f7c4-4b80-8afd-24ffeca02bc9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/338a91c6/wa434c969-f7c4-4b80-8afd-24ffeca02bc9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1917-c3a3c21e-7a1e-476a-aa33-a9dcde774e82/w0180-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558720",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:59.478Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578980/images",
+      "name": "Images for RIGID 3 Gallon 5.0 Peak HP NXT Shop Vac Wet Dry Vacuum with Fine Dust Filter, Expandable Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/w54f292bc-874a-4a00-bd36-3eeea9a142be.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/w54f292bc-874a-4a00-bd36-3eeea9a142be_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/w0f6f65e1-9546-430a-828d-1f8a5a70ec41.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/w0f6f65e1-9546-430a-828d-1f8a5a70ec41_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/wde0ce01c-d25a-4057-8936-d8f810d94dc6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/wde0ce01c-d25a-4057-8936-d8f810d94dc6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/wc8218d59-9386-428f-a469-6c8ccb801902.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578980/wc8218d59-9386-428f-a469-6c8ccb801902_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578980",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:13.133Z"
+}

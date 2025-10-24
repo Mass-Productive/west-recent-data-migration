@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593197/images",
+      "name": "Images for Everbilt 1/4 HP 2-in-1 Submersible Utility and Transfer Pump - $139 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593197/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3559-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593197/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3559-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593197/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3559-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593197/app/20-1452-e3294962-1e37-4439-9ac6-ffaf9fee55e8/wH3559-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593197",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:38.528Z"
+}

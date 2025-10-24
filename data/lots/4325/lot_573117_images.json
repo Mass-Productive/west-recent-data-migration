@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573117/images",
+      "name": "Images for (1) Rack Panel XLR &#38; Speakon"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573117/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2400-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573117/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2400-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573117/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2400-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573117/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2400-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573117",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:14:53.849Z"
+}

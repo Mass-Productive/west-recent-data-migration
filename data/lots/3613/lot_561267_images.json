@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561267/images",
+      "name": "Images for (2) New Tablecraft Condiment Caddies"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-1_t.jpg",
+      "image_width": "269",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/07-2042-3a1ccfc1-ba06-4659-ba92-fea2020744f7/i0470-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561267",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:44.059Z"
+}

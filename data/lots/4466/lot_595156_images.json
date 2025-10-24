@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595156/images",
+      "name": "Images for Pallet Of Cardboard Boxes "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w5c374047-93c6-4e0a-b213-abb06c86d2bb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w5c374047-93c6-4e0a-b213-abb06c86d2bb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w7a74fe92-6fc0-496f-bf55-b21bd3fb5db2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w7a74fe92-6fc0-496f-bf55-b21bd3fb5db2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/wf1f286d7-376e-401d-be1c-f8b76490e1ed.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/wf1f286d7-376e-401d-be1c-f8b76490e1ed_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w694d95ca-11fc-4996-8eb0-2e458e635e63.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/w694d95ca-11fc-4996-8eb0-2e458e635e63_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/wa00781e9-1568-4586-8b59-3d311c564572.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493320x595156/wa00781e9-1568-4586-8b59-3d311c564572_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595156",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:20.566Z"
+}

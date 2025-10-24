@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/586008/images",
+      "name": "Images for Husky Modular 52 in. W Standard Duty Black Pegboard Attachment - $99 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744514145/i2330.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744514145/i2330_t.png",
+      "image_width": "320",
+      "image_height": "221",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2330-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586008",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:47.140Z"
+}

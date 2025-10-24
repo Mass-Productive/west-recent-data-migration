@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575618/images",
+      "name": "Images for Contents Of Box: Assorted Klean Strip Mineral Spirits And Acetone "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wdbd925b7-1fc6-4c05-9608-724778628ba3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wdbd925b7-1fc6-4c05-9608-724778628ba3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w068d090b-3687-443b-a912-b661eabe17ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w068d090b-3687-443b-a912-b661eabe17ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w028949bf-db5a-4b1b-bd86-7d3bed6c791c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w028949bf-db5a-4b1b-bd86-7d3bed6c791c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w7d6bfb44-19a3-4dc7-912e-dfeeb7cba812.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w7d6bfb44-19a3-4dc7-912e-dfeeb7cba812_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w408bf1af-d057-4fa5-8c8a-c638eded823a-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w408bf1af-d057-4fa5-8c8a-c638eded823a-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575618",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:11:49.906Z"
+}

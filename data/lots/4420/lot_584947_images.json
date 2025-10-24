@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/584947/images",
+      "name": "Images for (4) Quadboss 14” Wheels With BF Goodrich Mud Terrain T/A 30x10.0014"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/08-1626-aa8369c2-a680-4360-a329-4d4598dcf051/w0263-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584947",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:31:10.012Z"
+}

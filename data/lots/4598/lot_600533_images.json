@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/600533/images",
+      "name": "Images for (3) LEATHER STACKING CHAIRS "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/04-1601-51d1fc85-a82c-4082-858d-9d10322d0179/w0335-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/04-1601-51d1fc85-a82c-4082-858d-9d10322d0179/w0335-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600533",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:18.850Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598486/images",
+      "name": "Images for Norlake Ice Cream Freezer with Topping Station with Inserts"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0108-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598486",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:02:41.416Z"
+}

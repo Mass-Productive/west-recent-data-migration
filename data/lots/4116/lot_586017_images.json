@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586017/images",
+      "name": "Images for Blank Rack Panels"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2143-c1041dae-6715-4c74-ba48-26d7c01b6c31/w0103-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586017",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:27.056Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586036/images",
+      "name": "Images for Bose DS40F Flush Mount Speaker New Unboxed"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-0123-34cfba57-4d7b-47a1-98d1-8e3ac9963335/w0122-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-0123-34cfba57-4d7b-47a1-98d1-8e3ac9963335/w0122-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-0123-34cfba57-4d7b-47a1-98d1-8e3ac9963335/w0122-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-0123-34cfba57-4d7b-47a1-98d1-8e3ac9963335/w0122-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586036",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:34.686Z"
+}

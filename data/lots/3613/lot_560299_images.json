@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560299/images",
+      "name": "Images for Lot Of Blue Fabric"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ic731a8e7-9100-439b-8519-558582d88d84.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ic731a8e7-9100-439b-8519-558582d88d84_t.jpg",
+      "image_width": "320",
+      "image_height": "263",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0315-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560299",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:18.201Z"
+}

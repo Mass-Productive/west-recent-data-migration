@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575776/images",
+      "name": "Images for Tripp-Lite Precision Regulated DC Power Supply"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/app/20-2132-5720e7d0-3179-42b9-b088-3b72f793e1dd/w0273-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575776",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:12:33.639Z"
+}

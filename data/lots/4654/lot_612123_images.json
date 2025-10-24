@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4654/items/612123/images",
+      "name": "Images for Hydraulic Pipe Bender System "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881288x612123/app/03-1211-00c8939f-890a-4532-aa8f-316229caedb9/w0235-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612123",
+  "auctionId": "4654",
+  "collectedAt": "2025-10-24T02:46:08.103Z"
+}

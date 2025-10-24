@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597778/images",
+      "name": "Images for (2) Golds Gym 5lb Plates"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0219d-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597778",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:21:09.600Z"
+}

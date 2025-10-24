@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579887/images",
+      "name": "Images for (30) Brown Metal Roof Wall Panels 16&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/w7433b606-49e4-4c3c-8761-786331210d7b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/w7433b606-49e4-4c3c-8761-786331210d7b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/w288b1d15-5da9-460c-a25e-65cf23369d45.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/w288b1d15-5da9-460c-a25e-65cf23369d45_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579887/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0577-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579887",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:28.582Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560515/images",
+      "name": "Images for Lot Of Tape Backup"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2255-0eefd0ff-e4aa-4f9d-87bc-c18f25bbeca3/w1215-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560515",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:57.160Z"
+}

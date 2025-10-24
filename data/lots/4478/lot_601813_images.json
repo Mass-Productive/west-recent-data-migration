@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4478/items/601813/images",
+      "name": "Images for Scaffolding System "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4478/app/18-2132-f218a284-80b8-421b-8d58-0b1dcc2477e7/w0707-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601813",
+  "auctionId": "4478",
+  "collectedAt": "2025-10-24T01:35:55.534Z"
+}

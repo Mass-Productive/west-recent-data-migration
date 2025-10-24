@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587860/images",
+      "name": "Images for Park Tool TL-5 + Pedro’s Tire Lever Set "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587860/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1695-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587860/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1695-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587860",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:54.537Z"
+}

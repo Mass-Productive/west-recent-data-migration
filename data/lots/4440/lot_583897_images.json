@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583897/images",
+      "name": "Images for Bontrager Sunstop Knee Cover Xlarge"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/w5b2ee3e3-d606-4a6f-8894-a8c8296537fe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/w5b2ee3e3-d606-4a6f-8894-a8c8296537fe_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/w08c7f42c-9446-436b-bfd6-e947223b27a2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/w08c7f42c-9446-436b-bfd6-e947223b27a2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/wac77d95b-d2b4-4ce9-bb0c-b1e2a199fb4e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583897/wac77d95b-d2b4-4ce9-bb0c-b1e2a199fb4e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583897",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:25.879Z"
+}

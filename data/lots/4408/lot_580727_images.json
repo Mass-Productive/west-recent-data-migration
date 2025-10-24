@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580727/images",
+      "name": "Images for Stainless Steel Table (Table Only)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0140-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0407-ecc56620-256b-4de4-b930-615530104c4c/w0140-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580727",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:33.667Z"
+}

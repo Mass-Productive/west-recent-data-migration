@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588260/images",
+      "name": "Images for Trek men’s velocis bib short size large"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588260/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0695-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588260",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:48.348Z"
+}

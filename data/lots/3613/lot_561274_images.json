@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561274/images",
+      "name": "Images for Framed Yellow Flower Painting"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i0378f7c9-2b30-4602-8c65-0a9eb5a50629.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i0378f7c9-2b30-4602-8c65-0a9eb5a50629_t.jpg",
+      "image_width": "257",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i6bfbf297-fc2f-4af0-bad7-8fa3f33dc812.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i6bfbf297-fc2f-4af0-bad7-8fa3f33dc812_t.jpg",
+      "image_width": "320",
+      "image_height": "234",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i799a95fd-0abd-47a6-a761-24d7f23b0af6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i799a95fd-0abd-47a6-a761-24d7f23b0af6_t.jpg",
+      "image_width": "246",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/if41201fb-b8a4-4ac6-80a4-73ec2af345ae.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/if41201fb-b8a4-4ac6-80a4-73ec2af345ae_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/iff4342ef-045f-434f-8d21-96d4bb16a568.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/iff4342ef-045f-434f-8d21-96d4bb16a568_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ifb2e6c3c-6e92-49f3-84a3-abb0470a5cfd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/ifb2e6c3c-6e92-49f3-84a3-abb0470a5cfd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561274",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:46.848Z"
+}

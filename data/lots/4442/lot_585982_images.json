@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585982/images",
+      "name": "Images for Rubi RP 30 in. Tile Cutter with 0.31 in. Tungsten Carbide Blade and adjustable Blade - $239 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513990/i2321_and_22.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/1744513990/i2321_and_22_t.png",
+      "image_width": "320",
+      "image_height": "205",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2321-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585982",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:36.544Z"
+}

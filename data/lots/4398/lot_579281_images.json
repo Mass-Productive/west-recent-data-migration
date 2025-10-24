@@ -1,0 +1,78 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4398/items/579281/images",
+      "name": "Images for Espresso Schaerer Coffee Art Plus SCA-1/Milk Cooler"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-1_t.jpg",
+      "image_width": "246",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-2_t.jpg",
+      "image_width": "243",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-3_t.jpg",
+      "image_width": "238",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-12_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4398/app/21-0152-b92bac09-315c-443e-bf4b-3cbe5f6ad127/w0105-13_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579281",
+  "auctionId": "4398",
+  "collectedAt": "2025-10-24T00:20:07.123Z"
+}

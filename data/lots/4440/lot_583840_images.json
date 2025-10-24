@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583840/images",
+      "name": "Images for Trek Lights Set, USB Rechargeable "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583840/w985b85a9-43e3-4a2c-8b4e-7184ae917c50.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583840/w985b85a9-43e3-4a2c-8b4e-7184ae917c50_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583840/wc45341f2-b380-4101-aa7e-053152313621.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583840/wc45341f2-b380-4101-aa7e-053152313621_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583840",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:02.810Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599309/images",
+      "name": "Images for Cadet 240/208/120-volt 1,600/1,500/1,000-watt Energy Plus In-wall Fan-forced Electric Heater in White with Digital Thermostat -$234 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iWall_Fan_.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iWall_Fan__t.png",
+      "image_width": "320",
+      "image_height": "264",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1389-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1389-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599309",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:12.538Z"
+}

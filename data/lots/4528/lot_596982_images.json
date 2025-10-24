@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/596982/images",
+      "name": "Images for Craftsman 7 1/4” Circular Saw "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0150-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596982",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:04:11.727Z"
+}

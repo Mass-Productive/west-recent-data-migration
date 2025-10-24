@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579948/images",
+      "name": "Images for 3.3&#39;x49.2&#39; Roll of Artificial Grass Turf with Drainage Holes and Rubber Backing, 0.8&#34; Pile Height (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579948/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0509-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579948",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:53.532Z"
+}

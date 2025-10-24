@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/597128/images",
+      "name": "Images for (25+) 8’ Crossmembers "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0409-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597128",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:05:09.626Z"
+}

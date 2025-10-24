@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599520/images",
+      "name": "Images for Lot of Various Stainless Ferrules"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0149-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599520",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:56:45.343Z"
+}

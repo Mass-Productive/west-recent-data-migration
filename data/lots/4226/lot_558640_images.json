@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558640/images",
+      "name": "Images for Fork Mounted Drum Grab"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-4-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1315-8db1ea94-4208-4af0-bc98-7436d8cb74e1/w0100-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558640",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:31.074Z"
+}

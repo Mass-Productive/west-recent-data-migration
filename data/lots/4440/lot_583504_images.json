@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583504/images",
+      "name": "Images for 26” fat tubes- lot of 3 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583504/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0811-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583504",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:46:46.226Z"
+}

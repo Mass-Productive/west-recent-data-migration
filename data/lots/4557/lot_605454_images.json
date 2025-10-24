@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605454/images",
+      "name": "Images for Safety Storage Cans "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-0006-b1eeac7e-cf2b-49e2-ac7b-7dcd82063336/w0367-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605454",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:32.663Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592483/images",
+      "name": "Images for (4) Pfister Bedford Triple Handle 3-Spray Tub and Shower Faucet 1.8 GPM in Polished Chrome (Valve Included) - $352 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3513.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/1747868666/i3513_t.png",
+      "image_width": "320",
+      "image_height": "246",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592483/app/14-0308-a3e7f6ac-8cc7-41c3-b3da-1845e0a7dc07/wH3513-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592483",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:21.986Z"
+}

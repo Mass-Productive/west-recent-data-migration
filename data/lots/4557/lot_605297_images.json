@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605297/images",
+      "name": "Images for Forstner Bits"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2127-6c88fb76-cb88-4ced-a7ab-a44267772736/w0223-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605297",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:29.708Z"
+}

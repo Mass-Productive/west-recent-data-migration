@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598252/images",
+      "name": "Images for Husky 6 ft. x 100 ft. Black 6 mil. Plastic Sheeting- $36 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753288722/iUntitled.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753288722/iUntitled_t.png",
+      "image_width": "320",
+      "image_height": "190",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1175-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1175-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1175-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-0422-24b2ecb9-1165-4a0c-b4c6-f9403a89468a/w1175-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598252",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:38.255Z"
+}

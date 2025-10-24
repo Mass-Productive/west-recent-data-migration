@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575615/images",
+      "name": "Images for Heavy Duty Length Of 4” Dust Collection Hose With Grounding Wire "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w85a6d78e-cf6d-490f-a640-6e7012ac8eda.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w85a6d78e-cf6d-490f-a640-6e7012ac8eda_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w06cb7655-b54e-42a3-badc-27cfb86e5f5a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w06cb7655-b54e-42a3-badc-27cfb86e5f5a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w8b960bce-1a5c-4103-ba80-b5c32759ed51.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w8b960bce-1a5c-4103-ba80-b5c32759ed51_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/we2607664-741a-4949-aa8a-e3d5140af402.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/we2607664-741a-4949-aa8a-e3d5140af402_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w3dbe3058-584f-4b68-a5b3-0275a1cf6ce4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w3dbe3058-584f-4b68-a5b3-0275a1cf6ce4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w9445e3e2-7a19-4e1a-b54e-bcd78648ea0d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w9445e3e2-7a19-4e1a-b54e-bcd78648ea0d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575615",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:11:48.674Z"
+}

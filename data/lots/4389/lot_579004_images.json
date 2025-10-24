@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579004/images",
+      "name": "Images for DEWALT 1600 Peak Amp Jump Starter with Digital Compressor and USB Power Bank"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x579004/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1209-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579004",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:23.067Z"
+}

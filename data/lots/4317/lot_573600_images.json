@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573600/images",
+      "name": "Images for (6) Metal Wash Basins 24” Diameter "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1211e423-52b9-47ef-9639-1c01a5309ed1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1211e423-52b9-47ef-9639-1c01a5309ed1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w5d16fdce-0dfe-47aa-8960-fd3c81ee1b33.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w5d16fdce-0dfe-47aa-8960-fd3c81ee1b33_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wbbe2e95b-cbfb-446b-8c0d-04ad65a388ad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wbbe2e95b-cbfb-446b-8c0d-04ad65a388ad_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wb62aa33b-72f0-4aaa-8d9c-838676ed7b83.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wb62aa33b-72f0-4aaa-8d9c-838676ed7b83_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wc96d0b19-10b0-4336-8e3b-645aa1400283.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/wc96d0b19-10b0-4336-8e3b-645aa1400283_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573600",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:57.976Z"
+}

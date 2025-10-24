@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583618/images",
+      "name": "Images for Trek bontrager women’s dual sport shirt with removable chamois pant, size large"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050234x583618/app/03-2221-3cb91880-1b71-495d-b0a8-f3610cfafa4c/w0942-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583618",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:47:32.970Z"
+}

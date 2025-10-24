@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/580815/images",
+      "name": "Images for Stone And Metal Cafe Table With Upholstered Chair "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/18-2149-1fce74cf-de92-4493-ada8-c940d75a74f1/w0116-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580815",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:25.755Z"
+}

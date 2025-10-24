@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587810/images",
+      "name": "Images for DT Tubeless Tape Lot Of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587810/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1672-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587810/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1672-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587810",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:34.199Z"
+}

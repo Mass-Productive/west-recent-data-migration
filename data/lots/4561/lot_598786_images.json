@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598786/images",
+      "name": "Images for Kreg 3/4 HP Electric Foreman Pocket Hole Machine -$399 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1226-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598786",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:59.097Z"
+}

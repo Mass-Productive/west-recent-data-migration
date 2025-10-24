@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575221/images",
+      "name": "Images for Red Leather Loveseat"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2004-cf72d54b-c4cf-42fe-92c8-584cf9b3b9a7/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2004-cf72d54b-c4cf-42fe-92c8-584cf9b3b9a7/w0109-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575221",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:30.444Z"
+}

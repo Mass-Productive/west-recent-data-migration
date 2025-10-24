@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593256/images",
+      "name": "Images for Husky 8 Gallon 150PSI Hotdog Air Compressor - $159 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593256/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3608-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593256/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3608-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593256/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3608-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593256/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3608-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593256",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:02.350Z"
+}

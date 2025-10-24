@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588137/images",
+      "name": "Images for Shimano spd cleat lot of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588137/w10bf9cd3-c3cf-4bc1-b3b3-b9e8c05f1de4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588137/w10bf9cd3-c3cf-4bc1-b3b3-b9e8c05f1de4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588137/we1fd913e-8749-4bba-a1d8-c993b88b8f86.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588137/we1fd913e-8749-4bba-a1d8-c993b88b8f86_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588137",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:13.218Z"
+}

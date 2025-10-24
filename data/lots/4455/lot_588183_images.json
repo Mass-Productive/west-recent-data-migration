@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588183/images",
+      "name": "Images for Ravenswood jersey from voler, club cut, 3/4 zip, size x-small"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588183/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0643-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588183",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:30.245Z"
+}

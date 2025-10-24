@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596194/images",
+      "name": "Images for Winco Paella Pan"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wce05ed3f-d84f-4195-8674-2b98043dc9ad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wce05ed3f-d84f-4195-8674-2b98043dc9ad_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wd2e46c9c-ec2e-49a2-a4cb-aad609d012ec.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wd2e46c9c-ec2e-49a2-a4cb-aad609d012ec_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wb1721f92-8eda-4370-b4e1-df31edfd920f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wb1721f92-8eda-4370-b4e1-df31edfd920f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596194",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:53.318Z"
+}

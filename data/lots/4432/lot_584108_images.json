@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/584108/images",
+      "name": "Images for (2) Adjustable Metal Shelves"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0200-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584108",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:43:22.990Z"
+}

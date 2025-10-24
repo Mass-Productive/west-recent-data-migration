@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578345/images",
+      "name": "Images for Quikrete Pattern Molds And Brickmolds "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2326-6545605e-58c6-49f7-9d11-e044c1ec2e75/w0242-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578345",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:47.721Z"
+}

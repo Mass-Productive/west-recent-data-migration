@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595093/images",
+      "name": "Images for BrandGuard Sprayer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/w445f5bef-333e-4d66-bdec-2b4b01876981.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/w445f5bef-333e-4d66-bdec-2b4b01876981_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wae4b847c-33cd-4913-985d-ed3358ba143c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wae4b847c-33cd-4913-985d-ed3358ba143c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wf4cd4ffc-d4f1-410f-8421-1e204df1be8e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wf4cd4ffc-d4f1-410f-8421-1e204df1be8e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/w4f455799-7c55-42ac-809f-09b4e9c89043.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/w4f455799-7c55-42ac-809f-09b4e9c89043_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wa6f5c6f3-04b4-421e-a13e-f1f85129cf28.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595093/wa6f5c6f3-04b4-421e-a13e-f1f85129cf28_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595093",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:00.418Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573118/images",
+      "name": "Images for Yamaha SPX 90 FX Processor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573118/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2395-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573118",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:14:54.254Z"
+}

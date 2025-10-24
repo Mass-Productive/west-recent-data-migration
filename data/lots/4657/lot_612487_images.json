@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4657/items/612487/images",
+      "name": "Images for (30) Gray Metal Roof Wall Panels, 16’x3’x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612487/app/03-2047-ef15b836-13e2-430b-af7a-497725a56f1b/wS1150-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612487",
+  "auctionId": "4657",
+  "collectedAt": "2025-10-24T03:06:17.401Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588141/images",
+      "name": "Images for (3) Shimano spd cleat set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w1521fd2b-10f8-401d-84f3-faaf9964e440.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w1521fd2b-10f8-401d-84f3-faaf9964e440_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w9ccabab7-d077-40ac-8a89-741f4844c45d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w9ccabab7-d077-40ac-8a89-741f4844c45d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w6f6bdbad-53a0-4bd1-af25-9cc38602ad2d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588141/w6f6bdbad-53a0-4bd1-af25-9cc38602ad2d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588141",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:14.829Z"
+}

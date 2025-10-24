@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572077/images",
+      "name": "Images for Bulk Lot: (19) 72” X18” Folding Tables And (2) 96”x12”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/we20c8017-7de9-4f0a-8826-6ce047a11303.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/we20c8017-7de9-4f0a-8826-6ce047a11303_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w0313c1e9-73bf-4825-b730-23edf305efe3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w0313c1e9-73bf-4825-b730-23edf305efe3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/wd44caaa6-6874-4043-ac27-d46ba67a26d9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/wd44caaa6-6874-4043-ac27-d46ba67a26d9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w9c00eb08-fece-4be2-b36b-40476607b6ac.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w9c00eb08-fece-4be2-b36b-40476607b6ac_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w9ebb7a8c-0fe2-4a03-af25-858a604ae81f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w9ebb7a8c-0fe2-4a03-af25-858a604ae81f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/wcf08562d-326e-4ef7-a349-f51771443714.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/wcf08562d-326e-4ef7-a349-f51771443714_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w93232f03-5a15-4431-a4fd-54c5a523ab13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572077/w93232f03-5a15-4431-a4fd-54c5a523ab13_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572077",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:19.599Z"
+}

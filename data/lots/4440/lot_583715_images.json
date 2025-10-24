@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583715/images",
+      "name": "Images for Bontrager boulevard saddle 205mm black "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583715/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1019-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583715/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1019-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583715/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1019-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583715/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1019-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583715",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:12.364Z"
+}

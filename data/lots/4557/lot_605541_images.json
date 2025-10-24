@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605541/images",
+      "name": "Images for Material"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0122-3bc65768-e02b-43bd-8a35-b08dbbf072e4/w0448-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0122-3bc65768-e02b-43bd-8a35-b08dbbf072e4/w0448-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0122-3bc65768-e02b-43bd-8a35-b08dbbf072e4/w0448-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0122-3bc65768-e02b-43bd-8a35-b08dbbf072e4/w0448-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605541",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:19:07.221Z"
+}

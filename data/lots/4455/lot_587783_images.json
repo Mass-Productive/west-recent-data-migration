@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587783/images",
+      "name": "Images for Non Threaded C02 16g Lot Of 12 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587783/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1623-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587783/app/08-2015-05213f71-0e70-445f-9e65-ac399ef58b44/w1623-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587783",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:23.088Z"
+}

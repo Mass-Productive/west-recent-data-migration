@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572782/images",
+      "name": "Images for (12) NL4 Speakon Connectors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572782/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2221-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572782/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2221-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572782",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:48.839Z"
+}

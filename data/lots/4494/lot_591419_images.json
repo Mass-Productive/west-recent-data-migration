@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591419/images",
+      "name": "Images for RIDGID 1-1/4 in. Premium Car Cleaning Kit Accessory Shop Vacuum Attachments for RIDGID Wet Dry Vacs - $54 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0719-62226402-8f23-42a7-ba3a-54c47d626b0d/wH3153-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591419",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:02.952Z"
+}

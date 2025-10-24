@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600092/images",
+      "name": "Images for Chrome Modern HandShower by Kohler "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/13-0352-a4f70a94-4d46-4ab9-b7d2-0a7daaa71793/w0109-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wa2156208-8d3b-4375-aace-348404ca0e69.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wa2156208-8d3b-4375-aace-348404ca0e69_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600092",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:53.166Z"
+}

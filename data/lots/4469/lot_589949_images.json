@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589949/images",
+      "name": "Images for Gold Scarf Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2341-4cad9bb2-7c26-499f-bb3d-20151d68952b/w0127-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589949",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:12.389Z"
+}

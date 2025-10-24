@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4351/items/575445/images",
+      "name": "Images for Eaton 30KVA 480 Delta 3-Phase Dry Type Distribution Transformer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4351/app/11-0131-89f9a3b8-ea4d-49d5-b64e-c4f413a8fb5d/w0250-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575445",
+  "auctionId": "4351",
+  "collectedAt": "2025-10-24T00:11:24.197Z"
+}

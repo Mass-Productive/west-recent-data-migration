@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578458/images",
+      "name": "Images for  DEWALT Professional 10 Amp Battery Charger, Battery Maintainer, Battery Trickle Charger"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578458/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1091-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578458",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:15:57.022Z"
+}

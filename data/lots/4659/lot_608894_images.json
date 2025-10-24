@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608894/images",
+      "name": "Images for Quantity of (2) Glacier Bay Tri-View Medicine Cabinets - $248 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608894/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1517-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608894",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:04.351Z"
+}

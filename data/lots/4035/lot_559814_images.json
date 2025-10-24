@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559814/images",
+      "name": "Images for Practice (Dummy) Bomb"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-1_t.jpg",
+      "image_width": "165",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/17-1901-15c56088-2734-4816-a910-666dabcd4332/w1102-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559814",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:57:29.917Z"
+}

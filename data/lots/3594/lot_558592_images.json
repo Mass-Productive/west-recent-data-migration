@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558592/images",
+      "name": "Images for (1) Monte Blanc 2cm Polished Quartzite "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i39ce41b5-5924-49d0-987d-5fc61919baea.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i39ce41b5-5924-49d0-987d-5fc61919baea_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2f2d85b9-347d-4e45-88a2-42173d4c1b60.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2f2d85b9-347d-4e45-88a2-42173d4c1b60_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i85cd7c31-14cf-4d80-b6c9-243b7f159d5c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i85cd7c31-14cf-4d80-b6c9-243b7f159d5c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558592",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:54.289Z"
+}

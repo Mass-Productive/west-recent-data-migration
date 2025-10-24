@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/581338/images",
+      "name": "Images for Locker "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/cp1742854232x581338/app/24-1901-a6e3b679-236c-4142-887e-eea65fecd712/w0195a-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581338",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:29.791Z"
+}

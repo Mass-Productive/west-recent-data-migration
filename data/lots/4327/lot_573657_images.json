@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573657/images",
+      "name": "Images for Bulk Lot: Approximately (20) Floor Mats "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0349-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573657",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:17:50.185Z"
+}

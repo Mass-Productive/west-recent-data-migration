@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605302/images",
+      "name": "Images for 1/4” Shank Router Bits"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0239-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605302",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:31.730Z"
+}

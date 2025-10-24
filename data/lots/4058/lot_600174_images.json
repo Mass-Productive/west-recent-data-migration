@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600174/images",
+      "name": "Images for (3) Moen DN6724BN Danbury Brushed Nickel 24&#34; Towel bars"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0194-3-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600174",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:25.942Z"
+}

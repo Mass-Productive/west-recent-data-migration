@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558476/images",
+      "name": "Images for (4) ProBurger Clamp 300KGs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1751-534724d8-eee7-458e-ad12-20e35f7ad8b8/w1084-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558476",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:06.210Z"
+}

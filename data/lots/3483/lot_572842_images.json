@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572842/images",
+      "name": "Images for (2) Flood Lights"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572842/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2159-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572842/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2159-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572842/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2159-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572842/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i2159-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572842",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:50:00.084Z"
+}

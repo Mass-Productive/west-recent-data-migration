@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572819/images",
+      "name": "Images for Mic Splitter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572819/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2244-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572819/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2244-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572819/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2244-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572819/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i2244-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572819",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:54.067Z"
+}

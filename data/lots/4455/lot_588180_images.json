@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588180/images",
+      "name": "Images for Wcc jersey “ biker &#38; bacchus” from voler, full zip, size small"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748182x588180/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0646-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588180",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:29.028Z"
+}

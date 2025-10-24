@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591301/images",
+      "name": "Images for Husky 3 Gal. 120PSI Portable Electric Pancake Air Compressor - $67 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w0adbd242-8323-4cc0-bad6-ba9d3c3c6346.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w0adbd242-8323-4cc0-bad6-ba9d3c3c6346_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w09a490e3-108e-4883-9f8e-f13580cb9b98.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w09a490e3-108e-4883-9f8e-f13580cb9b98_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w00ade83d-0643-4055-8eec-bbdfd7c7af48.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/98c8a13d/w00ade83d-0643-4055-8eec-bbdfd7c7af48_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591301",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:15.810Z"
+}

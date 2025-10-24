@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589943/images",
+      "name": "Images for (2) Bosch Lights"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2318-7c7277a0-cca0-4536-8f11-d3020966362c/w0118-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589943",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:09.540Z"
+}

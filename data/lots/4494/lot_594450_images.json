@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594450/images",
+      "name": "Images for Home Decorators Collection Ashby Park 52 in. White Color Changing Integrated LED Brushed Nickel Ceiling Fan with Light Kit and Remote Control - $154 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594450/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3659-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594450",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:33.424Z"
+}

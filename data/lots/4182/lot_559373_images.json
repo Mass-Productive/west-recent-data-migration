@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4182/items/559373/images",
+      "name": "Images for Oil Tank for Oil Burner (275 Gallon)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(2).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(2)_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(4).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(4)_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(3).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(3)_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(5).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(5)_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(6).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_(6)_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_0200_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559373",
+  "auctionId": "4182",
+  "collectedAt": "2025-10-23T21:10:28.796Z"
+}

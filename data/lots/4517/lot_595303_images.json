@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595303/images",
+      "name": "Images for Steel Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w782027bf-ecab-43da-baf5-4483ed4d8af3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w782027bf-ecab-43da-baf5-4483ed4d8af3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wef4fcf13-71dd-4518-9ca1-96f3c0a725b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wef4fcf13-71dd-4518-9ca1-96f3c0a725b9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w3f67f372-96fd-4ed5-87ba-6e3d5a86c632.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/w3f67f372-96fd-4ed5-87ba-6e3d5a86c632_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wd0f59277-98f7-4392-bcc3-19529ac809ea.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/6e340c4f/wd0f59277-98f7-4392-bcc3-19529ac809ea_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595303",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:58:08.666Z"
+}

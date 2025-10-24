@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598845/images",
+      "name": "Images for (2)Flame King 340,000 BTU Propane Torch Self Igniting with Turbo Blast Trigger and Flow Valve- $49 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1300-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598845",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:21.579Z"
+}

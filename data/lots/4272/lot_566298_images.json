@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/566298/images",
+      "name": "Images for Bulk Lot: Assorted Pillows,  Decorative "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/29-0006-bd2f89a5-086d-4d2a-a6b6-39b4385b8b6a/w0559-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566298",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:49:23.520Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583883/images",
+      "name": "Images for Handlebar Basket With Quick Release"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/wb3f1e615-a19b-4e5d-931d-c3e290febec5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/wb3f1e615-a19b-4e5d-931d-c3e290febec5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/w5d941ffb-cbe6-4ca1-8b0e-00e16f26a13c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/w5d941ffb-cbe6-4ca1-8b0e-00e16f26a13c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/waf3855fd-b0c6-40a0-b6bc-901a7a6def0b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/waf3855fd-b0c6-40a0-b6bc-901a7a6def0b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/w88042cd4-91b3-4622-8f5f-3952ed736f23.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583883/w88042cd4-91b3-4622-8f5f-3952ed736f23_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583883",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:20.174Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/581450/images",
+      "name": "Images for Bakers Rack With Approximately (100) Trays And More (Located in Woodland CA)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/app/27-2137-700e61aa-432c-45b2-af95-0578862a2e53/w1001-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581450",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:33.072Z"
+}

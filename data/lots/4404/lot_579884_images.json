@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579884/images",
+      "name": "Images for (20) White Metal Roof Panels 4&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w5749581c-f5b7-4192-b5dd-5319e5b19b1d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w5749581c-f5b7-4192-b5dd-5319e5b19b1d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w7defc0c1-275e-4e5f-af54-8cfde5d06c40.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w7defc0c1-275e-4e5f-af54-8cfde5d06c40_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w5599f0d0-febf-4dac-886b-9dd3b28dcfdb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w5599f0d0-febf-4dac-886b-9dd3b28dcfdb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w61089874-00cc-42cd-988d-febb38353044.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579884/w61089874-00cc-42cd-988d-febb38353044_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579884",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:27.377Z"
+}

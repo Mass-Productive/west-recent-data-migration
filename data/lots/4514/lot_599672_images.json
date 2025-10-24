@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599672/images",
+      "name": "Images for (3) Christmas Trees"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2254-e157e97c-4d49-42f5-b96e-a8c2da32330c/w0300-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599672",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:46.045Z"
+}

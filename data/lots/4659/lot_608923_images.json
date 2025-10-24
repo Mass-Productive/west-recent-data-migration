@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608923/images",
+      "name": "Images for CALHOME Z Series 36 in. x 84 in. Silver Gray DIY Knotty Pine Wood Interior Sliding Barn Door with Hardware Kit - $480 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608923/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1651-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608923/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1651-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608923",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:15.533Z"
+}

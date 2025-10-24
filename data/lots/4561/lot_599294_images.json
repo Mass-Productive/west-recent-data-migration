@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599294/images",
+      "name": "Images for MIGHTY TUFF Jumbo Stackable 16 Gal. Storage Bins with Handles in Black (Pack of 3) $65 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iBin.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/iBin_t.png",
+      "image_width": "320",
+      "image_height": "225",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1562-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1562-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1562-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/10-2009-c608fba7-594c-4a0f-ae79-0aeb435f679b/w1562-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599294",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:06.535Z"
+}

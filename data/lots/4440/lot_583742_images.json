@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583742/images",
+      "name": "Images for Bontrager verse trail elite short saddle 145mm "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583742/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1021-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583742/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1021-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583742/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1021-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583742/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1021-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583742",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:22.845Z"
+}

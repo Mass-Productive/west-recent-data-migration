@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4551/items/597221/images",
+      "name": "Images for FLAT/PLAN FILE CABINET"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1451-7a311fff-7217-44af-a46d-c9aaadda1034/w0110-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597221",
+  "auctionId": "4551",
+  "collectedAt": "2025-10-24T02:13:26.301Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/571649/images",
+      "name": "Images for (1) Crate of (25) Desert Wine Glasses "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742093x571649/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0526-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571649",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:11:25.342Z"
+}

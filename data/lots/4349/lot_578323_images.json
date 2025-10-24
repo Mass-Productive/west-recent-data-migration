@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578323/images",
+      "name": "Images for Bulk Lot: Assorted Bricks And Pavers "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w4f8dadf9-864f-443a-abe2-d08d200a3184.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w4f8dadf9-864f-443a-abe2-d08d200a3184_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wad0e2342-0e4b-49b6-b931-72d6b22f092c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wad0e2342-0e4b-49b6-b931-72d6b22f092c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wd157e311-0d41-4e0e-b0d3-b125e6e75c2d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wd157e311-0d41-4e0e-b0d3-b125e6e75c2d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wc355063e-6604-40ff-8459-721a371a010b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wc355063e-6604-40ff-8459-721a371a010b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdb2c95e-6b6b-43f6-a75d-79f735e3d19c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/wcdb2c95e-6b6b-43f6-a75d-79f735e3d19c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w2ccd839c-6442-4b3a-b542-fbf2eb6e653f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w2ccd839c-6442-4b3a-b542-fbf2eb6e653f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w3a416741-12db-40f6-8e21-380ad9c32adb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/58f06211/w3a416741-12db-40f6-8e21-380ad9c32adb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578323",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:38.673Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585983/images",
+      "name": "Images for Husky Adjustable Height Pipe Roller Stand "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2320-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585983",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:36.946Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591439/images",
+      "name": "Images for DEWALT ATOMIC 20V MAX Cordless Brushless 4-1/2 in. Circular Saw (Tool Only) - $199 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3133-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3133-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3133-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/10-0716-80485770-e8db-4db5-937a-2b298ad28d59/wH3133-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591439",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:10.600Z"
+}

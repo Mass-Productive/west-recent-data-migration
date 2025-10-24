@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596343/images",
+      "name": "Images for Werner 6’ Fiberglass Folding Ladder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596343/app/12-0121-86b5c2bb-43db-41d1-961d-365c0fc99606/w0453-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596343",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:24.674Z"
+}

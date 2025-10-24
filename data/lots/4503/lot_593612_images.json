@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4503/items/593612/images",
+      "name": "Images for Contents Of Crate: Assorted Steel Plumbing Pipe "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/23-0106-58336acc-2d0c-4a3c-aa92-d04c29d7a48c/w0356-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593612",
+  "auctionId": "4503",
+  "collectedAt": "2025-10-24T01:56:00.041Z"
+}

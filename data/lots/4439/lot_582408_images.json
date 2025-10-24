@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582408/images",
+      "name": "Images for DELTA HORIZONTAL BAND SAW"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-3-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582408/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0147-3-rot180_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582408",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:04.354Z"
+}

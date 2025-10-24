@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608570/images",
+      "name": "Images for Quantity of (3) Assorted Home Lighting Fixtures - $123+ Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608570/app/31-0304-5e64e5c6-4da1-412f-b993-63e99f9b04e6/w1041-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608570",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:18.343Z"
+}

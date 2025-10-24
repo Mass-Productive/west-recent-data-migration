@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/559275/images",
+      "name": "Images for Whirlwind Medusa Multiple Wiring Systems 150ft"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2101-84563188-cdfb-4c83-9226-4ed98392f6f0/w1185-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559275",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:45.565Z"
+}

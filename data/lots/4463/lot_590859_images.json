@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4463/items/590859/images",
+      "name": "Images for CAT Jumpbox"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-2-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0161-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590859",
+  "auctionId": "4463",
+  "collectedAt": "2025-10-24T01:02:24.500Z"
+}

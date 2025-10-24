@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4653/items/609835/images",
+      "name": "Images for APC by Schneider Electric Transfer Switch "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4653/app/29-2207-38ce2cbf-360d-44c7-a12e-c67f110a8d84/w0192-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609835",
+  "auctionId": "4653",
+  "collectedAt": "2025-10-24T02:43:23.519Z"
+}

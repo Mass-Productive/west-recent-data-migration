@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599350/images",
+      "name": "Images for Water Heater Stand, Expansion Tank Mount, and Shower Faucet Rebuild Kit"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/06-1527-2a0c75b2-7b16-465e-baac-463e1025bdca/w1401-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599350",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:28.520Z"
+}

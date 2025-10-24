@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/568598/images",
+      "name": "Images for Heavy Duty Extension Cord "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/05-0100-c1436d2f-1843-4bc6-9d89-afd9c44fdccc/w0341-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568598",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T22:00:14.040Z"
+}

@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560372/images",
+      "name": "Images for Onan Corp RV Generator"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i99eb87c1-9bbd-4b8b-905d-0ebaa14ee5d2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i99eb87c1-9bbd-4b8b-905d-0ebaa14ee5d2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-2_t.jpg",
+      "image_width": "250",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1612-904795c9-9411-4833-bcea-d61650fce176/i0324-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560372",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:47.485Z"
+}

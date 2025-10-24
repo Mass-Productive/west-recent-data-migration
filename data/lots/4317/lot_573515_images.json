@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573515/images",
+      "name": "Images for (2) EZ Up Style Pop Up Tents 10’x10’"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/05-1413-653764be-4330-4a4f-b701-fc9177148b4b/w1212-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573515",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:23.026Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587997/images",
+      "name": "Images for Misc Bianchi Fenders "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587997/wf8350f13-df65-47b1-ba9b-5840b060fba1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587997/wf8350f13-df65-47b1-ba9b-5840b060fba1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587997",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:45.766Z"
+}

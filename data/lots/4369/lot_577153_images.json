@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577153/images",
+      "name": "Images for (99) Gold, Cream, and Black Tones Peruvian Travertine Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-1946-7f44f7dc-3a4b-455c-bd58-b0912ffc5ef1/w0161-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577153",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:20.400Z"
+}

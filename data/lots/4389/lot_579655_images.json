@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579655/images",
+      "name": "Images for Husky Light, Coffee Grinder"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741225991x579655/app/21-1917-0bd18cc2-b8a3-437c-aec4-97ed839b063e/w1392-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579655",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:37.924Z"
+}

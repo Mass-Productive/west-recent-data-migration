@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590097/images",
+      "name": "Images for 380 Sl Mercedes-Benz Hardtop"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w3c8a308d-c90a-4544-949a-1bc933d60c88.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w3c8a308d-c90a-4544-949a-1bc933d60c88_t.jpg",
+      "image_width": "320",
+      "image_height": "244",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w43ce24cb-ed70-4448-bb0c-7d635ac195b3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w43ce24cb-ed70-4448-bb0c-7d635ac195b3_t.jpg",
+      "image_width": "148",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wc35ea5d3-551f-4a5b-8fd2-500579f00212.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wc35ea5d3-551f-4a5b-8fd2-500579f00212_t.jpg",
+      "image_width": "148",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590097",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:47.851Z"
+}

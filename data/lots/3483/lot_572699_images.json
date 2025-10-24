@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572699/images",
+      "name": "Images for Car Light Bulbs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572699/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2387-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572699/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2387-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572699/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2387-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572699/app/29-2022-b72c8050-a30e-4c77-837f-05cf1be3909f/i2387-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572699",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:33.064Z"
+}

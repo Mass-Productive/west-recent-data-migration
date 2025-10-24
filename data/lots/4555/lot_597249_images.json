@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597249/images",
+      "name": "Images for Meritor Truck Differential"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/18-0019-603c635f-661c-4074-9514-eefacdbdfccc/w0109-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597249",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:14.990Z"
+}

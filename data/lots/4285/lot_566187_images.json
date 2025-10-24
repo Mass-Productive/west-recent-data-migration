@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/566187/images",
+      "name": "Images for (56) 1 Gallon Equisetum E. Miniature"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566187/w67198ff005e7d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566187/w67198ff005e7d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566187",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:53:20.612Z"
+}

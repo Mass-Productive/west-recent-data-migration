@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4551/items/597234/images",
+      "name": "Images for GENERAL CABLE (WC) CCW UFD 3C 1/0AWG w/ GRND 600V"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1728-7550cdf7-4551-48f9-a408-6f832fbaa69d/w0129-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1728-7550cdf7-4551-48f9-a408-6f832fbaa69d/w0129-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1728-7550cdf7-4551-48f9-a408-6f832fbaa69d/w0129-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/26-1728-7550cdf7-4551-48f9-a408-6f832fbaa69d/w0129-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597234",
+  "auctionId": "4551",
+  "collectedAt": "2025-10-24T02:13:31.467Z"
+}

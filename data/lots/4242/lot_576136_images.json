@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/576136/images",
+      "name": "Images for Battery AA&AAA"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/08-2228-d113b738-981b-4ca9-b0ab-17eb69f94b8d/w0293-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/08-2228-d113b738-981b-4ca9-b0ab-17eb69f94b8d/w0293-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/08-2228-d113b738-981b-4ca9-b0ab-17eb69f94b8d/w0293-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/08-2228-d113b738-981b-4ca9-b0ab-17eb69f94b8d/w0293-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/4ac24ad3/w1e529247-359e-41f6-8f53-e4b52afec1a1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/4ac24ad3/w1e529247-359e-41f6-8f53-e4b52afec1a1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "576136",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:42:38.199Z"
+}

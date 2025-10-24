@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599688/images",
+      "name": "Images for 16 in. W x 24 in. H Rounded Corner Rectangular Matte Black Medicine Cabinet with Mirror- $199.00 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753226770x599688/i1352mirror.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753226770x599688/i1352mirror_t.png",
+      "image_width": "317",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753226770x599688/i1352Mirror_.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753226770x599688/i1352Mirror__t.png",
+      "image_width": "314",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599688",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:17.782Z"
+}

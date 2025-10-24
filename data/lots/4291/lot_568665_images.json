@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568665/images",
+      "name": "Images for Boxes Of Automotive Books And Repair Manuals "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-0237-3a9bf4cb-2357-4852-8e29-4308c147fe46/w0154-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568665",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:18.744Z"
+}

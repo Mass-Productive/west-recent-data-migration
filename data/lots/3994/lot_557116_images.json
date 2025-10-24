@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3994/items/557116/images",
+      "name": "Images for (2) Decorative Light Poles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0233-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557116",
+  "auctionId": "3994",
+  "collectedAt": "2025-10-23T20:56:06.080Z"
+}

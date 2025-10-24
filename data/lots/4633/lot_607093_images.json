@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4633/items/607093/images",
+      "name": "Images for Half Size Propane Blodgett Convection Oven "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-3_t.jpg",
+      "image_width": "248",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-1_t.jpg",
+      "image_width": "311",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-2_t.jpg",
+      "image_width": "307",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-4_t.jpg",
+      "image_width": "268",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-5_t.jpg",
+      "image_width": "320",
+      "image_height": "245",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0539-6_t.jpg",
+      "image_width": "320",
+      "image_height": "284",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607093",
+  "auctionId": "4633",
+  "collectedAt": "2025-10-24T02:39:37.309Z"
+}

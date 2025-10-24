@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595311/images",
+      "name": "Images for (3) Hon Filing Cabinets "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0428-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595311",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:58:11.956Z"
+}

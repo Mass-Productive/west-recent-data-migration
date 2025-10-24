@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/574304/images",
+      "name": "Images for Wooden Cart"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0819-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0819-1_t.jpg",
+      "image_width": "320",
+      "image_height": "144",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0819-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-0044-2210499d-5a2e-4646-9dc0-f8ebf05819cd/w0819-2_t.jpg",
+      "image_width": "144",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574304",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T23:10:57.524Z"
+}

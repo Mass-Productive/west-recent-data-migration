@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579706/images",
+      "name": "Images for 2024 20’ Bi-Parting Metal Farm Driveway Gate (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/iJ0165C01550241IMG_4889.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/iJ0165C01550241IMG_4889_t.jpg",
+      "image_width": "320",
+      "image_height": "218",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0165J0162-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0165J0162-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0165J0162-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741302542x579706/app/15-2213-c5b80a5c-5eb2-4729-99fc-329f3f398d43/wJ0165J0162-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579706",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:09.971Z"
+}

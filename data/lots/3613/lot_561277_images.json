@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561277/images",
+      "name": "Images for Over The Shoulder Bag"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-1_t.jpg",
+      "image_width": "217",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i97c50357-6998-46af-b9a2-56732f9665af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i97c50357-6998-46af-b9a2-56732f9665af_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i74c6c293-6039-442f-bbd0-88167d14f2de.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i74c6c293-6039-442f-bbd0-88167d14f2de_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/icb84247f-d931-4036-9a51-0e872e8b54c2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/icb84247f-d931-4036-9a51-0e872e8b54c2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-7_t.jpg",
+      "image_width": "264",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1732-32859aba-2c34-48cd-bc4e-4dc595a4f45b/i0481-8_t.jpg",
+      "image_width": "252",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i7eec4d2c-5d29-49ac-bb78-54786ba4bfaf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i7eec4d2c-5d29-49ac-bb78-54786ba4bfaf_t.jpg",
+      "image_width": "230",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561277",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:48.036Z"
+}

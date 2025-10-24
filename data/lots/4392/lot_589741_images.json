@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4392/items/589741/images",
+      "name": "Images for (2) 15lbs Dumbbells "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589741/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0529-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589741/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0529-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589741/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0529-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589741/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0529-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589741",
+  "auctionId": "4392",
+  "collectedAt": "2025-10-24T00:19:07.387Z"
+}

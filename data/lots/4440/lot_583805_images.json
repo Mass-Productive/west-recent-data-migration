@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583805/images",
+      "name": "Images for Kryptonite U Lock Long Shackle"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/wa5915550-1d0d-46e4-9367-b32cb71563ed.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/wa5915550-1d0d-46e4-9367-b32cb71563ed_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/wf604f88e-4b74-4a66-b41b-e3b98ddad6ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/wf604f88e-4b74-4a66-b41b-e3b98ddad6ba_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/w0a13a618-81dd-4c20-8d38-86e8cd451640.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583805/w0a13a618-81dd-4c20-8d38-86e8cd451640_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583805",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:48.415Z"
+}

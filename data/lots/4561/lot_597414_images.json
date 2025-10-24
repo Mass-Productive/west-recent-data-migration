@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/597414/images",
+      "name": "Images for DEWALT 20V MAX / 60V MAX FLEXVOLT Lithium-Ion Fan Cooled Fast Battery Charger-$139 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1029-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1029-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1029-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1029-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597414",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:04.987Z"
+}

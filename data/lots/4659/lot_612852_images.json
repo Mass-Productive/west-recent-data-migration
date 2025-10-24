@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/612852/images",
+      "name": "Images for Glacier Bay Bratten 33 in. Drop-In 50/50 Double Bowl 18 Gauge Stainless Steel Kitchen Sink $200+ Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/i4013.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/i4013_t.png",
+      "image_width": "320",
+      "image_height": "207",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612852/app/02-1753-ee255395-8c44-4619-bfcf-4abe2daebe5f/w4013-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612852",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:26:17.885Z"
+}

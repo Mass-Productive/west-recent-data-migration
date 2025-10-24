@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4554/items/596800/images",
+      "name": "Images for Primo Self Sanitizing Water Dispenser "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-2248-3d18b617-2d06-47ba-b47e-2646a404b15e/w0474-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596800",
+  "auctionId": "4554",
+  "collectedAt": "2025-10-24T02:15:53.782Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559864/images",
+      "name": "Images for Oster Toaster Oven"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-2207-966dff01-7696-4103-99a7-6777dbdd50cf/w1159-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559864",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:57:49.985Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4657/items/609172/images",
+      "name": "Images for 2025 20’ Bi-Parting Wrought Iron Gate (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/iC0151Screen_Shot_2025-09-18_at_2.01.31_PM.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/iC0151Screen_Shot_2025-09-18_at_2.01.31_PM_t.png",
+      "image_width": "320",
+      "image_height": "217",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0151C0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0151C0149-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0151C0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1758229542x609172/app/19-2030-9e9c71bd-97c6-44d1-b80d-ac6623d405fd/wC0151C0149-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609172",
+  "auctionId": "4657",
+  "collectedAt": "2025-10-24T02:48:48.670Z"
+}

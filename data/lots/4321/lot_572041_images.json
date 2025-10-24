@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572041/images",
+      "name": "Images for 10’x20’ White Vinyl Collapsing Tent "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/w702354e0-1bec-4957-a4a2-ef59999cdd2f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/w702354e0-1bec-4957-a4a2-ef59999cdd2f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wfa9d6c1e-7701-459e-971d-519731995e9c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wfa9d6c1e-7701-459e-971d-519731995e9c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wa46c88e6-8358-46f1-8b77-8621f346be56.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wa46c88e6-8358-46f1-8b77-8621f346be56_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wa8e16ad2-fa4b-49ef-abc3-1c3df8b03b38.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wa8e16ad2-fa4b-49ef-abc3-1c3df8b03b38_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/w7468aa1a-3685-4030-8112-6daa8ac9a088.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/w7468aa1a-3685-4030-8112-6daa8ac9a088_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wfac3880b-a772-42f8-ac2d-45e37f68bbb6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572041/wfac3880b-a772-42f8-ac2d-45e37f68bbb6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572041",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:04.975Z"
+}

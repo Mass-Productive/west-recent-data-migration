@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4311/items/569589/images",
+      "name": "Images for (2) Ultratec G3000 Remotes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519087x569589/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0987-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519087x569589/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0987-1-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519087x569589/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0987-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519087x569589/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w0987-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569589",
+  "auctionId": "4311",
+  "collectedAt": "2025-10-23T22:05:00.602Z"
+}

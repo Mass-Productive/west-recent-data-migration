@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/559269/images",
+      "name": "Images for DMX Splitter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/18-2032-cf7f34fd-3a39-4e0f-a3c9-5087df1e2e1d/w1180-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559269",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:43.161Z"
+}

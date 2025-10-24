@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600184/images",
+      "name": "Images for Bobrick B-5181 Reversible Folding Restroom Shower Seat, 360 lb Load Capacity"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-3-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/08-2256-2eadc83a-ccbb-4b3c-a1ec-e688954ba6f8/w0184-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600184",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:29.945Z"
+}

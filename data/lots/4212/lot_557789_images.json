@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557789/images",
+      "name": "Images for Stainless Steel Shelf With Wheels "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2330-38c63e34-7de7-4ac8-b748-be8bad03facb/w0129-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557789",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:19.427Z"
+}

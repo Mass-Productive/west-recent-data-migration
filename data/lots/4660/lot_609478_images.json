@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609478/images",
+      "name": "Images for BUNDLE OF 9 WOODEN SMALL SIDE TABLES "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1537-6e68b820-1865-489e-b022-fbbc13db579f/w0868-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1537-6e68b820-1865-489e-b022-fbbc13db579f/w0868-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609478",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:14.734Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4285/items/566152/images",
+      "name": "Images for (25) 5 Gallon Rusmarinus Prostrata + Baccharis Twen Peak"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566152/w671838656249d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4285/cp1729728915x566152/w671838656249d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566152",
+  "auctionId": "4285",
+  "collectedAt": "2025-10-23T21:53:06.787Z"
+}

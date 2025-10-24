@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590168/images",
+      "name": "Images for Serv Ware 2-Bin Steam Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-1_t.jpg",
+      "image_width": "320",
+      "image_height": "288",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2314-6cc85367-e8e1-4302-97fb-78604080009d/w0135-3_t.jpg",
+      "image_width": "320",
+      "image_height": "292",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590168",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:23.396Z"
+}

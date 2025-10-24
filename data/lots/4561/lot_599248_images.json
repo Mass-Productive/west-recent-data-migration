@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599248/images",
+      "name": "Images for (4) Assorted Pipe Fitting Tool Bundle- $178 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1336-2_687981eaf057a-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-2026-a8cdff12-3c86-414d-86d0-0242f838216d/w1336-2_687981eaf057a-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "313",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599248",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:48.885Z"
+}

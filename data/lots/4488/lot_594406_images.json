@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4488/items/594406/images",
+      "name": "Images for Horse Grooming Vacuum, Horse Driving Harnesses, and Bridle Parts"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748878840/w683dc5f9cc563.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748878840/w683dc5f9cc563_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748878840/w683dc5fa58035.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4488/1748878840/w683dc5fa58035_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594406",
+  "auctionId": "4488",
+  "collectedAt": "2025-10-24T01:39:04.281Z"
+}

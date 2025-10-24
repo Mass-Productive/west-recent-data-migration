@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590096/images",
+      "name": "Images for Three Metal Shelving Racks"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w769e2416-03f2-4e54-a645-795d62e3601b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w769e2416-03f2-4e54-a645-795d62e3601b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w0b011909-0846-44b7-944a-a44813063b85.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w0b011909-0846-44b7-944a-a44813063b85_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/we4dd6316-53b8-479e-97eb-c6848347db70.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/we4dd6316-53b8-479e-97eb-c6848347db70_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wa224ee78-7793-44e1-91fc-b0ad36d369f1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wa224ee78-7793-44e1-91fc-b0ad36d369f1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wdf47879b-9554-49a6-b6ad-000192b33b2e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wdf47879b-9554-49a6-b6ad-000192b33b2e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590096",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:47.457Z"
+}

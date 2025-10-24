@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4390/items/577754/images",
+      "name": "Images for (14) Drape Panels - Assorted Colors"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/18-1457-bd977196-db5b-4a31-bbdd-16523f409cec/w0074-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577754",
+  "auctionId": "4390",
+  "collectedAt": "2025-10-24T00:18:26.261Z"
+}

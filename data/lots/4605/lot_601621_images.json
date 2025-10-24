@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601621/images",
+      "name": "Images for (20) Fluorescent Safety Traffic Cones (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601621/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS1029S0921-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601621",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:46.853Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608964/images",
+      "name": "Images for Roll of TMG Pex-A 1/2&#34;"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608964/app/02-1656-22eb08aa-26dc-4f6d-84da-ea678b1c2490/w1338-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608964",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:32.051Z"
+}

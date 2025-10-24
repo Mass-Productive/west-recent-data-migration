@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560514/images",
+      "name": "Images for AJA K3-Box"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2252-0910316a-f986-47de-bda3-2c2279d9f893/w1214-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560514",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:56.389Z"
+}

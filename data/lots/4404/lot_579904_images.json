@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579904/images",
+      "name": "Images for Bi-Parting Galvanized Wrought Iron Gate H3.9&#39;xW6.3&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579904/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0600-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579904",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:35.556Z"
+}

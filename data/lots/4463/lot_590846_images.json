@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4463/items/590846/images",
+      "name": "Images for Corded Skillsaw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4463/app/07-1446-5d5e8df8-ba3b-409a-97dc-f73c63f927e9/w0177-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590846",
+  "auctionId": "4463",
+  "collectedAt": "2025-10-24T01:02:19.269Z"
+}

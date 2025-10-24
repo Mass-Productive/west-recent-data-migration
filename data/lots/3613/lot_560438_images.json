@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560438/images",
+      "name": "Images for (5) White IKEA Lack Wall Shelves"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-4_t.jpg",
+      "image_width": "267",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/23-1538-eb1fccd5-a4cb-4682-af9c-b75ca0489def/i0397-8_t.jpg",
+      "image_width": "320",
+      "image_height": "299",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560438",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:14.047Z"
+}

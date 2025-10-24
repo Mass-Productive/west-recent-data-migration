@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4554/items/596500/images",
+      "name": "Images for (2) Wood Wine Bottle Holders, (3) Wine Glasses, And Compass Wall Art "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0144-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0144-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0144-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0036-30fd0262-768e-4a1e-8ab0-985ae65e7a84/w0144-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/14-0045-68dbd5c6-4c4f-4869-bca5-31d7bbff9188/w0144-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596500",
+  "auctionId": "4554",
+  "collectedAt": "2025-10-24T02:13:54.973Z"
+}

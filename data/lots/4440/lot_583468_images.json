@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583468/images",
+      "name": "Images for (6) 700c tubes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583468/app/02-1906-fc3c7dbc-7245-4718-a6a5-077676f37700/w0748-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049683x583468/app/02-1906-fc3c7dbc-7245-4718-a6a5-077676f37700/w0748-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583468",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:46:31.604Z"
+}

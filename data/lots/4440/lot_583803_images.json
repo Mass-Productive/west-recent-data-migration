@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583803/images",
+      "name": "Images for Trek Bontrager Folding Lock- Packaging Damaged"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w082e8c2c-99b6-41d5-aabe-604179651739.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w082e8c2c-99b6-41d5-aabe-604179651739_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w8fb84035-cd9b-4d90-95a2-2d3f03def957.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w8fb84035-cd9b-4d90-95a2-2d3f03def957_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w2d6e118a-7144-4a0e-842b-f324a453f2bf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w2d6e118a-7144-4a0e-842b-f324a453f2bf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w415305bf-c538-4f50-a1a9-72addeeabfcd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583803/w415305bf-c538-4f50-a1a9-72addeeabfcd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583803",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:47.611Z"
+}

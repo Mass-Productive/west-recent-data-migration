@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590201/images",
+      "name": "Images for Bakers Pride Pizza Oven "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-1_t.jpg",
+      "image_width": "255",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-2_t.jpg",
+      "image_width": "260",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-3_t.jpg",
+      "image_width": "187",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-4_t.jpg",
+      "image_width": "257",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0158-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590201",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:36.106Z"
+}

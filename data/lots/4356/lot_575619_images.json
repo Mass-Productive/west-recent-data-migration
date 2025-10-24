@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4356/items/575619/images",
+      "name": "Images for Contents Of Bin: (11) 5 Gallon Buckets Of Five Star Acid Cleaner No. 5"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wd765c600-4147-4200-a55a-9bd1a864cfef.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/wd765c600-4147-4200-a55a-9bd1a864cfef_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w18254fc9-9e31-4d70-b6ce-dabcfe9171c0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w18254fc9-9e31-4d70-b6ce-dabcfe9171c0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w21d53f23-5448-44dd-acf9-febdcb38776f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w21d53f23-5448-44dd-acf9-febdcb38776f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w94c058d5-baed-45d2-aa62-70db617c0355.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4356/2bdb9722/w94c058d5-baed-45d2-aa62-70db617c0355_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575619",
+  "auctionId": "4356",
+  "collectedAt": "2025-10-24T00:11:50.350Z"
+}

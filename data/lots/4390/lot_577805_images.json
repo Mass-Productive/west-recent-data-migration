@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4390/items/577805/images",
+      "name": "Images for Rustic Marquee Letter B"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0023-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577805",
+  "auctionId": "4390",
+  "collectedAt": "2025-10-24T00:18:46.786Z"
+}

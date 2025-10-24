@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578983/images",
+      "name": "Images for RIDGID 15 Amp 10 in. Wet Tile Saw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wbf7644a9-0ba4-4f41-9cbc-3fdc20e3d048.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wbf7644a9-0ba4-4f41-9cbc-3fdc20e3d048_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w6eb37cc5-b199-418b-84ed-abb31ed190c1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w6eb37cc5-b199-418b-84ed-abb31ed190c1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w3b8dae3c-7096-4197-8941-3b70ffba9807.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w3b8dae3c-7096-4197-8941-3b70ffba9807_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wc3c19249-f61d-49d8-8049-0e44a595311e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wc3c19249-f61d-49d8-8049-0e44a595311e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wb4265f36-04cf-4200-b0a6-4921536b0a35.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/wb4265f36-04cf-4200-b0a6-4921536b0a35_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w1c253a32-ec95-4bd9-9810-d7bcbcdf5d7e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w1c253a32-ec95-4bd9-9810-d7bcbcdf5d7e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w7cb3e561-bfd6-449a-b79a-ed53819163a3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578983/w7cb3e561-bfd6-449a-b79a-ed53819163a3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578983",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:14.356Z"
+}

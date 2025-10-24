@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588062/images",
+      "name": "Images for Giro Sante Road Shoe White/Silver/Gold 38 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588062/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1096-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588062",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:18.977Z"
+}

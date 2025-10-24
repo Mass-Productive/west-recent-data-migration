@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561536/images",
+      "name": "Images for Ridgid R4142 14” Cutting Chop Saw "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w53070677-326b-4e67-93dc-45ee4959c180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w53070677-326b-4e67-93dc-45ee4959c180_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w19ba8d04-855a-4495-b360-59f2a97d6bc5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w19ba8d04-855a-4495-b360-59f2a97d6bc5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/web31a371-c14d-4273-80d5-ab1dbf298ab8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/web31a371-c14d-4273-80d5-ab1dbf298ab8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd5cc543b-f50b-4f37-9f85-5394d009b132.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wd5cc543b-f50b-4f37-9f85-5394d009b132_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wfc7c50f0-81c8-4642-b932-d9eb002c893f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wfc7c50f0-81c8-4642-b932-d9eb002c893f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w09443c19-d448-457f-bc06-5b2469ecdedf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w09443c19-d448-457f-bc06-5b2469ecdedf_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w047b82e8-2a7f-41aa-b879-20a31de9018c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w047b82e8-2a7f-41aa-b879-20a31de9018c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561536",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:09.028Z"
+}

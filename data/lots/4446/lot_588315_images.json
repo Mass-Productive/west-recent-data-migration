@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4446/items/588315/images",
+      "name": "Images for Contents Of Shelf: Coil Transformers And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w0dfca311-2763-422a-98e4-2167f069f053.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w0dfca311-2763-422a-98e4-2167f069f053_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w276391cf-65a4-4e4d-943b-3a9ab8666f6d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w276391cf-65a4-4e4d-943b-3a9ab8666f6d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/we1fec456-9235-4300-8d45-88081614495b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/we1fec456-9235-4300-8d45-88081614495b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/wd0036d41-ac3f-48a7-aa7d-c55f7e2b9e8c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/wd0036d41-ac3f-48a7-aa7d-c55f7e2b9e8c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w6a2302fc-1f7b-4fa8-a462-b68a4a0b36c9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4446/2bdb9722/w6a2302fc-1f7b-4fa8-a462-b68a4a0b36c9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588315",
+  "auctionId": "4446",
+  "collectedAt": "2025-10-24T00:52:59.884Z"
+}

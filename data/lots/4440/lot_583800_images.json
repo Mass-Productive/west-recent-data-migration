@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583800/images",
+      "name": "Images for Trek Bontrager Interchange Combo Sensor "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/wb2208571-be93-42a7-ba03-38180b36c4ca.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/wb2208571-be93-42a7-ba03-38180b36c4ca_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/w3cf53629-adda-4c33-b0e0-a963d4ef72ec.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/w3cf53629-adda-4c33-b0e0-a963d4ef72ec_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/w7b07a213-91e5-46d4-92b1-7afcc8bdc93f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583800/w7b07a213-91e5-46d4-92b1-7afcc8bdc93f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583800",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:46.394Z"
+}

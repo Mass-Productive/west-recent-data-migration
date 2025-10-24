@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/607997/images",
+      "name": "Images for Three Hoses and Spray Nozzle, Approximately 75&#39;x 60&#39;x and 15&#39;"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046524/wIMG_9962.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046524/wIMG_9962_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046524/wIMG_0039-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/1758046524/wIMG_0039-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607997",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:41:59.169Z"
+}

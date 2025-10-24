@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609460/images",
+      "name": "Images for BUNDLE OF 5 WOODEN SIDE TABLE "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0848-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0848-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0848-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1354-e90ef2d1-479c-443e-8857-845bd4f6f719/w0848-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609460",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:07.599Z"
+}

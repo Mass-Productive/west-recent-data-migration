@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4297/items/566331/images",
+      "name": "Images for Approximately (300) Count 9mm Unprimed Once Fired Reloading Brass "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/25-2253-71226519-eca4-45ac-831c-10788a7d4196/w0232-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566331",
+  "auctionId": "4297",
+  "collectedAt": "2025-10-23T21:57:04.060Z"
+}

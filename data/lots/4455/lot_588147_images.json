@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588147/images",
+      "name": "Images for Shimano disc rotor brake adapter "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w958c292c-3d10-4427-b5f5-17a99b9332e7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w958c292c-3d10-4427-b5f5-17a99b9332e7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w5f07ce71-480d-40ae-9b17-da2913b17bca.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w5f07ce71-480d-40ae-9b17-da2913b17bca_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w8acf2434-cfe7-4d0f-95d4-f2f4d29d6175.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588147/w8acf2434-cfe7-4d0f-95d4-f2f4d29d6175_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588147",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:17.277Z"
+}

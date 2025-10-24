@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4492/items/592589/images",
+      "name": "Images for (1) Pallet of Carriage Stone Shasta Blend Rectangle Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746730204/wIMG_3452.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746730204/wIMG_3452_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4042-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592589",
+  "auctionId": "4492",
+  "collectedAt": "2025-10-24T01:48:20.009Z"
+}

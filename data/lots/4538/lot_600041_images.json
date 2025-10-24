@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/600041/images",
+      "name": "Images for Weather Guard Defender Series Aluminum Truck Rack "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1648-8a321838-ea73-42b8-803c-a0cbc97338d0/w0417-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1648-8a321838-ea73-42b8-803c-a0cbc97338d0/w0417-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600041",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:42.135Z"
+}

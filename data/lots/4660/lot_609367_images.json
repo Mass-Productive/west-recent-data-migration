@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609367/images",
+      "name": "Images for (8) Wooden Folding Tables"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1543-e7ce104d-9fc9-4610-8907-16b4e181dfed/w0817-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1543-e7ce104d-9fc9-4610-8907-16b4e181dfed/w0817-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1543-e7ce104d-9fc9-4610-8907-16b4e181dfed/w0817-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1543-e7ce104d-9fc9-4610-8907-16b4e181dfed/w0817-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609367",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:50.801Z"
+}

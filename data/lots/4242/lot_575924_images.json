@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/575924/images",
+      "name": "Images for Apec Water Fillter"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/4ac24ad3/wad2e6647-1068-4956-bcb5-a3574448f215.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/4ac24ad3/wad2e6647-1068-4956-bcb5-a3574448f215_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/12-2355-a239a830-d0a0-48fc-9a1c-a97e3d2e1f8a/w0219-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575924",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:41:11.937Z"
+}

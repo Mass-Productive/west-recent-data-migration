@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587671/images",
+      "name": "Images for Trek Blendr Fendr "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587671/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1501-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587671/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1501-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587671/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1501-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745947x587671/app/07-2126-d74f78d9-6063-4893-8e81-b14867553f77/w1501-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587671",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:56:37.155Z"
+}

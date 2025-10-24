@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/556947/images",
+      "name": "Images for Pencil Condenser Mics"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i0577-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i0577-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "556947",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:16.571Z"
+}

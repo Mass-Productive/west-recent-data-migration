@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579777/images",
+      "name": "Images for 4-Step Folding Ladder with Anti-Slip Pedal, 43&#34;x15.7&#34; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579777/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0548-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579777/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0548-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579777/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0548-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741305321x579777/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0548-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579777",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:22.128Z"
+}

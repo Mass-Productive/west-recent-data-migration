@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594422/images",
+      "name": "Images for Husky 24 in. Tile Cutter with Tungsten Carbide Blade and Adjustable Gauge - $99 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594422/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3687-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594422",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:22.177Z"
+}

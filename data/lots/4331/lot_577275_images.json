@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/577275/images",
+      "name": "Images for Dewalt DCHT820 22&#34; Battery Operated Hedge Trimmer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739376549x577275/app/12-1525-4a8bec42-3e83-4684-8a4b-9a2b959d6a97/w1025-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577275",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:26:02.415Z"
+}

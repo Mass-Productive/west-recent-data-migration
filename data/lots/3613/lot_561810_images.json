@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561810/images",
+      "name": "Images for Metal Sign “Together is our favorite place to be”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-1_t.jpg",
+      "image_width": "285",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-2_t.jpg",
+      "image_width": "320",
+      "image_height": "235",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-3_t.jpg",
+      "image_width": "269",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/16-1307-c2e5baf7-8e84-4195-b21b-487fdea9afbf/i0535-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561810",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:54:10.142Z"
+}

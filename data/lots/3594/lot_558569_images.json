@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558569/images",
+      "name": "Images for Napolina Honed 3x6 Tile"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i69cd0b1a-1a53-47ef-adad-8e496456666d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i69cd0b1a-1a53-47ef-adad-8e496456666d_t.jpg",
+      "image_width": "318",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i02249bcb-48a6-42ff-9b2f-39ec0fe83ce0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i02249bcb-48a6-42ff-9b2f-39ec0fe83ce0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i547d048d-fcba-496b-ae46-56db74fb2fcc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i547d048d-fcba-496b-ae46-56db74fb2fcc_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3b89fcbe-069c-4f2e-b733-c970e28b998f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i3b89fcbe-069c-4f2e-b733-c970e28b998f_t.jpg",
+      "image_width": "215",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558569",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:45.052Z"
+}

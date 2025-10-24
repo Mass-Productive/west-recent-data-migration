@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596339/images",
+      "name": "Images for Brother Printer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w49ff58e9-2320-4a1d-b835-c58eed43ff96.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w49ff58e9-2320-4a1d-b835-c58eed43ff96_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w844d71af-9bf0-4f05-8d01-f17fa44b23c1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w844d71af-9bf0-4f05-8d01-f17fa44b23c1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/we89f8e6e-c5f1-4ca3-8437-7a92fdb1871c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/we89f8e6e-c5f1-4ca3-8437-7a92fdb1871c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w813a5d79-6352-4aa1-9009-a70642291b12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w813a5d79-6352-4aa1-9009-a70642291b12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w480ac0b6-e07c-4f0e-bf1a-384c88f74ab6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596339/w480ac0b6-e07c-4f0e-bf1a-384c88f74ab6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596339",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:23.065Z"
+}

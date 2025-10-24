@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558693/images",
+      "name": "Images for Tornado Drum Vacuum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1626-7e5fc2b3-c1e3-4437-997d-1d575f5e9480/w0153-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558693",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:47.801Z"
+}

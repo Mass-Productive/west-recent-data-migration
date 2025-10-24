@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588229/images",
+      "name": "Images for Bulk Lot: Shimano v brake pad"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/w9da191ef-1774-41f1-824f-f249340182a2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/w9da191ef-1774-41f1-824f-f249340182a2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/w90cd5c16-dc8e-4954-8d44-a4906be23cd7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/w90cd5c16-dc8e-4954-8d44-a4906be23cd7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/wc0d95a4d-7bb0-4802-aef9-5f58a1cdf1af.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588229/wc0d95a4d-7bb0-4802-aef9-5f58a1cdf1af_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588229",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:35.663Z"
+}

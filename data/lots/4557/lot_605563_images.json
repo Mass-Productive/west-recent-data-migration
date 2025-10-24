@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605563/images",
+      "name": "Images for Office Chairs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-0231-1d7e1903-d6e2-4df3-b12f-3a33e3df0d4e/w0482-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605563",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:19:16.033Z"
+}

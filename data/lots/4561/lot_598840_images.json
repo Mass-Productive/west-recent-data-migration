@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598840/images",
+      "name": "Images for HDX 3-Tier Steel Wire Shelving Unit in Chrome (24 in. W x 30 in. H x 14 in. D)- $49 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1306-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1306-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1306-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/03-1636-b9319d5a-733e-437a-b259-5dd12ae294a7/w1306-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598840",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:19.586Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4543/items/594321/images",
+      "name": "Images for Bin Of Assorted Chains"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594321/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0384-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594321",
+  "auctionId": "4543",
+  "collectedAt": "2025-10-24T02:09:38.622Z"
+}

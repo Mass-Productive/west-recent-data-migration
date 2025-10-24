@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589957/images",
+      "name": "Images for Binks Pressure Pot"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0136-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589957",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:15.933Z"
+}

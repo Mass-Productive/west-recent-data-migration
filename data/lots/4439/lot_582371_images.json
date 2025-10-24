@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582371/images",
+      "name": "Images for Westin pro traxx step bar "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582371/app/19-1725-3ce52337-3288-4414-ae5e-071da5c78027/w0100-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582371/app/19-1725-3ce52337-3288-4414-ae5e-071da5c78027/w0100-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582371",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:45:49.375Z"
+}

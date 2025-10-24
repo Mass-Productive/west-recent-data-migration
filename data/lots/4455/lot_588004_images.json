@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588004/images",
+      "name": "Images for Handlebars Lot Of 5 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588004/wd211e764-1d2d-4058-aa5d-31b6ddf97438.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588004/wd211e764-1d2d-4058-aa5d-31b6ddf97438_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588004/w97c8c4c9-8ddc-44f0-8f1e-da4861e16be4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588004/w97c8c4c9-8ddc-44f0-8f1e-da4861e16be4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588004",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:48.729Z"
+}

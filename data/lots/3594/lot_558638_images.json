@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558638/images",
+      "name": "Images for (4) Autumn Dunes 3cm Brushed Granit"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0108-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558638",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:12.687Z"
+}

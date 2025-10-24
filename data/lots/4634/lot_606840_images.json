@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/606840/images",
+      "name": "Images for Bacharach Leakator 10 Combustible Gas Detection And TE Connectivity Resisters"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-3-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-4-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/05-1712-21af159d-462a-4bf8-8d22-10ac5b11b17d/w0184-5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "606840",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:40:38.618Z"
+}

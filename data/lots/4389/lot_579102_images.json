@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579102/images",
+      "name": "Images for (4) Schlage B62 Series Satin Nickel Double Cylinder Deadbolt Certified Highest for Security and Durability"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950216x579102/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1296-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579102",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:02.916Z"
+}

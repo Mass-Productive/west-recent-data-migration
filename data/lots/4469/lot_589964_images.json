@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589964/images",
+      "name": "Images for Closet Pole Ends"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/24-1522-fe8fdcb6-255e-4655-af3a-9548bd44dc64/w0129-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589964",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:18.727Z"
+}

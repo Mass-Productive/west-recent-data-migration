@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587793/images",
+      "name": "Images for Motorex Chainlube Dry Lot Of 3 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587793/app/08-2038-e77af7ca-90a4-4fb0-8c84-18e558bf3e7d/w1654-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587793/app/08-2038-e77af7ca-90a4-4fb0-8c84-18e558bf3e7d/w1654-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587793",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:27.207Z"
+}

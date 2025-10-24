@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581984/images",
+      "name": "Images for Shimano m70r v-brake pad insert lot of 4 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wa4411c62-f7fd-419f-8b4c-e1ef80eaa2c1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wa4411c62-f7fd-419f-8b4c-e1ef80eaa2c1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wcdd685d8-1c0f-4fac-b830-399c1a8b83ad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wcdd685d8-1c0f-4fac-b830-399c1a8b83ad_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581984",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:51.381Z"
+}

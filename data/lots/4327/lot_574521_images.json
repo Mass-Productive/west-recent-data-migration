@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/574521/images",
+      "name": "Images for Mettler-Toledo Commercial Shipper Scale"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/18-0006-f709bf60-1323-4773-8ea2-538e8ce94651/w0880-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574521",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T23:11:14.916Z"
+}

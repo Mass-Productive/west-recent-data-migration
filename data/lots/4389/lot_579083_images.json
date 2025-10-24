@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579083/images",
+      "name": "Images for RIGID 14 Gallon 6.0 Peak HP NXT Shop Vac Wet Dry Vacuum with Fine Dust Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wf93b50da-47c2-4ebb-ab9d-6e5da667f732.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wf93b50da-47c2-4ebb-ab9d-6e5da667f732_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/w3f5999be-8f0a-456b-8488-5423477512db.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/w3f5999be-8f0a-456b-8488-5423477512db_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wa7e3db49-e020-4b47-a071-6dd78bba2302.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wa7e3db49-e020-4b47-a071-6dd78bba2302_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wf387affa-d170-4058-991f-80b03a950b93.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579083/wf387affa-d170-4058-991f-80b03a950b93_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579083",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:55.158Z"
+}

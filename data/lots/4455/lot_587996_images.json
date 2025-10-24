@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587996/images",
+      "name": "Images for Electra Chrome Fenders Lot Of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w7878951b-bcd6-4d0a-af30-203a5bc43aaf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w7878951b-bcd6-4d0a-af30-203a5bc43aaf_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w54eb3e99-5c36-40e9-8b2a-9fb789ea7760.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w54eb3e99-5c36-40e9-8b2a-9fb789ea7760_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w70220f2c-39ce-469a-8aed-96f5bc9ec393.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/w70220f2c-39ce-469a-8aed-96f5bc9ec393_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/wf59ca260-32c0-41b0-b796-96a402d18810.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587996/wf59ca260-32c0-41b0-b796-96a402d18810_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587996",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:45.359Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/557909/images",
+      "name": "Images for Contents Of Box: Motors Truck Repair Editions "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w697a81c7-2017-4d02-8d77-62b2070ed786.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/w697a81c7-2017-4d02-8d77-62b2070ed786_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wec9b7162-3372-4b08-a189-b64ca6c1f44b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/wec9b7162-3372-4b08-a189-b64ca6c1f44b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/we9da79ae-22b4-4631-8a8f-8b2ba6e3f051.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/84daf221/we9da79ae-22b4-4631-8a8f-8b2ba6e3f051_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557909",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:33:03.936Z"
+}

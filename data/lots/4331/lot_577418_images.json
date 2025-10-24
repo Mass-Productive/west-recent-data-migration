@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/577418/images",
+      "name": "Images for Ridgid NXT Wet/Dry Vacuum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1739463817x577418/app/12-2120-264396bd-5497-43ae-bf43-b754462cef08/w1014A-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577418",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:26:13.855Z"
+}

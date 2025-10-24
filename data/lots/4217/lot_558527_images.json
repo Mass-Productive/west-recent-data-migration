@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558527/images",
+      "name": "Images for Sony Camera CA-537"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-2-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/12-1717-fd7b993a-203f-4d07-9c1b-89c6622721f5/w1141-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558527",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:26.678Z"
+}

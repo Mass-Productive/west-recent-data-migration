@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4503/items/593406/images",
+      "name": "Images for Glosstex Basket Hamper"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-10-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-10-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-13_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/21-2132-17009783-fc11-4c89-9b3c-1ec65f6ad1fe/w0178-14_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593406",
+  "auctionId": "4503",
+  "collectedAt": "2025-10-24T01:54:38.358Z"
+}

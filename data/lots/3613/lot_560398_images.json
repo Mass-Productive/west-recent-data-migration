@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560398/images",
+      "name": "Images for Lot Of New Wool / Knitting Yarn"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-1_t.jpg",
+      "image_width": "320",
+      "image_height": "267",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-5_t.jpg",
+      "image_width": "320",
+      "image_height": "197",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-0008-aa0f8b47-5f69-48c5-ad00-19d40ccabba8/i0354-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560398",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:57.889Z"
+}

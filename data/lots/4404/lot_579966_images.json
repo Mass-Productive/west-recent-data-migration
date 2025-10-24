@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579966/images",
+      "name": "Images for 10&#39;x3&#39; Heavy Duty Steel Frame Pallet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398747x579966/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0610-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579966",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:23:00.842Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/601111/images",
+      "name": "Images for Decomposition By Product Detector"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/05-1901-aed77cbd-ef09-410c-8b9b-cdddff7a1115/w0350-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601111",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:25.222Z"
+}

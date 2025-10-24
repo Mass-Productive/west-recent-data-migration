@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4392/items/589779/images",
+      "name": "Images for Heavy Duty Fan "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589779/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0544-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589779",
+  "auctionId": "4392",
+  "collectedAt": "2025-10-24T00:19:22.881Z"
+}

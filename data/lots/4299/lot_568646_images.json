@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/568646/images",
+      "name": "Images for Countyline Metal Gate - 114”x50”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w9e3574cf-cc88-479c-808a-219b76a64d24.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w9e3574cf-cc88-479c-808a-219b76a64d24_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/we70a042b-138e-4ca9-8f7c-a0a9ee5c8dfd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/we70a042b-138e-4ca9-8f7c-a0a9ee5c8dfd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w3052ca20-1ccc-4fda-bced-428bfbae26e1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w3052ca20-1ccc-4fda-bced-428bfbae26e1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/we333f941-f132-4b9e-9448-bf6a0d6d1928.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/we333f941-f132-4b9e-9448-bf6a0d6d1928_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568646",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T22:00:33.583Z"
+}

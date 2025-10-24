@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594530/images",
+      "name": "Images for (6) Sure-Lites SEL White Integrated LED Plastic Emergency Light with NiCad Battery and Coverage Area of 25 ft. - $323 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594530/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3736-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594530",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:05.658Z"
+}

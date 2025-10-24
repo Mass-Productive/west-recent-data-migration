@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596317/images",
+      "name": "Images for Modular Plastic Shelving (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w5e0a6e8f-e265-47b1-ba6f-423e35d397d7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w5e0a6e8f-e265-47b1-ba6f-423e35d397d7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w9bdda130-4d7b-46fe-85e7-8dfce5a46cfd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w9bdda130-4d7b-46fe-85e7-8dfce5a46cfd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w3d8b558e-f5ea-4cb7-a225-29ab9228c0c9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w3d8b558e-f5ea-4cb7-a225-29ab9228c0c9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w0c21eb9a-ff75-4514-bab5-11b2cc053ebe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596317/w0c21eb9a-ff75-4514-bab5-11b2cc053ebe_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596317",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:17.022Z"
+}

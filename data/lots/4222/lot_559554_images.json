@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559554/images",
+      "name": "Images for Coffee Maker/Grinder Cafection Encore 29 Bean To Cup (Does Not Turn On)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-11_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-12_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0130-13_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559554",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:07.504Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583928/images",
+      "name": "Images for Trek Skull Cap Black"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/w81659516-c892-4067-8d29-02a4ad03c3b9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/w81659516-c892-4067-8d29-02a4ad03c3b9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/we3f48fdb-9e6f-4fde-9ca3-5d7af4ddc59d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/we3f48fdb-9e6f-4fde-9ca3-5d7af4ddc59d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/w3c58d72c-a0c2-4c78-9037-9bd9b231a1f2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050426x583928/w3c58d72c-a0c2-4c78-9037-9bd9b231a1f2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583928",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:38.409Z"
+}

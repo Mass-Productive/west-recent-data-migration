@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583881/images",
+      "name": "Images for Handlebar Basket  Lack Mesh With Quick Release"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/waf992e10-831c-4c9c-a159-142258d08f4a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/waf992e10-831c-4c9c-a159-142258d08f4a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/wb2a505fb-8385-4f3f-ac29-9e2d76bf40e7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/wb2a505fb-8385-4f3f-ac29-9e2d76bf40e7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/w1a57c308-99d5-46e4-aa41-bb3e6676358c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583881/w1a57c308-99d5-46e4-aa41-bb3e6676358c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583881",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:19.362Z"
+}

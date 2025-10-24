@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579169/images",
+      "name": "Images for BESSEY 6 in. Heavy-Duty Bench Vise with Swivel Base"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579169/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1261-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579169/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1261-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579169/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1261-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579169/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1261-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579169",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:30.159Z"
+}

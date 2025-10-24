@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559628/images",
+      "name": "Images for Farmer Brother Coffee Grinder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/23-2248-518b0639-814a-4450-951f-acb914f6d326/w0210-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559628",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:37.773Z"
+}

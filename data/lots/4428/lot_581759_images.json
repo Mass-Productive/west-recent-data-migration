@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581759/images",
+      "name": "Images for Trek precaliber 16 purple- 16”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wd50f990d-8a52-4cab-864f-fd45d2bbf420.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wd50f990d-8a52-4cab-864f-fd45d2bbf420_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/w9a00f523-fc03-4cc3-910a-324ed7487eff.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/w9a00f523-fc03-4cc3-910a-324ed7487eff_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wb1a677c0-447f-45c9-a6a7-1a3ac45aedd1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wb1a677c0-447f-45c9-a6a7-1a3ac45aedd1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wa3513489-9d56-496d-b931-f68f915be13a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wa3513489-9d56-496d-b931-f68f915be13a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wb9f26d28-0771-4a9c-a715-c433266bfefc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wb9f26d28-0771-4a9c-a715-c433266bfefc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wf774372d-6651-421b-a3ba-2ae4512d54e6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/wf774372d-6651-421b-a3ba-2ae4512d54e6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/w40b84acf-e2aa-4b13-8ba7-9283d52be79f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/58f06211/w40b84acf-e2aa-4b13-8ba7-9283d52be79f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581759",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:38:22.528Z"
+}

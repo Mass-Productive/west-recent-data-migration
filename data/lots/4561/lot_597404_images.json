@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/597404/images",
+      "name": "Images for RYOBI ONE+ 18V EZClean 320 PSI 0.8 GPM Cordless Battery Cold Water Power Cleaner (Tool Only) -$49 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1040-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1040-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1040-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1040-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597404",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:00.950Z"
+}

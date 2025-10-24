@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597660/images",
+      "name": "Images for (2) 45lb Plates"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0228A-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597660",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:20:22.278Z"
+}

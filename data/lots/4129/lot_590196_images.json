@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590196/images",
+      "name": "Images for Commercial Hood 40”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-1_t.jpg",
+      "image_width": "320",
+      "image_height": "303",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-2_t.jpg",
+      "image_width": "305",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0049-b9a3aa37-b56a-4725-87bc-d1442d1a6fb4/w0163-3_t.jpg",
+      "image_width": "267",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590196",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:34.125Z"
+}

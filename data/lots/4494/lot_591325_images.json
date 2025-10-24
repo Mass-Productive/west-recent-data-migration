@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/591325/images",
+      "name": "Images for RIDGID 4 Gallon 5.0 Peak HP Portable Shop Vacuum Wet Dry Vac with Fine Dust Filter, Locking Hose and Accessory Attachments - $99 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/app/08-1312-cf7b1ce2-242f-4471-9322-b041dd3fc018/wH3050-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591325",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:50:25.527Z"
+}

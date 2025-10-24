@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587994/images",
+      "name": "Images for Electra Townie Fenders 2 Sets "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587994/wac5434a6-f57c-4802-962e-7d219d14fa30.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587994/wac5434a6-f57c-4802-962e-7d219d14fa30_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587994/wd8166221-45fe-428c-b1dc-b86f2aa842ad.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x587994/wd8166221-45fe-428c-b1dc-b86f2aa842ad_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587994",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:44.551Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609349/images",
+      "name": "Images for HYSTER H30XL Propane Forklift"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/25-1539-3502d94f-7267-420e-8994-2dd6a4f692ab/w0814-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/25-1539-3502d94f-7267-420e-8994-2dd6a4f692ab/w0814-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/25-1539-3502d94f-7267-420e-8994-2dd6a4f692ab/w0814-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/25-1539-3502d94f-7267-420e-8994-2dd6a4f692ab/w0814-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/1758816602/w68d5695bbdb24.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/1758816602/w68d5695bbdb24_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609349",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:50.405Z"
+}

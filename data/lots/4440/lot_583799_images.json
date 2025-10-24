@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583799/images",
+      "name": "Images for Trek Bontrager Computer For Trek Bikes Equiped With DuoTrap"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/wa9b98fac-09b6-4eb2-a3a0-1695545f0e8b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/wa9b98fac-09b6-4eb2-a3a0-1695545f0e8b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/w4d7ab2dd-579c-4b5d-a342-1a77954ccb32.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/w4d7ab2dd-579c-4b5d-a342-1a77954ccb32_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/wdc09c5fc-dd42-4ca2-82c6-d47d8ec9ead1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/wdc09c5fc-dd42-4ca2-82c6-d47d8ec9ead1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/w9da9ddf3-7984-4511-864e-4b120d75d5ca.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583799/w9da9ddf3-7984-4511-864e-4b120d75d5ca_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583799",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:45.983Z"
+}

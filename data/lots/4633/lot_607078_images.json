@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4633/items/607078/images",
+      "name": "Images for Follett Nugget Ice Maker "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/02-2044-e81c4ea0-f50d-4ed3-bd82-2ed938a7b7b7/w0554-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607078",
+  "auctionId": "4633",
+  "collectedAt": "2025-10-24T02:39:31.330Z"
+}

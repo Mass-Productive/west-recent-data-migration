@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577108/images",
+      "name": "Images for Metal A-frame"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1822-436fe9bb-d384-42ab-87a1-f57cc5c02503/678e9a176827a/w0100-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577108",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:02.265Z"
+}

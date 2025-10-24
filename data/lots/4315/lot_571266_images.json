@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4315/items/571266/images",
+      "name": "Images for Black Vinyl Coated Welded Wire Mesh, 16GA, 24&#34;x118&#39; (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660816x571266/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0313-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571266",
+  "auctionId": "4315",
+  "collectedAt": "2025-10-23T22:07:17.763Z"
+}

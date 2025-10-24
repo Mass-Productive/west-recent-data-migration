@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/600054/images",
+      "name": "Images for (2 Pack) Cushion Lab Deep Sleep Pillow"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/cp1753912926x600054/app/02-1817-9473d5da-6626-4b77-8f77-78923d76b82d/w01720160-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/cp1753912926x600054/app/02-1817-9473d5da-6626-4b77-8f77-78923d76b82d/w01720160-1-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/cp1753912926x600054/app/02-1817-9473d5da-6626-4b77-8f77-78923d76b82d/w01720160-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/cp1753912926x600054/app/02-1817-9473d5da-6626-4b77-8f77-78923d76b82d/w01720160-2-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600054",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:47.343Z"
+}

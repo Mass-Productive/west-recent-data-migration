@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560511/images",
+      "name": "Images for Tiffen 49mm 25 Filter, Red"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/20-2243-284d2966-0861-41b6-a3b1-1b69fc90a818/w1213-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560511",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:14:55.187Z"
+}

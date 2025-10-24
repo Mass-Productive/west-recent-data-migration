@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/581093/images",
+      "name": "Images for 6 Gallon 3.5 Peak HP NXT Shop Vac Wet Dry Vacuum with General Debris Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581093/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1122-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581093",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:18:02.300Z"
+}

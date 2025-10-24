@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578292/images",
+      "name": "Images for (5) Assorted Sprayers "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w35154756-5350-4647-a4e5-a93014ff0a2d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w35154756-5350-4647-a4e5-a93014ff0a2d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wd3a7c760-71fe-49ac-8e6e-a9eaae8197da.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wd3a7c760-71fe-49ac-8e6e-a9eaae8197da_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2d8396d1-d04e-47cc-a981-f4c327bb9dc5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2d8396d1-d04e-47cc-a981-f4c327bb9dc5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w3356af46-1052-4c9d-8850-5aedad4b1295.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w3356af46-1052-4c9d-8850-5aedad4b1295_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w6d40e723-3ca9-4491-a9e5-11ff3742eaaa.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w6d40e723-3ca9-4491-a9e5-11ff3742eaaa_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w54c0bb82-e8c9-4525-83e3-4266f993e696.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w54c0bb82-e8c9-4525-83e3-4266f993e696_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wc5a98c03-b4ac-4d93-bb3b-8fbe1fe3f0ce.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wc5a98c03-b4ac-4d93-bb3b-8fbe1fe3f0ce_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578292",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:25.977Z"
+}

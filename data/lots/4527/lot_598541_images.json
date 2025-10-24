@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598541/images",
+      "name": "Images for Follett Ice Maker/Dispenser "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/25-0307-cde8b416-14d8-4e94-aa4d-d0ede3ac13c2/685cbb7fb166c/w0134-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598541",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:03.518Z"
+}

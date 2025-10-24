@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581952/images",
+      "name": "Images for Hollywood F4 Heavy Duty Bike Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/26-2121-9c335921-bf9b-40c9-b206-f05206d1a3cb/w0160-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581952",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:39.140Z"
+}

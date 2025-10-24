@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598605/images",
+      "name": "Images for Tankless Electric Water Heater "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/02-0253-3c25221e-8dde-4243-b887-9cf14256ecd7/w0219-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598605",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:29.135Z"
+}

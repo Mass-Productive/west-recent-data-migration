@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4492/items/592548/images",
+      "name": "Images for (1) Pallet of Castle Stone Shasta Blend Pavers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4001-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4001-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746728944/wIMG_3411.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/1746728944/wIMG_3411_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4001-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4492/app/12-1838-f7264e87-58ce-4bca-a325-c42661845685/w4001-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592548",
+  "auctionId": "4492",
+  "collectedAt": "2025-10-24T01:47:31.108Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4569/items/605938/images",
+      "name": "Images for D&M 3 Pt. 300# Duster"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4569/app/15-1959-403e3a3c-268f-4c7a-a4b6-055a3c896b7f/w0271-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605938",
+  "auctionId": "4569",
+  "collectedAt": "2025-10-24T02:26:39.287Z"
+}

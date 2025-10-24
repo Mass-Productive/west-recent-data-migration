@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568687/images",
+      "name": "Images for Micrometer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wff465c6a-19bf-496d-b34e-20e2a59fcc2e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wff465c6a-19bf-496d-b34e-20e2a59fcc2e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w217151fc-07d2-446b-9ae1-6ee732c3cd73.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w217151fc-07d2-446b-9ae1-6ee732c3cd73_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w59a98d46-0d76-4ef4-ae7d-88a7cdd1b4fb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w59a98d46-0d76-4ef4-ae7d-88a7cdd1b4fb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w128586e4-3941-451b-a918-7fd4f33c3a59.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w128586e4-3941-451b-a918-7fd4f33c3a59_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568687",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:26.757Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579049/images",
+      "name": "Images for Bulk Lot of Assorted Door Hardware"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547282x579049/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1311-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579049",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:41.275Z"
+}

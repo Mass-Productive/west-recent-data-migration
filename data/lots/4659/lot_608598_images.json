@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608598/images",
+      "name": "Images for Quantity of (3) HDC Merwry 52 in. Integrated LED Matte White Ceiling Fan With Light And Remote Control - $387 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608598/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1013-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608598",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:30.302Z"
+}

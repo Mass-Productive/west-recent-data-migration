@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4540/items/600561/images",
+      "name": "Images for (2) Single Hole Modern Bathroom Sink Faucet Stainless Steel Matte Black"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132635.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132635_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132731.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132731_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132658.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132658_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132718.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/w20250605_132718_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/wScreenshot_2025-06-27_101703.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/wScreenshot_2025-06-27_101703_t.jpg",
+      "image_width": "320",
+      "image_height": "286",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/wScreenshot_2025-06-27_101812.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/1751044828/wScreenshot_2025-06-27_101812_t.jpg",
+      "image_width": "85",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600561",
+  "auctionId": "4540",
+  "collectedAt": "2025-10-24T02:08:37.230Z"
+}

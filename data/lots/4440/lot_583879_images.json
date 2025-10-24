@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583879/images",
+      "name": "Images for Bontrager Black Mesh Handlebar Basket With Quick Release"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w57101565-08ea-4b28-b269-6698e504bcde.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w57101565-08ea-4b28-b269-6698e504bcde_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w5314e794-33b5-411c-8465-d11c72d97285.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w5314e794-33b5-411c-8465-d11c72d97285_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w93cedbdd-6221-44f5-8329-c5a45a57d43f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583879/w93cedbdd-6221-44f5-8329-c5a45a57d43f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583879",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:18.549Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581982/images",
+      "name": "Images for Shimano r55c4-a v brake pad insert lot of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wdf80ccbd-26d0-479f-ba33-7536c15ab982.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wdf80ccbd-26d0-479f-ba33-7536c15ab982_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wfaf37e27-f256-4f10-a5bb-e1baca0854e7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wfaf37e27-f256-4f10-a5bb-e1baca0854e7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581982",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:50.549Z"
+}

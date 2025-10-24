@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586127/images",
+      "name": "Images for Apogee AE-8 Professional Full Range Speaker With Fly Bracket"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-13.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-13_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-14_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-15.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-15_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-16.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/07-2226-19d3d560-2b78-4912-bdc8-2e8877c710c5/w0416-16_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586127",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:11.092Z"
+}

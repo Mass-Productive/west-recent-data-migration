@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609493/images",
+      "name": "Images for Set Of 2 Credenzas "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1749-8b0e7f2d-cdfe-48f6-8728-622dc5ca05bd/w0886-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/27-1749-8b0e7f2d-cdfe-48f6-8728-622dc5ca05bd/w0886-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609493",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:20.669Z"
+}

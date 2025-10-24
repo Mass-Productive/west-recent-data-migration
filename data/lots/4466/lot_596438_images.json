@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596438/images",
+      "name": "Images for IBC Tote and Contents: Assorted Stainless Steel Pipe, Metal, and More"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596438/app/13-0139-c56886b7-e2f2-4a14-a9d1-6b7d1bc70528/w1108-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596438",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:06:00.519Z"
+}

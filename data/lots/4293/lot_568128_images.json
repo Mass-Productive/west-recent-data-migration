@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568128/images",
+      "name": "Images for Refrigerated Sandwich Prep Table Single Door"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333249x568128/app/24-2115-01d26358-61a1-45e8-ae6f-daa6ef85eb3f/w0414-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568128",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:55:46.562Z"
+}

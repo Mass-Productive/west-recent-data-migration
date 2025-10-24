@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/574354/images",
+      "name": "Images for Formica 4ft x 8ft x approx 1/8th inch"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/13-1905-a00beaf0-fdac-4f7c-92d9-fd51b6835862/w0838-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574354",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T23:11:14.117Z"
+}

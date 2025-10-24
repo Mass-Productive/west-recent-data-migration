@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601570/images",
+      "name": "Images for Yellow Outdoor Patio Fabric 65.62&#39;x6.56&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601570/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS0999-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601570",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:26.452Z"
+}

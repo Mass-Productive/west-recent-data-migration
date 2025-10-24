@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4601/items/601673/images",
+      "name": "Images for Truck Utility Bumper"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4601/cp1755120646x601673/app/13-2003-356b1397-a18d-41c5-8b91-f8b75ff95716/w0505-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601673",
+  "auctionId": "4601",
+  "collectedAt": "2025-10-24T02:31:21.867Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609254/images",
+      "name": "Images for Rotary Paper Trimmer with Stand"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/23-1949-b374aa97-fbcb-4f57-a0aa-aab22bf69f8e/w0811-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/23-1949-b374aa97-fbcb-4f57-a0aa-aab22bf69f8e/w0811-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609254",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:48.415Z"
+}

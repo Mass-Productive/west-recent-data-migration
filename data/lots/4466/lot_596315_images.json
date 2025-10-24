@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596315/images",
+      "name": "Images for Office Desk (Contents Of Desk Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596315/w741e9f30-fbf4-4afc-a060-d8d1cee5e73c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1750169292x596315/w741e9f30-fbf4-4afc-a060-d8d1cee5e73c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596315",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:16.225Z"
+}

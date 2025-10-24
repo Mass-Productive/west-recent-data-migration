@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586109/images",
+      "name": "Images for Anchor Floor Standing Wood Podium"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/02-1952-df46b2f2-f1e9-4510-9f51-865011a62ccf/w0316-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586109",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:03.706Z"
+}

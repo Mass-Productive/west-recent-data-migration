@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583852/images",
+      "name": "Images for Trek/bontrager elite cage lot of 3- green, orange "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583852/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1085-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583852/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1085-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583852/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1085-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583852/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1085-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583852",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:07.657Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596188/images",
+      "name": "Images for Taylor Portion Control Scale"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0202-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0202-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0202-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0202-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0202-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1948-2d66cb7a-bd96-48b6-8a4f-8727c76cf37d/w0202-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w6d76b44a-1c8e-49d5-b5bc-fd60b94591b0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w6d76b44a-1c8e-49d5-b5bc-fd60b94591b0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596188",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:50.905Z"
+}

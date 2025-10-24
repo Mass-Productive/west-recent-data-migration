@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586042/images",
+      "name": "Images for Symetrix 562E Window Expander Gate"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0205-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586042",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:37.065Z"
+}

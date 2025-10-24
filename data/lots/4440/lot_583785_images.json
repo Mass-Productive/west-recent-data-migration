@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583785/images",
+      "name": "Images for Trek voda bio water bottles lot of 4 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583785/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1038-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050309x583785/app/07-1659-63bcd7b8-541a-4054-99cc-7a5f5a44be73/w1038-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583785",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:40.372Z"
+}

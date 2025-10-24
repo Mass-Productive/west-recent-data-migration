@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609398/images",
+      "name": "Images for Black Leather Cushion Grey Mesh Back Chair "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1902-f9a9b2e7-e3dd-44f4-9932-d1288677566f/w0846-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1902-f9a9b2e7-e3dd-44f4-9932-d1288677566f/w0846-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609398",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:27:03.227Z"
+}

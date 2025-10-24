@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/589077/images",
+      "name": "Images for (70) White Metal Roof Panels 12&#39;x35&#34;x0.3mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744932515x589077/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0784-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589077",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:36:25.606Z"
+}

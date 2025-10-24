@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587751/images",
+      "name": "Images for Cypher Power Uninterruptible Power Supply"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587751/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1532-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587751",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:09.943Z"
+}

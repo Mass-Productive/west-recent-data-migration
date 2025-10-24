@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586085/images",
+      "name": "Images for Bose Panaray MA12 modular line array speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2131-942f99a4-5ea2-4352-a65b-b34bdb124972/w0140-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586085",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:54.124Z"
+}

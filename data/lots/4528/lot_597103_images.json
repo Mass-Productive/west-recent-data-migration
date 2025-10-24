@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/597103/images",
+      "name": "Images for Snow Shovel, (5) Spade Shovels, (3) Square Shovels, And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0433-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597103",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:04:59.569Z"
+}

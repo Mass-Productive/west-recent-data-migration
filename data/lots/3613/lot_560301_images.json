@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560301/images",
+      "name": "Images for Retired Inflatable Bouncy Structure"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-2109-abb0e950-4d15-4ef0-a14d-2a73a2c23c52/i0313-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560301",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:52:18.991Z"
+}

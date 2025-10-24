@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4412/items/585541/images",
+      "name": "Images for BELMAN Bidet Attachment"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-1-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-2-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-3-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/25-2121-cb4c0650-7fac-455b-ba40-a643f26ea6d1/w0178-4-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585541",
+  "auctionId": "4412",
+  "collectedAt": "2025-10-24T00:26:48.171Z"
+}

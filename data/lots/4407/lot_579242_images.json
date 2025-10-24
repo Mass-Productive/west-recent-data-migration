@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4407/items/579242/images",
+      "name": "Images for Trinity NSF Rolling Wire Cart (contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/04-1744-64088aff-1f87-4dbb-8669-92e5a0f54652/w0131-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579242",
+  "auctionId": "4407",
+  "collectedAt": "2025-10-24T00:23:49.267Z"
+}

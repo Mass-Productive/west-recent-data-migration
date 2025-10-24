@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579040/images",
+      "name": "Images for DEWALT XR 20V MAX Lithium-Ion Cordless Brushless Screw Gun (Tool Only)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579040/app/19-1708-727f95df-637b-4769-88da-6d3f6880f604/w1193-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579040",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:37.622Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3994/items/557050/images",
+      "name": "Images for Set of (30) Black and White Cafe Chairs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/30-2329-51157a92-ef00-42e5-93cb-5c6552472c56/w0139-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557050",
+  "auctionId": "3994",
+  "collectedAt": "2025-10-23T20:55:39.820Z"
+}

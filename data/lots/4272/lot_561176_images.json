@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561176/images",
+      "name": "Images for Dream Crate Animal Pet Transport Cage "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w0999-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561176",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:48:49.948Z"
+}

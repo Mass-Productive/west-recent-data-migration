@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594488/images",
+      "name": "Images for EnviroLite Eight 47 in. Glam Matte Black with Brushed Nickel Selectable CCT Integrated LED Flush Mount for Kitchens - $115 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594488/app/23-1518-11369783-bbec-42f6-8280-433cb4975117/wH3705-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594488",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:48.763Z"
+}

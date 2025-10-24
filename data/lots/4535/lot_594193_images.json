@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4535/items/594193/images",
+      "name": "Images for Wood Desk With Contents"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0312-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594193",
+  "auctionId": "4535",
+  "collectedAt": "2025-10-24T02:05:54.313Z"
+}

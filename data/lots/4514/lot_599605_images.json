@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599605/images",
+      "name": "Images for (8) Lab Stools"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/27-0239-947e3bf4-3f61-4a71-8103-7f4b0340d39d/w0234-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599605",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:19.109Z"
+}

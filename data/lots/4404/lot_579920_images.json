@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579920/images",
+      "name": "Images for (50) 10&#39;x3&#34; Pieces of Rigid Non-Metallic Conduit (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579920/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0567-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579920",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:42.074Z"
+}

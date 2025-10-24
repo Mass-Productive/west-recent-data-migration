@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605364/images",
+      "name": "Images for Dewalt Drill With Countersink Drill Bits"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/06-1913-c20722b1-d3be-4eef-a9e6-a1b9177a0cd0/w0294-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605364",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:56.610Z"
+}

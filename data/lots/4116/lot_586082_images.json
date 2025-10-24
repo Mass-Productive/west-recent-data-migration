@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586082/images",
+      "name": "Images for Community R.5 66 weather resistant outdoor speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/31-2054-9b8de81f-3d18-491c-b79a-473996160ad3/w0133-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586082",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:52.934Z"
+}

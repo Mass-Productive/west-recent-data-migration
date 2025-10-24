@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4414/items/589818/images",
+      "name": "Images for Beverage Air Under Counter Refrigerador "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4414/app/17-0130-66ea1d19-048d-4197-b54d-cd1f8ba56692/w0122-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589818",
+  "auctionId": "4414",
+  "collectedAt": "2025-10-24T00:29:25.655Z"
+}

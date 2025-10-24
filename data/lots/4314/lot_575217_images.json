@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575217/images",
+      "name": "Images for 6ft Brickell Pool Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2004-cf72d54b-c4cf-42fe-92c8-584cf9b3b9a7/w0113-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2004-cf72d54b-c4cf-42fe-92c8-584cf9b3b9a7/w0113-1_t.jpg",
+      "image_width": "250",
+      "image_height": "179",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-3_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-4_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0113-5_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575217",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:28.848Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578304/images",
+      "name": "Images for (2) 48” Lozier Style Pegboard Displays (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wf067bd98-33c0-4f4b-bc94-2f7b10ddbfbf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wf067bd98-33c0-4f4b-bc94-2f7b10ddbfbf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5cff61db-0293-4a48-aed1-d3f75efdf438.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5cff61db-0293-4a48-aed1-d3f75efdf438_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w144cf640-d44c-4dcb-be8c-3eb1d82d0276.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w144cf640-d44c-4dcb-be8c-3eb1d82d0276_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wb46163db-ad3a-46e1-8924-4b00f3179384.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wb46163db-ad3a-46e1-8924-4b00f3179384_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2b2cc53b-60f0-411b-ac41-c375bb5bfcc6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2b2cc53b-60f0-411b-ac41-c375bb5bfcc6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w484c1083-34f3-43ec-85be-1d6b12c6e0cb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w484c1083-34f3-43ec-85be-1d6b12c6e0cb_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578304",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:30.868Z"
+}

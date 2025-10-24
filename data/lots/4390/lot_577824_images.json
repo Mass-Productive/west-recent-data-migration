@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4390/items/577824/images",
+      "name": "Images for (2) Cowhide Rugs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4390/app/14-2032-e9968a9a-9c74-4459-bd18-35ed5a759565/w0004-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577824",
+  "auctionId": "4390",
+  "collectedAt": "2025-10-24T00:18:54.458Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4407/items/579187/images",
+      "name": "Images for 10’ Fiberglass Ladder"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4407/app/03-2222-338b85f4-ce29-4528-ae8a-330636c4fa56/w0233-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579187",
+  "auctionId": "4407",
+  "collectedAt": "2025-10-24T00:23:28.740Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595039/images",
+      "name": "Images for Stainless Steel Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w49329bf9-3e15-49a4-9142-092671eb7625.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w49329bf9-3e15-49a4-9142-092671eb7625_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w67159012-cf7f-4c09-b362-66e42f797cb1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w67159012-cf7f-4c09-b362-66e42f797cb1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w52bc5192-c4c5-4510-9e74-c227ae3aaa04.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595039/w52bc5192-c4c5-4510-9e74-c227ae3aaa04_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595039",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:38.674Z"
+}

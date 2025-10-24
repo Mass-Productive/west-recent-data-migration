@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588146/images",
+      "name": "Images for Sram swiss stop brake pads carbon rim "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/w0f317e3a-d3bd-437c-b0a9-437b772d460a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/w0f317e3a-d3bd-437c-b0a9-437b772d460a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/w67a53fdf-8347-460c-9038-9a1199171b37.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/w67a53fdf-8347-460c-9038-9a1199171b37_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/wfb3e6d39-e9d9-4da8-bdcd-c8982b134b3f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744748159x588146/wfb3e6d39-e9d9-4da8-bdcd-c8982b134b3f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588146",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:16.875Z"
+}

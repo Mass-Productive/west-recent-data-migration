@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559552/images",
+      "name": "Images for Hoshizaki Sushi Case"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0132-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559552",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:06.710Z"
+}

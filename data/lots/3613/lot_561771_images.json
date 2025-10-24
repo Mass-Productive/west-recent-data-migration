@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561771/images",
+      "name": "Images for Lot Of Hundreds Of File Folders"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-1_t.jpg",
+      "image_width": "320",
+      "image_height": "233",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-1957-cc64f061-90e9-47e4-bba5-55ff52eb0468/i0513-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i4e702c95-dbad-466e-b687-dc10975f1862.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i4e702c95-dbad-466e-b687-dc10975f1862_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/id872500b-c51a-4cc4-afc3-db29c216ff05.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/id872500b-c51a-4cc4-afc3-db29c216ff05_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i57e3f7a5-27a6-443f-978b-c3de175e3281.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i57e3f7a5-27a6-443f-978b-c3de175e3281_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-2159-275896b2-6f99-40f9-bbf7-04a224c18917/i0513-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/14-2159-275896b2-6f99-40f9-bbf7-04a224c18917/i0513-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561771",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:54:01.830Z"
+}

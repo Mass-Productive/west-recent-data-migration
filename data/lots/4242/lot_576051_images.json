@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/576051/images",
+      "name": "Images for (2) GiiNii 7” Led Digital Picture Frame"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-3-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/09-2136-b15dc53f-a35f-4c7a-8ae1-f83ccc6b4788/w0378-3-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "576051",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:42:03.848Z"
+}

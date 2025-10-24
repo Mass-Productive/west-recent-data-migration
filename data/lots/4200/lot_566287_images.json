@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4200/items/566287/images",
+      "name": "Images for Small Reversible-Toothed Harrow"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728767259/wIMG_1189.jpeg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4200/1728767259/wIMG_1189_t.jpeg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566287",
+  "auctionId": "4200",
+  "collectedAt": "2025-10-23T21:13:05.331Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4305/items/570238/images",
+      "name": "Images for Workstation Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4305/app/14-1824-eafb29bd-ba89-4b16-b0f9-f3b262661eff/w0112-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "570238",
+  "auctionId": "4305",
+  "collectedAt": "2025-10-23T22:01:25.738Z"
+}

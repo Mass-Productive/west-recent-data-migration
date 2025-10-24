@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598778/images",
+      "name": "Images for Anvil 14 in. Ceramic and Porcelain Tile Cutter with 1/2 in. Cutting Wheel -$29 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1234-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1234-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1234-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/01-0604-7379f028-c04d-4e6d-bdeb-ad5318efa741/w1234-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598778",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:55.893Z"
+}

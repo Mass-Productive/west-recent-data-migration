@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573110/images",
+      "name": "Images for 93” Pallet Rack Beam"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573110/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2459-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573110/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2459-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573110/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2459-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418075x573110/app/01-1823-39063eb6-bf26-4ca9-82d3-54ec836c9cba/i2459-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573110",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:14:51.036Z"
+}

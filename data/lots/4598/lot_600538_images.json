@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/600538/images",
+      "name": "Images for (4) Purple Stacking Chair "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/04-1647-5eac8049-f34b-46d3-a9cb-30aee4e83e4a/w0342-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/04-1647-5eac8049-f34b-46d3-a9cb-30aee4e83e4a/w0342-1_t.jpg",
+      "image_width": "180",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600538",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:20.840Z"
+}

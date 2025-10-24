@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579023/images",
+      "name": "Images for DEWALT 4.5 Gal. Portable Electric Air Compressor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w17bd9e94-6819-4922-953e-3f924c0c080c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w17bd9e94-6819-4922-953e-3f924c0c080c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w120cb8f4-1956-440d-8e09-ad5866708168.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w120cb8f4-1956-440d-8e09-ad5866708168_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/wd965655d-e279-4192-964a-3fdde477d7b1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/wd965655d-e279-4192-964a-3fdde477d7b1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w6b76417f-3527-41c8-9da8-dc60d5ebab2a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/w6b76417f-3527-41c8-9da8-dc60d5ebab2a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/we08dc0b4-3690-4aae-8dac-0ad56c64621b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579023/we08dc0b4-3690-4aae-8dac-0ad56c64621b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579023",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:30.766Z"
+}

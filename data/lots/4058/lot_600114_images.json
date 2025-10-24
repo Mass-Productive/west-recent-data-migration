@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600114/images",
+      "name": "Images for (6) Gatco 4500L Parallel Towel Bar, 24-Inch, Chrome"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1722373532/wGatco_4500L.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1722373532/wGatco_4500L_t.jpg",
+      "image_width": "320",
+      "image_height": "115",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0123-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600114",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:01.970Z"
+}

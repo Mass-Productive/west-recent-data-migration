@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/556991/images",
+      "name": "Images for Lapel Microphone"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/app/26-0307-9bb8811c-ef4f-4a02-a357-9fbebcd0c511/i1039-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "556991",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:23.382Z"
+}

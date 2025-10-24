@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4336/items/575055/images",
+      "name": "Images for (58) 20&#39;x3&#34; Pieces of Rigid Non-Metallic Conduit (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4336/cp1736311516x575055/app/07-0109-d81363cb-51de-4406-bdb7-332c547525c5/w0462-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575055",
+  "auctionId": "4336",
+  "collectedAt": "2025-10-23T23:50:58.359Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582085/images",
+      "name": "Images for (4) Sram 6/7/8 speed chain"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0445-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0445-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0445-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0445-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582085",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:32.216Z"
+}

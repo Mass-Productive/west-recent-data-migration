@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586100/images",
+      "name": "Images for Apogee ACS Main Frame Speaker Controller For ACS-8 speakers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2045-38682075-7b42-40d4-a4cb-f50f5a872ff8/w0155-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586100",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:02:00.109Z"
+}

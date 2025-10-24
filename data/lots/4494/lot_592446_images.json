@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592446/images",
+      "name": "Images for Dustopper PRO High Efficiency Cyclonic Dust Separator, 12 in. Dia with 2.5 in. Hose, 36 in. L with 2 High-Flow Sweep Elbows - $59 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592446/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3295-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592446/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3295-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592446/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3295-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592446/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3295-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592446",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:06.965Z"
+}

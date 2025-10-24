@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605313/images",
+      "name": "Images for Countersink &#38; Bore"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-2309-f58b774d-7a25-474e-8e2d-e65f8412a924/w0228-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605313",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:36.165Z"
+}

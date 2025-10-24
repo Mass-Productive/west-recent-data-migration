@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608934/images",
+      "name": "Images for CALHOME Japanese 36 in. x 80 in. Pre Assemble Natural Wood Unfinished Interior Sliding Barn Door with Hardware Kit - $630 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608934/i1639.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608934/i1639_t.png",
+      "image_width": "320",
+      "image_height": "208",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608934/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1639-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151550x608934/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1639-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608934",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:19.929Z"
+}

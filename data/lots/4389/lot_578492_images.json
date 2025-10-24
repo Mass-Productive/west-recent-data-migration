@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578492/images",
+      "name": "Images for Ridgid Nxt Dry Vac"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189197x578492/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1120-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578492",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:10.999Z"
+}

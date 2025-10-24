@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558587/images",
+      "name": "Images for (1) Netuno Bordeaux 2cm Polished &#38; Brushed Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ibf53cb29-687e-458a-844a-e4580bf4d92f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/ibf53cb29-687e-458a-844a-e4580bf4d92f_t.jpg",
+      "image_width": "320",
+      "image_height": "187",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558587",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:52.311Z"
+}

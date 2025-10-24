@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+.DS_Store
+
+# Environment
+.env
+
+# Temporary files
+nohup.out
+*.tmp
+*-test.*
+test-*

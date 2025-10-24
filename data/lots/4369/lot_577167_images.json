@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577167/images",
+      "name": "Images for (2) Cream Colored Travertine Slabs "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/23-2352-dfee140a-3b94-4ef2-8f21-93c97e628ac0/w0172-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577167",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:26.120Z"
+}

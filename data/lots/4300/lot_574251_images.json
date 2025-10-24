@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4300/items/574251/images",
+      "name": "Images for Cybex Intelligent Suspension Treadmill"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-1_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-3-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-4-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2024-edc1b973-ce66-41fc-88ec-0bdd61f24074/w0120-5-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574251",
+  "auctionId": "4300",
+  "collectedAt": "2025-10-23T22:00:48.682Z"
+}

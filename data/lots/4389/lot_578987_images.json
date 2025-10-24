@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578987/images",
+      "name": "Images for (10) Pack of Recessed Lights and (6) Pack of 6&#34; Halo Lights"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578987/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1174-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578987",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:16.012Z"
+}

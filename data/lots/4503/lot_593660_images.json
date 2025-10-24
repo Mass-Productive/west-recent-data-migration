@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4503/items/593660/images",
+      "name": "Images for (4) Assorted Bits For Concrete Hammer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4503/app/22-2148-19c2224b-45b1-4b06-bb02-2eec8f114cc1/w0310-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593660",
+  "auctionId": "4503",
+  "collectedAt": "2025-10-24T01:56:19.312Z"
+}

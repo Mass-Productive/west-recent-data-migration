@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4182/items/559385/images",
+      "name": "Images for Ladder Rack for Truck"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212_(2).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212_(2)_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212_(3).jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212_(3)_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4182/1727128880/wLot_212_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559385",
+  "auctionId": "4182",
+  "collectedAt": "2025-10-23T21:10:33.819Z"
+}

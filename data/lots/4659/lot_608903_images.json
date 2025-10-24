@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608903/images",
+      "name": "Images for Rheem 42,000 Grain Preferred Platinum Wi-Fi Enabled Smart Water Softener for Hard Water and Iron Reduction - $649 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151453x608903/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1624-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608903",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:07.539Z"
+}

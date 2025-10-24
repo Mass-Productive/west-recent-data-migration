@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587893/images",
+      "name": "Images for SE Tire 29 X 2.1 Lot of 4"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587893/app/11-2057-7e78d6e7-ba9a-4f65-917e-ad8083dd45c5/w1748-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587893",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:07.961Z"
+}

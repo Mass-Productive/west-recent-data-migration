@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590098/images",
+      "name": "Images for Miscellaneous Wood"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/28-1642-9df2258c-a595-4381-a471-f7fd015118d2/w0271-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590098",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:48.250Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/597101/images",
+      "name": "Images for (9) Banding Tools "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0435-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597101",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:04:58.763Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587743/images",
+      "name": "Images for Locking Hitch Pins"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587743/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1540-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745968x587743/app/08-2101-427c075b-d555-4d1a-8ce4-6f4864dae99e/w1540-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587743",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:06.725Z"
+}

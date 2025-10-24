@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4554/items/596664/images",
+      "name": "Images for Empty Wine Barrel "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4554/app/16-1604-b1e79959-bfe1-4fa8-9136-1db8b432e205/w0916-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596664",
+  "auctionId": "4554",
+  "collectedAt": "2025-10-24T02:15:00.198Z"
+}

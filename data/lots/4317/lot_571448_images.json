@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/571448/images",
+      "name": "Images for (4) Candle Holders "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/25-1746-01fb0e93-3cb6-4887-8f1f-5d46aa023737/w0395-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571448",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:18.564Z"
+}

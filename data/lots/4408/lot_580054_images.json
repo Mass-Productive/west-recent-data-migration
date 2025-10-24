@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580054/images",
+      "name": "Images for 4qt Cambros With Lids"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/08-0119-b70c8c55-d1cc-4172-b314-7945bef775e8/w0135-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/08-0119-b70c8c55-d1cc-4172-b314-7945bef775e8/w0135-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580054",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:29.907Z"
+}

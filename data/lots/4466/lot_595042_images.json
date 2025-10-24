@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595042/images",
+      "name": "Images for Contents Of Pallet: Drum Barrel Lids "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w2a3ec483-2a25-41a5-93d7-29f63ccbc3e6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w2a3ec483-2a25-41a5-93d7-29f63ccbc3e6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w7c88d759-74ab-48f3-9d25-df81babf070e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w7c88d759-74ab-48f3-9d25-df81babf070e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/wabf5060c-d369-44a1-99bf-5a9d0def3fb2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/wabf5060c-d369-44a1-99bf-5a9d0def3fb2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w9029ef1c-87b3-4373-8da6-2bd81974e209.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595042/w9029ef1c-87b3-4373-8da6-2bd81974e209_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595042",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:39.889Z"
+}

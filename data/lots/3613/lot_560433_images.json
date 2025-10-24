@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560433/images",
+      "name": "Images for (3) New Sveico Stainless Steel Spatulas"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-4_t.jpg",
+      "image_width": "168",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-5_t.jpg",
+      "image_width": "249",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/20-2112-7d95189b-3518-4c10-b320-a5e72a5c0a59/i0390-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560433",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:12.051Z"
+}

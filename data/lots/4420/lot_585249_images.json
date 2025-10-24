@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585249/images",
+      "name": "Images for Garrett GT35R Turbocharger "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0537-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585249",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:33:09.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4634/items/607005/images",
+      "name": "Images for Assorted Resin Weave Material, Boating Material And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/16-1801-17f23561-4982-4860-bc1c-4de284cbabbc/w0433-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4634/app/16-1801-17f23561-4982-4860-bc1c-4de284cbabbc/w0433-1_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607005",
+  "auctionId": "4634",
+  "collectedAt": "2025-10-24T02:41:43.502Z"
+}

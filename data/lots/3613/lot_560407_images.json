@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560407/images",
+      "name": "Images for Pelouze 100Lbs Heavy Duty Utility Scale"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i139c00ec-b918-4b57-a483-24eaf85efaa3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i139c00ec-b918-4b57-a483-24eaf85efaa3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/icfa9458c-a209-40db-88d2-191a7733341d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/icfa9458c-a209-40db-88d2-191a7733341d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/18-1524-a1abcc94-eaa1-4993-8ae8-1348ff114696/i0364-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560407",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:01.579Z"
+}

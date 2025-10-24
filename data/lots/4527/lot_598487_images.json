@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598487/images",
+      "name": "Images for Hoshizaki 650Lb Ice Maker "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/19-0314-afd45f5b-459e-4d95-a888-4afb395fb1c6/w0107-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598487",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:02:41.819Z"
+}

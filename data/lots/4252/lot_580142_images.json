@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4252/items/580142/images",
+      "name": "Images for (2) 12lb Set Rubber Dumbbells "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4252/app/27-2253-355d9797-524e-4c87-9187-b5a9e0324806/w0196-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4252/app/27-2253-355d9797-524e-4c87-9187-b5a9e0324806/w0196-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4252/app/27-2253-355d9797-524e-4c87-9187-b5a9e0324806/w0196-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4252/app/27-2253-355d9797-524e-4c87-9187-b5a9e0324806/w0196-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580142",
+  "auctionId": "4252",
+  "collectedAt": "2025-10-23T21:43:01.253Z"
+}

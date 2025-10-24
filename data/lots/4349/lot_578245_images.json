@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578245/images",
+      "name": "Images for (3) Boxes Of Cement Stamps "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0436-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578245",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:06.983Z"
+}

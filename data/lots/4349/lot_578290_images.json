@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578290/images",
+      "name": "Images for Contents Of Endcap: (5) Assorted Boxes Of Nails"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wda63d140-892c-463f-bd28-b01c600f61e2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wda63d140-892c-463f-bd28-b01c600f61e2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w838f291d-c77f-4996-8fad-06c3e6ea0d71.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w838f291d-c77f-4996-8fad-06c3e6ea0d71_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w0f427c60-59df-42ec-b5a6-eede0e12b9ba.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w0f427c60-59df-42ec-b5a6-eede0e12b9ba_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w0d16c4bf-34f5-42ee-87fc-10e56b6cfaa2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w0d16c4bf-34f5-42ee-87fc-10e56b6cfaa2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wd3e36563-3ac5-45f0-b8ea-887817971884.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wd3e36563-3ac5-45f0-b8ea-887817971884_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578290",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:25.179Z"
+}

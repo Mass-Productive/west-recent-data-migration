@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586027/images",
+      "name": "Images for Bose 802 SeriesII Portable Speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/24-2224-85892e4d-b24d-4db8-9985-7a40fdb03920/w0108-10_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586027",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:31.111Z"
+}

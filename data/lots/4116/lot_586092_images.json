@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586092/images",
+      "name": "Images for Apogee ACS-3 Professional speaker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-15.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-15_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-16.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-16_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-17.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-17_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-18.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-18_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-19.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/01-2019-7dc648c5-1f18-4602-86f1-e6b73765a760/w0147-19_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586092",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:56.922Z"
+}

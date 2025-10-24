@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559545/images",
+      "name": "Images for Manitowoc RNS20A-161  Air Cooled Countertop Ice Nugget Maker and Water Dispenser"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/04-2240-11971c52-cb96-4820-a153-0561627dbf95/w0115-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559545",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:03.939Z"
+}

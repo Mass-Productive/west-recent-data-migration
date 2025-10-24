@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596021/images",
+      "name": "Images for Contents of Corner: Assorted Steel"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596021/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0486-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596021",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:02.889Z"
+}

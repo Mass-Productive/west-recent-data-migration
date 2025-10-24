@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572085/images",
+      "name": "Images for White Sidewalls For 20’x10’ Tent"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/wee20f4ce-2749-4953-941c-d1aa850857f4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/wee20f4ce-2749-4953-941c-d1aa850857f4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w130e841f-14e3-4adf-99d0-fed6018bc17a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w130e841f-14e3-4adf-99d0-fed6018bc17a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w7b310c53-b598-4456-ab46-cb382e8d9d93.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w7b310c53-b598-4456-ab46-cb382e8d9d93_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w9e920ee7-304a-4c2c-9038-10319f53c9b8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742262x572085/w9e920ee7-304a-4c2c-9038-10319f53c9b8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572085",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:14:22.852Z"
+}

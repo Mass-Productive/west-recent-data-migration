@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/596019/images",
+      "name": "Images for Assorted Containers: Plastic Jars "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749673098x596019/app/10-2146-093a7d6d-90fe-4389-804d-8080f81ee729/w0436-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596019",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:05:02.080Z"
+}

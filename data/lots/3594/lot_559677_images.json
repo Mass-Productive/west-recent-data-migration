@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/559677/images",
+      "name": "Images for Pallet Racking"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/01-0123-6de4173d-d757-4ea3-883b-07fa002fe945/i0194-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/01-0123-6de4173d-d757-4ea3-883b-07fa002fe945/i0194-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/01-0123-6de4173d-d757-4ea3-883b-07fa002fe945/i0194-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/01-0123-6de4173d-d757-4ea3-883b-07fa002fe945/i0194-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559677",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:17.076Z"
+}

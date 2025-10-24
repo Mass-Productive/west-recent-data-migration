@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588254/images",
+      "name": "Images for Trek windshell white size xl"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744748375x588254/app/02-2225-6333a1fc-af09-403b-96a8-596bd0fcd8e8/w0668-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588254",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:45.893Z"
+}

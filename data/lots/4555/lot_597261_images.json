@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597261/images",
+      "name": "Images for Kenworth T880 Windshield Wiper Assembly"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0121-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597261",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:19.762Z"
+}

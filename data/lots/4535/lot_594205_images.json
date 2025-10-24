@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4535/items/594205/images",
+      "name": "Images for Saeco Coffe Machine "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4535/app/30-2248-cce78023-8e56-4bc7-a1ec-29986fa13e03/w0300-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594205",
+  "auctionId": "4535",
+  "collectedAt": "2025-10-24T02:05:59.107Z"
+}

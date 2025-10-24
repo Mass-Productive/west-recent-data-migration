@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600113/images",
+      "name": "Images for Case of (8) Baldwin 5425-030-PRIV Solid Brass Egg Knobs - Privacy - Retail over $900"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1722376915/wBaldwin_5425.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1722376915/wBaldwin_5425_t.jpg",
+      "image_width": "283",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0124-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0124-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w87f61649-ce3f-4e75-b3c1-d10378522a0c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w87f61649-ce3f-4e75-b3c1-d10378522a0c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w5eb035ba-b26a-4612-b7a0-dbe6a3d99bd8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/w5eb035ba-b26a-4612-b7a0-dbe6a3d99bd8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600113",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:01.560Z"
+}

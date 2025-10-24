@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608945/images",
+      "name": "Images for Quantity of (3) Assorted Light Fixtures"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758158151x608945/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1503-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608945",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:24.456Z"
+}

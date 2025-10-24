@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4546/items/598728/images",
+      "name": "Images for (100) Aboss 10&#39;x3&#39; Q235 Steel Roof Panels (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1752115093x598728/app/09-1510-c41a7713-33a2-4f3f-b7cc-1d15f9c149fe/wT0250T0249-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598728",
+  "auctionId": "4546",
+  "collectedAt": "2025-10-24T02:12:28.633Z"
+}

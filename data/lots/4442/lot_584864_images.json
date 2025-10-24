@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584864/images",
+      "name": "Images for (2) DEWALT Professional 2 Amp Automotive Battery Charger and Maintainer - $79 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1611-15d44b52-6e4a-402f-8d31-f906dfd23846/wH2039-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584864",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:17.243Z"
+}

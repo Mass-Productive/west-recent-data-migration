@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558614/images",
+      "name": "Images for (2) Vintage 2cm Polished Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0124-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0124-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i19471688-8cc3-4895-ae7d-d1683ea5dd93.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i19471688-8cc3-4895-ae7d-d1683ea5dd93_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0124-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/app/13-2024-d508f346-f3f6-4b04-86ba-e679b9d340ed/i0124-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558614",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:51:03.065Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4654/items/612297/images",
+      "name": "Images for (8) Boxes of (12) Chain Pulleys"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612297/app/04-1621-70365130-0e91-457b-a19d-c33af579ba27/w0604-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612297",
+  "auctionId": "4654",
+  "collectedAt": "2025-10-24T02:47:16.484Z"
+}

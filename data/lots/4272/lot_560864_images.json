@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/560864/images",
+      "name": "Images for (2) Blue Velvet Style Upholstered Chairs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/84daf221/w8d671b9c-2ab5-42b8-9294-75c05bc62412.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/84daf221/w8d671b9c-2ab5-42b8-9294-75c05bc62412_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/03-0251-68a43a14-0bb6-4175-8ca9-3221495e97f1/w0924-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560864",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:46:44.729Z"
+}

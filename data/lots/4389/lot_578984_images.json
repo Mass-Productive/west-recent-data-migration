@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578984/images",
+      "name": "Images for RIGID 1-7/8 in. x 10 ft. Locking Professional Vacuum Hose Kit Accessory Shop Vac Attachments for RIDGID Wet Dry Vacuums"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/w8612e9d1-e26c-4302-818c-283434cae45f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/w8612e9d1-e26c-4302-818c-283434cae45f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/w4b48831d-af9d-459d-a986-d1cdae2b131b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/w4b48831d-af9d-459d-a986-d1cdae2b131b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/wecf3c6e7-7b78-4f14-b53b-2a4c11e5daee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578984/wecf3c6e7-7b78-4f14-b53b-2a4c11e5daee_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578984",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:14.766Z"
+}

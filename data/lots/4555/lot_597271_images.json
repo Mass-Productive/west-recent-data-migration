@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597271/images",
+      "name": "Images for Kenworth Diesel Tank "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0140-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597271",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:23.749Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559553/images",
+      "name": "Images for Dough Sheeter For Pizza Or Bakery "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/11-2253-195765e6-c8db-4a24-9b80-23e2ce8b739a/w0131-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559553",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:16:07.112Z"
+}

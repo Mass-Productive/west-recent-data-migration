@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/580239/images",
+      "name": "Images for Ryobi Electric Weedwacker"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1741825597x580239/app/07-0048-d2774111-61d1-4763-ad0d-549dc93cddb7/w1503-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580239",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:59.422Z"
+}

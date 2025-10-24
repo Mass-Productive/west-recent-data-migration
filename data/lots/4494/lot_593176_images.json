@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/593176/images",
+      "name": "Images for Glacier Bay 33 in. Drop-In Single Bowl 18 Gauge Stainless Steel Kitchen Sink with Pull-Down Faucet - $259 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747963927x593176/app/20-2248-5391306a-1258-4676-872f-c0bfced0780c/wH3580-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "593176",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:52:30.017Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4233/items/558096/images",
+      "name": "Images for 18” Rotary Table "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w23f0235f-c821-401c-af6b-4210ac980205.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w23f0235f-c821-401c-af6b-4210ac980205_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w39a419bf-f743-48d2-b2c2-fd5a33153032.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/w39a419bf-f743-48d2-b2c2-fd5a33153032_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/wcc47a229-f64e-4686-abbf-4d6da89c308f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/6e340c4f/wcc47a229-f64e-4686-abbf-4d6da89c308f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4233/app/09-2021-d81f66fe-85eb-4b15-8a36-41a972c0607e/w0157-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558096",
+  "auctionId": "4233",
+  "collectedAt": "2025-10-23T21:37:51.226Z"
+}

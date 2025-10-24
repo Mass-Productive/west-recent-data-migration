@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/588850/images",
+      "name": "Images for (20) Brown Metal Roof Wall Panels 20&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1744827865x588850/app/16-1427-7a8ced06-e417-4c07-aa4c-a50e691bc492/wS0703-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588850",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:36:06.372Z"
+}

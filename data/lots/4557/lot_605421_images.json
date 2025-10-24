@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605421/images",
+      "name": "Images for Ritter Gang Drill"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0339-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605421",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:19.489Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592254/images",
+      "name": "Images for Single-Leaf Galvanized Wrought Iron Gate H3.9&#39;xW4.9&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592254/app/14-2005-665126a2-23a9-46d9-827d-119728ae4d5c/wS0909-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592254",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:07:34.526Z"
+}

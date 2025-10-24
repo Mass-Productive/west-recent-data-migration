@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599686/images",
+      "name": "Images for Hessaire DIY 12,000 BTU 1.0 Ton Ductless Mini Split Air Conditioner and Heat Pump with Variable Speed Inverter and Remote - 115V- $844 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/i14691499.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/i14691499_t.png",
+      "image_width": "320",
+      "image_height": "302",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753224362x599686/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w14691499-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599686",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:16.955Z"
+}

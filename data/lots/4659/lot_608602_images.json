@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608602/images",
+      "name": "Images for Quantity of (3) HDC Townly 35-Watt 1-Light Satin Black Bowl Integrated LED Pendant Light with Open Metal Ring Shade - $477 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150878x608602/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1009-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608602",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:31.901Z"
+}

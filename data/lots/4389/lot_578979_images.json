@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578979/images",
+      "name": "Images for RDGD 6 gal. 150 PSI Portable Electric Pancake Air Compressor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w2e5414fa-e500-4102-8c5a-21d02cc388d0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w2e5414fa-e500-4102-8c5a-21d02cc388d0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w8944ba2f-58ac-4308-8ecd-82880e8c51cc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w8944ba2f-58ac-4308-8ecd-82880e8c51cc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/wc3740c38-c51f-4c52-bb4e-7b52859179a2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/wc3740c38-c51f-4c52-bb4e-7b52859179a2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w978c8a43-d593-4372-948d-e3050b849e9b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578979/w978c8a43-d593-4372-948d-e3050b849e9b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578979",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:12.681Z"
+}

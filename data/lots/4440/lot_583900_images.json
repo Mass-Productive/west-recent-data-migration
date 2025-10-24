@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583900/images",
+      "name": "Images for Giro Shoe/Helmet Bag"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wdd195581-6946-4d4b-8935-0ec53daa035f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wdd195581-6946-4d4b-8935-0ec53daa035f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wc9f483ec-dc7f-4d74-86e6-6e340f0dfd56.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wc9f483ec-dc7f-4d74-86e6-6e340f0dfd56_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wedcd388b-b42e-4ae2-b66c-ab8951e85e54.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/wedcd388b-b42e-4ae2-b66c-ab8951e85e54_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/w1469adf6-3f49-40a2-b95b-3f3f3821d92d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583900/w1469adf6-3f49-40a2-b95b-3f3f3821d92d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583900",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:27.085Z"
+}

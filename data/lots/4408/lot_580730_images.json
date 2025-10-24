@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580730/images",
+      "name": "Images for Two Drawer Warmer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0411-035c0c6a-a411-4e14-9fb5-8346308c5e0f/w0142-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0411-035c0c6a-a411-4e14-9fb5-8346308c5e0f/w0142-1_t.jpg",
+      "image_width": "320",
+      "image_height": "243",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0411-035c0c6a-a411-4e14-9fb5-8346308c5e0f/w0142-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/18-0411-035c0c6a-a411-4e14-9fb5-8346308c5e0f/w0142-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580730",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:34.877Z"
+}

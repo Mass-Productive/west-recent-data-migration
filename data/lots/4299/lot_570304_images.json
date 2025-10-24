@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/570304/images",
+      "name": "Images for Pro Series 20K 5th Wheel Hitch "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/app/20-0246-9e1458ea-f930-4b9d-9272-4cfabf3c9ae3/w0460-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "570304",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T22:00:36.817Z"
+}

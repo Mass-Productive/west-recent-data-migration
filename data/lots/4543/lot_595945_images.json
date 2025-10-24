@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4543/items/595945/images",
+      "name": "Images for Plastic Bin With Glass"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1749513495x595945/app/30-2345-9adb4a3f-d413-4eaf-a960-1a440ef0dc88/w0185-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595945",
+  "auctionId": "4543",
+  "collectedAt": "2025-10-24T02:10:07.091Z"
+}

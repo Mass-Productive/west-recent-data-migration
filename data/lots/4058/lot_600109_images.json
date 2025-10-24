@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600109/images",
+      "name": "Images for (12) Gatco 4500L 24&#34; Chrome Towel Bars - All Brand New"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1724095643/wGatco_4500L.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1724095643/wGatco_4500L_t.jpg",
+      "image_width": "320",
+      "image_height": "115",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0128-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/18-1510-21c5b8f8-bd1c-46a5-a6ae-8bddd4a5eb01/w0128-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/we767b404-d06a-4b9b-94a9-1edcfc6f3b37.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/we767b404-d06a-4b9b-94a9-1edcfc6f3b37_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wc50527b2-0be0-4e41-ac72-63f7eb308efe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/14231bee/wc50527b2-0be0-4e41-ac72-63f7eb308efe_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600109",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:57:59.965Z"
+}

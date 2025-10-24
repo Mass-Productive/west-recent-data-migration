@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599702/images",
+      "name": "Images for HDX 5-Tier Easy Assembly Multi-purpose Plastic Garage Storage Shelving Unit in Black (36 in. W x 74 in. H x 18 in. D)-$69 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/i1262Untitled.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/i1262Untitled_t.png",
+      "image_width": "307",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w12621260-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w12621260-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w12621260-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/cp1753284933x599702/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w12621260-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599702",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:23.384Z"
+}

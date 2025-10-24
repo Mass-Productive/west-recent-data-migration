@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583832/images",
+      "name": "Images for Nite Rider Mako TL Lights Set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583832/w9308ca62-58eb-40b4-9147-8f179b6204dc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583832/w9308ca62-58eb-40b4-9147-8f179b6204dc_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583832/w0eb383d5-3c49-4075-8660-52aa7d4344f0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583832/w0eb383d5-3c49-4075-8660-52aa7d4344f0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583832",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:59.491Z"
+}

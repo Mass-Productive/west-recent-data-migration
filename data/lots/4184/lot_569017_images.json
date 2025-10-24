@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4184/items/569017/images",
+      "name": "Images for Glass Display And Contents: Costume Jewelry, Flamingo Leg Pen"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wae42d367-1eff-4aa1-8aa4-0e239046e60d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/wae42d367-1eff-4aa1-8aa4-0e239046e60d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/we59b8bf5-cc63-4f65-8dbd-941fe9e4f813.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/we59b8bf5-cc63-4f65-8dbd-941fe9e4f813_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w4235a545-7187-4142-b1f2-2cfc69323fa9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4184/6c1e785c/w4235a545-7187-4142-b1f2-2cfc69323fa9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569017",
+  "auctionId": "4184",
+  "collectedAt": "2025-10-23T21:11:30.268Z"
+}

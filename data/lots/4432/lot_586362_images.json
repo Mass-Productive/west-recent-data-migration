@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/586362/images",
+      "name": "Images for (8) Galvanized Trash Cans"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/08-1612-f555bbd9-2f5f-458c-bc32-e2c052865cec/w0666-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586362",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:45:14.137Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4388/items/586901/images",
+      "name": "Images for Scribner Plastics 14” D Funnel"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/14-2204-7dedc4a8-d94a-43d3-8f89-00d4cbbe50ef/w0121-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/14-2204-7dedc4a8-d94a-43d3-8f89-00d4cbbe50ef/w0121-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586901",
+  "auctionId": "4388",
+  "collectedAt": "2025-10-24T00:15:38.359Z"
+}

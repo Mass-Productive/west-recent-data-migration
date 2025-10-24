@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568211/images",
+      "name": "Images for 10 Mimosas/Wine Glasses 8” Tall"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568211/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0482-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568211",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:56:19.686Z"
+}

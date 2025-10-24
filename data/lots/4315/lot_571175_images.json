@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4315/items/571175/images",
+      "name": "Images for Farm Plastic Supply Black Waterproof Plastic Sheeting, 4Mil 20x164&#39; (Unused) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4315/cp1732660753x571175/app/21-1455-80ec2ac3-3665-4304-b457-a47d4bf06a19/w0275-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "571175",
+  "auctionId": "4315",
+  "collectedAt": "2025-10-23T22:06:40.629Z"
+}

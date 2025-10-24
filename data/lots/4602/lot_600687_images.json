@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4602/items/600687/images",
+      "name": "Images for Contents Of Pallet: Approximately (286) Empty Glass Wine Bottles"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0254-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600687",
+  "auctionId": "4602",
+  "collectedAt": "2025-10-24T02:31:42.208Z"
+}

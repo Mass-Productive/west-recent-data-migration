@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4388/items/584727/images",
+      "name": "Images for Morgan Press Injection Molder"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/04-1517-ebee5827-a5b9-4bcd-84d9-1eef3df386c2/w0118-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584727",
+  "auctionId": "4388",
+  "collectedAt": "2025-10-24T00:15:27.404Z"
+}

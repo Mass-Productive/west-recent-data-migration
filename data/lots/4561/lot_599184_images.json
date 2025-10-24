@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599184/images",
+      "name": "Images for FORHAUZ 3.88 cu.ft. 600D double-layer Oxford Fabric Steel Frame Outdoor Garden Cart Collapsible Folding Wagon, Black -$49 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753288895/iUntitled.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753288895/iUntitled_t.png",
+      "image_width": "282",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1248-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1248-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1248-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/02-1945-eea527f1-0fbc-4bf5-94a7-2c8ddc01fea7/w1248-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599184",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:39.635Z"
+}

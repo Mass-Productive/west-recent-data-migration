@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577193/images",
+      "name": "Images for Cream Colored Travertine Tree / Planter Box Rings"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/28-0205-848bbdf6-e33e-45c8-a359-dfc3e8fcfa35/w0216-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/28-0205-848bbdf6-e33e-45c8-a359-dfc3e8fcfa35/w0216-1_t.jpg",
+      "image_width": "320",
+      "image_height": "144",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/28-0205-848bbdf6-e33e-45c8-a359-dfc3e8fcfa35/w0216-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/28-0205-848bbdf6-e33e-45c8-a359-dfc3e8fcfa35/w0216-2_t.jpg",
+      "image_width": "144",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577193",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:36.594Z"
+}

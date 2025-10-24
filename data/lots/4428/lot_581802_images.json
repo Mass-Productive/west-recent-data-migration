@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581802/images",
+      "name": "Images for Shimano cs-hg500 cassette 10 speed 11-32t silver "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w1604242d-b38e-46b1-a8b4-7782a7aad801.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w1604242d-b38e-46b1-a8b4-7782a7aad801_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w7735b68f-b41b-4ecc-9953-097399c702cf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w7735b68f-b41b-4ecc-9953-097399c702cf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0310-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0310-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0310-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/23-0347-38f5dd0a-3831-4b16-8fa1-b51b4d0c09f2/w0310-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/we19dc507-ff22-45e0-b6df-1109a1905bf3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/we19dc507-ff22-45e0-b6df-1109a1905bf3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581802",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:38:38.519Z"
+}

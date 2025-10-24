@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598341/images",
+      "name": "Images for RIDGID Pro Gear System Gen 2.0 Durable XL 22 in. Stackable Tool Box For Storage And Transporting -$59 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/98c8a13d/wb0f45c48-8d35-4b12-93ad-9a8b10b49fbe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/98c8a13d/wb0f45c48-8d35-4b12-93ad-9a8b10b49fbe_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/98c8a13d/w312d8e84-4f66-45ba-b6ab-66c991181552.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/98c8a13d/w312d8e84-4f66-45ba-b6ab-66c991181552_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/30-1640-ac665f77-e029-4583-9939-aa67170e4f65/w1205-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/30-1640-ac665f77-e029-4583-9939-aa67170e4f65/w1205-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598341",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:51.893Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577137/images",
+      "name": "Images for Metal Base "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-2-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-2-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-4-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1958-d9d5ac46-fd31-4e9b-9f23-4177a0e63391/w0142-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577137",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:13.926Z"
+}

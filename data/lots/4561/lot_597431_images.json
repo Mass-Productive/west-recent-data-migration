@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/597431/images",
+      "name": "Images for DEWALT 20V MAX XR Lithium-Ion 2-1/8 in. 18-Gauge Electric Cordless Brad Nailer Kit w/ 2.0Ah Battery, Charger and Contractor Bag - $384 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/23-0520-4faccc25-86c3-4231-9086-be602f9777b5/w1012-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597431",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:11.825Z"
+}

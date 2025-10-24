@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583802/images",
+      "name": "Images for Trek Bontrager Ridetime Computer-Demo Unit"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w1e946722-ac5a-4af8-bd6e-da23f8ce271c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w1e946722-ac5a-4af8-bd6e-da23f8ce271c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w275bafb3-6015-4007-9c15-f7d8f40edefd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w275bafb3-6015-4007-9c15-f7d8f40edefd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w48a3e320-d1e3-4ce7-9fe7-d99d2872724b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583802/w48a3e320-d1e3-4ce7-9fe7-d99d2872724b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583802",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:47.203Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583535/images",
+      "name": "Images for (3) Misc thorn resistant tube"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583535/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0780-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583535/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0780-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583535/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0780-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744049993x583535/app/03-1655-f795737f-e719-4d7a-a99a-bb92edacf6a6/w0780-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583535",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:46:58.929Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583885/images",
+      "name": "Images for Bontrager Thermal Knee Warmer Medium"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583885/wd69b47bb-3d81-4a2f-95ef-25d9f4c5f47c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583885/wd69b47bb-3d81-4a2f-95ef-25d9f4c5f47c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583885/w90ab4f2a-985e-4de5-846d-fdcc1448f181.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583885/w90ab4f2a-985e-4de5-846d-fdcc1448f181_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583885",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:20.980Z"
+}

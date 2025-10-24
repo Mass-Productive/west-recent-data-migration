@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4250/items/557817/images",
+      "name": "Images for Integrated Rectifier Technologies "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4250/1725924325/w66df83e695faa.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4250/1725924325/w66df83e695faa_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557817",
+  "auctionId": "4250",
+  "collectedAt": "2025-10-23T21:42:55.984Z"
+}

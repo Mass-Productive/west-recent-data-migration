@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605573/images",
+      "name": "Images for Hardware "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/01-1844-3bed61c8-d200-4687-830b-5d5c55fab559/w0495-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605573",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:19:20.020Z"
+}

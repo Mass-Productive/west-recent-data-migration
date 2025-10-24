@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/597113/images",
+      "name": "Images for Werner 300 Lb Capacity 6’ Ladder "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/25-1726-5b2d3c33-55f7-4593-8254-0f8443d074c5/w0423-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597113",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:05:03.602Z"
+}

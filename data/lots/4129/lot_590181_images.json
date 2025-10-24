@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590181/images",
+      "name": "Images for 4-Drawer Delfield Worktop Refrigerator"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/22-0007-a286461e-0954-4952-81da-d567f666f2b7/w0151-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590181",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:28.544Z"
+}

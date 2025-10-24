@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4266/items/560730/images",
+      "name": "Images for (3) Bins Of Assorted Irrigation Fittings "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-6-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-6-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/07-1900-ff8de774-5642-4ca1-90e7-262a036a4e9d/w0194-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560730",
+  "auctionId": "4266",
+  "collectedAt": "2025-10-23T21:45:38.317Z"
+}

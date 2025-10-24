@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558573/images",
+      "name": "Images for Metal Desks"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i54c29b41-c9cd-4390-80fe-c4fb1d0c9fe9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i54c29b41-c9cd-4390-80fe-c4fb1d0c9fe9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558573",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:46.671Z"
+}

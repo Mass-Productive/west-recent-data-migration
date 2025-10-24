@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595200/images",
+      "name": "Images for Premium Efficiency 3-Phase Induction Motor "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/w2c8ab710-4c05-474c-8c85-1df99124e22a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/w2c8ab710-4c05-474c-8c85-1df99124e22a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/wdd36cc93-1814-4856-84a2-58b22ad29a73.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/wdd36cc93-1814-4856-84a2-58b22ad29a73_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/app/12-1445-0bf5cb3d-ba7f-4aaf-a7ba-fb20ac58704c/w0192-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749495400x595200/app/12-1445-0bf5cb3d-ba7f-4aaf-a7ba-fb20ac58704c/w0192-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595200",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:34.666Z"
+}

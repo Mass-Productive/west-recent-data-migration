@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557760/images",
+      "name": "Images for Hostess Stand/Station "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2106-5e753507-1ea3-4f44-b81b-f5d61fe622e5/w0106-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557760",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:08.906Z"
+}

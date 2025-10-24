@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/586007/images",
+      "name": "Images for Husky 8 Gallon 150PSI Hotdog Air Compressor (Missing One Wheel)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2331-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586007",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:46.702Z"
+}

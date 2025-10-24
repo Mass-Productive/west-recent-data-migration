@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580836/images",
+      "name": "Images for Warming Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/19-0718-fbcab563-1ea6-44ec-b4a4-316e3ededafe/w0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/19-0718-fbcab563-1ea6-44ec-b4a4-316e3ededafe/w0149-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/19-0718-fbcab563-1ea6-44ec-b4a4-316e3ededafe/w0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/19-0718-fbcab563-1ea6-44ec-b4a4-316e3ededafe/w0149-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580836",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:37.708Z"
+}

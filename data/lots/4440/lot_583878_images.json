@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583878/images",
+      "name": "Images for Wald Quick Release Handlebar Basket For Single Speed Bikes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/wbb73b21e-543e-471a-97f4-71fa043a2739.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/wbb73b21e-543e-471a-97f4-71fa043a2739_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/w8b3ea31d-83af-4808-838e-9df0451d4cd2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/w8b3ea31d-83af-4808-838e-9df0451d4cd2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/w1fd2f8e4-0245-4046-aaca-1e7796170ea7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583878/w1fd2f8e4-0245-4046-aaca-1e7796170ea7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583878",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:18.142Z"
+}

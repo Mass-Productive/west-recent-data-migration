@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4439/items/582406/images",
+      "name": "Images for ROCKWELL INTERNATIONAL DRILL PRESS"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4439/cp1743789571x582406/app/02-1607-20f95825-95a9-40f0-a011-db8adeacfb1b/w0149-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582406",
+  "auctionId": "4439",
+  "collectedAt": "2025-10-24T00:46:03.560Z"
+}

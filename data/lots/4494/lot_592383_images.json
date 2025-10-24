@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/592383/images",
+      "name": "Images for Bucket Head 5 Gallon 1.75 Peak HP Shop Vacuum Wet Dry Vac Powerhead with Filter Bag and Hose (compatible with 5 Gal. Homer Bucket)\n2.7k - $29 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1747618785x592383/app/11-2245-3320f297-0285-4b8e-ac0a-610c50ed0019/wH3220-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592383",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:51:41.983Z"
+}

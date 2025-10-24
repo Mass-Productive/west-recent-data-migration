@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595312/images",
+      "name": "Images for Contents Of Pallet: (2) Assorted Filing Cabinets And (1) Storage Box "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/05-2009-01efe0ce-4e86-4488-98f8-10ea3ab9e4af/w0427-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595312",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T01:58:12.388Z"
+}

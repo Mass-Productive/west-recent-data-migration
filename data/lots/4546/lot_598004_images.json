@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4546/items/598004/images",
+      "name": "Images for 2025 AllMetal K1220 12x20 Single Garage Metal Shed (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-1_t.jpg",
+      "image_width": "320",
+      "image_height": "292",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/01-1954-92625f10-748f-4d24-ab86-be0963783d19/wJ0201-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/01-1954-92625f10-748f-4d24-ab86-be0963783d19/wJ0201-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x598004/app/25-0028-38854364-3b24-449c-8264-13639a6d4745/wJ0208-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598004",
+  "auctionId": "4546",
+  "collectedAt": "2025-10-24T02:11:24.980Z"
+}

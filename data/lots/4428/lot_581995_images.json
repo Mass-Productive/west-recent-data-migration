@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/581995/images",
+      "name": "Images for Wolftooth giant cog for sram 42t "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wdf8fb6ba-b6ba-4b57-a825-2aa28887cd71.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/wdf8fb6ba-b6ba-4b57-a825-2aa28887cd71_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w2dbbe734-ffe8-47fb-a9e2-4e7e224bc598.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w2dbbe734-ffe8-47fb-a9e2-4e7e224bc598_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w950d1cf9-ba6b-446d-8490-105ada3d2c76.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/848c8a8f/w950d1cf9-ba6b-446d-8490-105ada3d2c76_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581995",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:39:55.821Z"
+}

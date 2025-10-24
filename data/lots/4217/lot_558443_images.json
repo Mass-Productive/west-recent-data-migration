@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558443/images",
+      "name": "Images for Aryton MagicPanel 602 RGBW"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-1_t.jpg",
+      "image_width": "214",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-2_t.jpg",
+      "image_width": "242",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-3_t.jpg",
+      "image_width": "242",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-4_t.jpg",
+      "image_width": "320",
+      "image_height": "247",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-5_t.jpg",
+      "image_width": "320",
+      "image_height": "236",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1945-a37bb939-d576-4086-b93b-eadc8aa84e05/w1053-6_t.jpg",
+      "image_width": "248",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1714-8dc53900-f888-4306-91e9-e61667631d20/w1080-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/11-1714-8dc53900-f888-4306-91e9-e61667631d20/w1080-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558443",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:13:53.027Z"
+}

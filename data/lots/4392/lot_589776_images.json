@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4392/items/589776/images",
+      "name": "Images for HP Instant Ink Printer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451492x589776/app/18-2149-15099bdd-8a31-4181-8d06-1f4785824441/w0547-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589776",
+  "auctionId": "4392",
+  "collectedAt": "2025-10-24T00:19:21.674Z"
+}

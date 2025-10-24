@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4242/items/575987/images",
+      "name": "Images for Belman Bidet ( 1 Piece ) "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4242/app/11-1446-c19a3cb0-52f0-4223-ad30-42ecdbdc31c2/w0156-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575987",
+  "auctionId": "4242",
+  "collectedAt": "2025-10-23T21:41:37.976Z"
+}

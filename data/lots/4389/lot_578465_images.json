@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578465/images",
+      "name": "Images for DEWALT ATOMIC 20-Volt MAX Lithium-Ion Cordless Combo Kit (2-Tool) with (2) 2.0Ah Batteries, Charger and Bag"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740189118x578465/app/13-0342-a5859b1d-8207-4eca-8784-f4db552ba733/w1081-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578465",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:15:59.885Z"
+}

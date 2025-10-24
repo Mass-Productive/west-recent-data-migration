@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4546/items/597988/images",
+      "name": "Images for (5) KJ 3.7&#39;x6.6&#39; Wire Mesh Sheets (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4546/cp1751500417x597988/app/01-1801-2a94b1f6-180c-4559-8385-2313f4cca058/wJ0209-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597988",
+  "auctionId": "4546",
+  "collectedAt": "2025-10-24T02:11:18.590Z"
+}

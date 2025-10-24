@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575229/images",
+      "name": "Images for Italian Host Stand"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/09-2239-1df0a2b8-ac72-471a-aa95-248b6af26584/w0101-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575229",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:33.646Z"
+}

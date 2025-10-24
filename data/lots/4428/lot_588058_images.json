@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588058/images",
+      "name": "Images for Trek Bontrager Air Support HV Pump"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588058/app/07-1922-a5a1510a-77ff-4bc1-92d9-8080fe386e85/w1333-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588058",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:17.349Z"
+}

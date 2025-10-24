@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4580/items/601069/images",
+      "name": "Images for EG&G Rotron 3 Phase Pump"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wa8239c69-bbf9-4c17-a394-19065dc968ed-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wa8239c69-bbf9-4c17-a394-19065dc968ed-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w8c3fdf08-b8ca-4aae-af9e-66062ee34c4e-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w8c3fdf08-b8ca-4aae-af9e-66062ee34c4e-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w52ba55bc-f63c-444e-b510-4f757e596a07-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w52ba55bc-f63c-444e-b510-4f757e596a07-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfb9c5b02-03c3-4c3b-a574-f09e3af7d94f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfb9c5b02-03c3-4c3b-a574-f09e3af7d94f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/we4156844-c1bd-4113-8b8b-4504dd91a9b3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/we4156844-c1bd-4113-8b8b-4504dd91a9b3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcb24c753-7bca-4831-8402-531964b21b1b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcb24c753-7bca-4831-8402-531964b21b1b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w4f7be8bb-d135-4950-ba36-ca471eb52fb3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/w4f7be8bb-d135-4950-ba36-ca471eb52fb3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601069",
+  "auctionId": "4580",
+  "collectedAt": "2025-10-24T02:29:31.573Z"
+}

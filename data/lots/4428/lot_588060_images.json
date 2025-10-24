@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/588060/images",
+      "name": "Images for Giro Flynt Tri Shoe Silver/White/Milky Blue 37 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/cp1744747873x588060/app/07-1936-8159b978-6377-40f8-a272-c8f13cfe6001/w1098-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588060",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:41:18.170Z"
+}

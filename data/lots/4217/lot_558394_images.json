@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558394/images",
+      "name": "Images for Clay Paky Alapha Spot HPE 575"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/wa73bcb28-74b1-4510-8330-a816e5f4e9d7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/wa73bcb28-74b1-4510-8330-a816e5f4e9d7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/we35b8088-81a8-4adc-8840-8264d6eb255c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/we35b8088-81a8-4adc-8840-8264d6eb255c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1708-695d699e-dadc-400b-a74a-31df9c38c220/w1003-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1708-695d699e-dadc-400b-a74a-31df9c38c220/w1003-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/we535d147-b74a-4ecb-b053-751bcd33ff19.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/we535d147-b74a-4ecb-b053-751bcd33ff19_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w8c02a3a3-66fa-4f81-85ee-2a804214712f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/w8c02a3a3-66fa-4f81-85ee-2a804214712f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558394",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:13:33.362Z"
+}

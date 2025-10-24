@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596092/images",
+      "name": "Images for Vollrath Fajita Skillet Heater"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2059-948b943c-b6e0-4f9c-bb7a-15a209d84ef8/w0111-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596092",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:11.940Z"
+}

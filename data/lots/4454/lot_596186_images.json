@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596186/images",
+      "name": "Images for Vollrath Maximillian Chafer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/24-1607-a19b337f-469a-4aff-84db-461ef14c0ebe/w0204-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596186",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:50.111Z"
+}

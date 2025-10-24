@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/579483/images",
+      "name": "Images for Architectural Stone Pieces "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/05-1625-35e9ea13-448c-44c7-8305-14db19b4bf81/w0741-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579483",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:10:20.116Z"
+}

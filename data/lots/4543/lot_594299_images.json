@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4543/items/594299/images",
+      "name": "Images for Semi Steer Solid Bar 1906 Table Vice"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594299/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0405-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594299",
+  "auctionId": "4543",
+  "collectedAt": "2025-10-24T02:09:29.814Z"
+}

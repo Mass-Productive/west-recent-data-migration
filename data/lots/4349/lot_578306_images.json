@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578306/images",
+      "name": "Images for 48” Double Sided Lozier Style Pegboard Display And 36” Display (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w18a6d55f-2ccf-4b3b-b533-8c7c42586a26.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w18a6d55f-2ccf-4b3b-b533-8c7c42586a26_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5572c6f8-2274-4cf2-9d40-b28ea3d38acf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5572c6f8-2274-4cf2-9d40-b28ea3d38acf_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w00113a08-68b6-47c1-9c0f-6cc54097fc5e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w00113a08-68b6-47c1-9c0f-6cc54097fc5e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5af33c05-344f-47fb-82aa-faac11a542df.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w5af33c05-344f-47fb-82aa-faac11a542df_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578306",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:31.704Z"
+}

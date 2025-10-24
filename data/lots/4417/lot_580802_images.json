@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4417/items/580802/images",
+      "name": "Images for Brass Double Sided Lamp"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w63dd571e-9be6-41d7-a9f4-57db04fe993b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w63dd571e-9be6-41d7-a9f4-57db04fe993b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w3d68d141-180f-494b-8d19-b82aaa1e6b1e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w3d68d141-180f-494b-8d19-b82aaa1e6b1e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wa295c2b3-85a0-4c80-b3ae-e38d9fced3b3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/wa295c2b3-85a0-4c80-b3ae-e38d9fced3b3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w19d8dddc-e898-4d30-979c-7cf9f9cd006e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w19d8dddc-e898-4d30-979c-7cf9f9cd006e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w15e491e2-88a1-43ac-ac6c-fbd85b9bfd94.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w15e491e2-88a1-43ac-ac6c-fbd85b9bfd94_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w773d56f9-234b-4642-a9a2-5da5aace623a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4417/2bdb9722/w773d56f9-234b-4642-a9a2-5da5aace623a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580802",
+  "auctionId": "4417",
+  "collectedAt": "2025-10-24T00:30:20.486Z"
+}

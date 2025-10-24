@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/600024/images",
+      "name": "Images for American Standard Spectra Fixed Shower Head"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0392-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0392-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0392-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/09-1645-dca1ab4b-1c2d-4fe3-927d-a297ebfdd034/w0392-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600024",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:35.223Z"
+}

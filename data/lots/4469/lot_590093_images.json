@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590093/images",
+      "name": "Images for Painting Supplies"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w9e80fad7-2060-478e-b739-9de8e810d39b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w9e80fad7-2060-478e-b739-9de8e810d39b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wa21f26f9-9ae1-4d10-8acb-b05487f91bc2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/wa21f26f9-9ae1-4d10-8acb-b05487f91bc2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w9cc308e3-a0a4-4751-b2e4-4e5b3d7bd415.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w9cc308e3-a0a4-4751-b2e4-4e5b3d7bd415_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w49bb3b19-d525-4810-83ed-c5c3570a66b4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/4a4cdb7d/w49bb3b19-d525-4810-83ed-c5c3570a66b4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590093",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:46.255Z"
+}

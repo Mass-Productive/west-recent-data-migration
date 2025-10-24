@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579886/images",
+      "name": "Images for (20) Gray Metal Roof Panels 4&#39;x3&#39;x0.4mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0581-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0581-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0581-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/app/05-2038-ef1206de-9fd8-4435-b90f-dd4b88d8fee4/wS0581-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/we4c1d5a8-ae64-4bed-bc8d-3f7dc2747052.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/we4c1d5a8-ae64-4bed-bc8d-3f7dc2747052_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/w3cba7f98-22f3-45d6-8b8a-8a94d77b2c43.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398680x579886/w3cba7f98-22f3-45d6-8b8a-8a94d77b2c43_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579886",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:28.183Z"
+}

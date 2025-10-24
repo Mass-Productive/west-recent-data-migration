@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4617/items/607904/images",
+      "name": "Images for Contents Of Pallet: (80) Boxes Of Cottonelle Flushable Wipes "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4617/app/04-0324-7c4ab5a6-30d5-4195-b386-eda291eb24ae/w0290-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607904",
+  "auctionId": "4617",
+  "collectedAt": "2025-10-24T02:35:15.610Z"
+}

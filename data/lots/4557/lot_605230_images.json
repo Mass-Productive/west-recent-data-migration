@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605230/images",
+      "name": "Images for (2) Pneumatic Sanders "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/05-1812-f84c96c3-289d-40bb-a13e-a27655f52df1/w0176-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605230",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:17:02.868Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580038/images",
+      "name": "Images for Portable Table Electrical Fryer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0116-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0116-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580038",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:23.445Z"
+}

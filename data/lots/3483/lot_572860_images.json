@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572860/images",
+      "name": "Images for HDMI Cable"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572860/app/19-0203-7203230e-1fd0-4458-b03d-5fdb4d517b1b/i2179-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572860/app/19-0203-7203230e-1fd0-4458-b03d-5fdb4d517b1b/i2179-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572860",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:50:03.307Z"
+}

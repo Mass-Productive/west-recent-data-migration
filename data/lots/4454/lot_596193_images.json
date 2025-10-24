@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596193/images",
+      "name": "Images for Winco Paella Pan"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wc2d2f4b8-92e3-491a-86a0-50ade7b78174.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wc2d2f4b8-92e3-491a-86a0-50ade7b78174_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wbcf0e2a1-b37e-4a2b-8a8a-7b6ffb900975.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wbcf0e2a1-b37e-4a2b-8a8a-7b6ffb900975_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w6386ebd0-ac08-4746-a56a-fd9d0df0db2f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w6386ebd0-ac08-4746-a56a-fd9d0df0db2f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wce01d7d0-1bee-4132-905a-dfdf30e55e2b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/wce01d7d0-1bee-4132-905a-dfdf30e55e2b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w7ff8b0fc-d573-47fa-a97c-134a333d5c78.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/123dfeb2/w7ff8b0fc-d573-47fa-a97c-134a333d5c78_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596193",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:52.912Z"
+}

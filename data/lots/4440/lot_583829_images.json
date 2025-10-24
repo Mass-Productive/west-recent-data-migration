@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583829/images",
+      "name": "Images for Trek Head Light USB Rechargeable "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/w68c7efe4-ac49-415d-b1e1-5a7fc3221aee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/w68c7efe4-ac49-415d-b1e1-5a7fc3221aee_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/wd1169b0d-a303-402c-8338-c1583e53f4ee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/wd1169b0d-a303-402c-8338-c1583e53f4ee_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/w4c6a53d8-4b2a-4b61-95f7-9034aff5a1b5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583829/w4c6a53d8-4b2a-4b61-95f7-9034aff5a1b5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583829",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:58.283Z"
+}

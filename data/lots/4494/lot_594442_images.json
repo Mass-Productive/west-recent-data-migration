@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594442/images",
+      "name": "Images for Hampton Bay Madison Landing 4-Light Caged Matte Black Rectangular Pendant Hanging Light with Washed White Farmhouse Wood Accents - $159 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594442/app/23-0016-9eb0e724-2ab5-4996-ab97-80e7d7393c17/wH3667-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594442",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:53:30.209Z"
+}

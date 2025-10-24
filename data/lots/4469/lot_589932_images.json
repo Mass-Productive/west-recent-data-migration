@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/589932/images",
+      "name": "Images for Senco Stapler and Brad Nailer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/23-2248-9b621dec-57a3-4c5c-b292-0ca2ba758a43/w0111-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589932",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:15:05.162Z"
+}

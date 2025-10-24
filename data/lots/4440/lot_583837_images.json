@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583837/images",
+      "name": "Images for Nite Rider Lights Set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583837/wc929e02a-adb9-4c31-b4bc-bd7583cffcb5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583837/wc929e02a-adb9-4c31-b4bc-bd7583cffcb5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583837/wb6aaf9b0-0fcd-4244-8878-081497ced8d1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583837/wb6aaf9b0-0fcd-4244-8878-081497ced8d1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583837",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:01.549Z"
+}

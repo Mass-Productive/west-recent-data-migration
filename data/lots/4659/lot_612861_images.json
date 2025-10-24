@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/612861/images",
+      "name": "Images for Original Equipment 50 in. and 54 in. Double Bagger for Troy-Bilt and Craftsman Zero-Turn Lawn Mowers (2019 and After) - $584 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/i4004.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/i4004_t.png",
+      "image_width": "320",
+      "image_height": "229",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1760293946x612861/app/02-1752-a9727353-62be-4dde-a886-d7af08b73577/w4004-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612861",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:26:21.492Z"
+}

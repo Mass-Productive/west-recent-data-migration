@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595976/images",
+      "name": "Images for Manchester 28.5 Gallon Propane Tank"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/app/09-2204-50397ea4-3bd8-4744-8111-d8cd069dded8/w0207a-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595976",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:04:55.622Z"
+}

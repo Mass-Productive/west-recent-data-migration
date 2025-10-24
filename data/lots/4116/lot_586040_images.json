@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586040/images",
+      "name": "Images for ProCo DB-124600 Isolated Transformer Box"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-1825-9cfd77e7-9d96-4c45-a8dd-d5158bfdfcee/w0207-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586040",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:36.272Z"
+}

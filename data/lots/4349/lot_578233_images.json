@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578233/images",
+      "name": "Images for Wheel Barrow "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/app/03-2313-c75b483b-54c1-46a3-b3d2-d5a933d93132/w0449-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578233",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:02.093Z"
+}

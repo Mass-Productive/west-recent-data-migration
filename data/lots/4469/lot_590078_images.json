@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4469/items/590078/images",
+      "name": "Images for 96 Inch Long Fluorescent Light Fixture"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4469/app/25-2124-aa896bf1-b3ff-4219-b2cf-879921779748/w0232-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590078",
+  "auctionId": "4469",
+  "collectedAt": "2025-10-24T01:16:40.249Z"
+}

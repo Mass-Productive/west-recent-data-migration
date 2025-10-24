@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609375/images",
+      "name": "Images for Credenza/Media Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1613-91a6d76f-41bb-4fb5-8922-03e9174789e9/w0820-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609375",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:54.001Z"
+}

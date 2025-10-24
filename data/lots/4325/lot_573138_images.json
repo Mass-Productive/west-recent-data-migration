@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573138/images",
+      "name": "Images for 1U Rack Blanks "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573138/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2381-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573138/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2381-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573138/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2381-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418165x573138/app/29-1857-97ed9e06-70c2-4b71-ac72-a9339064a698/i2381-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573138",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:15:02.375Z"
+}

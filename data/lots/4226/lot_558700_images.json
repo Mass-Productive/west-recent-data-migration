@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558700/images",
+      "name": "Images for Dewalt 24V Drill "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/0160-2_66ec843f3e9e5-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/0160-2_66ec843f3e9e5-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/0160-4_66ec8420b995d-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/0160-4_66ec8420b995d-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/w0160-3-rot180.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/w0160-3-rot180_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/w0160-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1658-81975ada-dd96-4121-ad6e-c9a1eb0a43c3/w0160-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558700",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:51.160Z"
+}

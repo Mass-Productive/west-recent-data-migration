@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599523/images",
+      "name": "Images for Lot of Stainless Tri-Clamp Vibration Isolation Pipes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/19-2153-754376bf-9769-409d-af7f-a86d306cb417/w0146-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599523",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:56:46.568Z"
+}

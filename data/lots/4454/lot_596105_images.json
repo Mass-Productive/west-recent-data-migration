@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4454/items/596105/images",
+      "name": "Images for Advance Tabco 1-compartment Sink"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-4_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-5_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4454/app/17-2245-b8b50eb1-0cf1-47a3-8622-f264792e0bdd/w0129-6_t.jpg",
+      "image_width": "320",
+      "image_height": "180",
+      "archived": "0"
+    }
+  ],
+  "lotId": "596105",
+  "auctionId": "4454",
+  "collectedAt": "2025-10-24T00:55:17.253Z"
+}

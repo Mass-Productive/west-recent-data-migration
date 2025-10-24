@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595047/images",
+      "name": "Images for Contents Of Pallet: Vacuum Sealing Bags, PVC Tubing, And Rubber O-Rings "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w9f470e70-5ca6-4d0c-b417-f656e6391bfd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w9f470e70-5ca6-4d0c-b417-f656e6391bfd_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wac3acc6c-cc56-4e7e-ac58-b45556087ec7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wac3acc6c-cc56-4e7e-ac58-b45556087ec7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wac02f8c4-5f96-4ba4-b3b9-749f6b9ae4a5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wac02f8c4-5f96-4ba4-b3b9-749f6b9ae4a5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wcade40c8-0957-45b6-b3a0-284e7309d2e3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/wcade40c8-0957-45b6-b3a0-284e7309d2e3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w5688c487-69f3-425f-823b-5fd39386adea.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w5688c487-69f3-425f-823b-5fd39386adea_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w2e416a53-8a0b-4191-b786-b577360fdb5e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749492919x595047/w2e416a53-8a0b-4191-b786-b577360fdb5e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595047",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:41.902Z"
+}

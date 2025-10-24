@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579931/images",
+      "name": "Images for (30) Clear Polycarbonate Roof Panels 8&#39;x35&#34;x0.8mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579931/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0588-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579931",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:46.673Z"
+}

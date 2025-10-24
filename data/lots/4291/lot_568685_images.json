@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568685/images",
+      "name": "Images for Inside Micrometer (Caliper Type)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w1f3d061c-4a2b-4298-931c-2bd8be7cf1c0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w1f3d061c-4a2b-4298-931c-2bd8be7cf1c0_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wcf6a48bd-5f80-4cd8-b942-cf67f8eb9370.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wcf6a48bd-5f80-4cd8-b942-cf67f8eb9370_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wa429a4a9-5da7-4bb2-be1a-3f11f12bc640.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wa429a4a9-5da7-4bb2-be1a-3f11f12bc640_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/we16492d0-e610-4470-91e6-81b3907482b5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/we16492d0-e610-4470-91e6-81b3907482b5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wd603511d-4193-4274-bc3d-b98db313fd61.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wd603511d-4193-4274-bc3d-b98db313fd61_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568685",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:25.944Z"
+}

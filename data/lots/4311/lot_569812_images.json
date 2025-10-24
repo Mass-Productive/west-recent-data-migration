@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4311/items/569812/images",
+      "name": "Images for (1) Teradek Bolt 1st Gen HDMI Transmitter, HDMI Receiver, and Power Supply"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4311/cp1731519547x569812/app/22-2352-aecfdb88-9079-4c41-80d0-d18902466a39/w1009-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "569812",
+  "auctionId": "4311",
+  "collectedAt": "2025-10-23T22:06:14.885Z"
+}

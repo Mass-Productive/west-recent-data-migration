@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/592329/images",
+      "name": "Images for (120) Pairs of Elastic Non-Slip Safety work Gloves"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592329/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0837-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592329/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0837-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592329/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0837-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747438163x592329/app/16-1626-a4be25a9-f689-4593-9ac1-f5894cbd52b1/wS0837-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "592329",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:11:51.159Z"
+}

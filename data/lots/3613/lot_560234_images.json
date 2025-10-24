@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560234/images",
+      "name": "Images for Pierre Cardin Vintage 3-Piece Luggage Set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/19-1356-4ff5c834-7f01-4836-82a3-e8c6aef4b5dd/i0192-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560234",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:51:51.868Z"
+}

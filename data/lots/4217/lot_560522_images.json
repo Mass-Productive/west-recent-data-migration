@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/560522/images",
+      "name": "Images for Lycian Clubspot 1236"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/21-2122-9e8ac039-1a67-4489-be22-45f46e589cfe/w1221-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560522",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:15:01.046Z"
+}

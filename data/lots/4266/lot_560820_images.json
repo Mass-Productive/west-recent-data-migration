@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4266/items/560820/images",
+      "name": "Images for Workforce Job Lights "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4266/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w0123-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560820",
+  "auctionId": "4266",
+  "collectedAt": "2025-10-23T21:46:15.407Z"
+}

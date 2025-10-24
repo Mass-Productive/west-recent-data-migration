@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582054/images",
+      "name": "Images for Shimano 11 speed chain "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/29-0403-dcff6574-6230-45e9-8e13-39eec6c695ce/w0476-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582054",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:19.504Z"
+}

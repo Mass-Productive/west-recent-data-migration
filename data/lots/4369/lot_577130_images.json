@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577130/images",
+      "name": "Images for Metal Tubes Used For Slab Racks"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1933-f111d826-6437-4e75-876b-8a66a9273a92/w0136-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1933-f111d826-6437-4e75-876b-8a66a9273a92/w0136-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1933-f111d826-6437-4e75-876b-8a66a9273a92/w0136-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/20-1933-f111d826-6437-4e75-876b-8a66a9273a92/w0136-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577130",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:11.128Z"
+}

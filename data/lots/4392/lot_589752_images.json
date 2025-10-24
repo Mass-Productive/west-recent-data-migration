@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4392/items/589752/images",
+      "name": "Images for Set Dumbbells "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4392/cp1745451470x589752/app/17-2237-3c658e9d-421a-4053-8caa-daca941bdd2d/w0518-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589752",
+  "auctionId": "4392",
+  "collectedAt": "2025-10-24T00:19:11.884Z"
+}

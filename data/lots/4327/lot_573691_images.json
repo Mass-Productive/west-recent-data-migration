@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4327/items/573691/images",
+      "name": "Images for (4) Soldering Irons, Brecknell Scale, Stapler And More "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4327/app/06-0050-95e0d813-1fbc-4d5e-813f-d36369c9c138/w0316-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573691",
+  "auctionId": "4327",
+  "collectedAt": "2025-10-23T22:18:02.874Z"
+}

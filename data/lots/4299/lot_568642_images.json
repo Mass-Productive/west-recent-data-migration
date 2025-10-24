@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4299/items/568642/images",
+      "name": "Images for Metal Gate: 139”x50”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/wed1cc8d1-c059-4711-a993-185b0a9620d9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/wed1cc8d1-c059-4711-a993-185b0a9620d9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w0bb38933-46b3-4355-886d-29478712983b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w0bb38933-46b3-4355-886d-29478712983b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/wfea60ccd-d1c5-432a-8f89-a76b6332f4b2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/wfea60ccd-d1c5-432a-8f89-a76b6332f4b2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w818997f8-73cd-4d33-bd2d-6de68de36446.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4299/58f06211/w818997f8-73cd-4d33-bd2d-6de68de36446_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568642",
+  "auctionId": "4299",
+  "collectedAt": "2025-10-23T22:00:31.967Z"
+}

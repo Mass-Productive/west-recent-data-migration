@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599434/images",
+      "name": "Images for Glacier Bay Tight Radius 36 in. Undermount 50/50 Double Bowl 18 Gauge Stainless Steel Kitchen Sink with Accessories- $299 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1483.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753219319/i1483_t.png",
+      "image_width": "320",
+      "image_height": "318",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/08-0409-a73b90fe-2f54-4380-8f7a-3de655a8e442/w1483-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599434",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:25:01.347Z"
+}

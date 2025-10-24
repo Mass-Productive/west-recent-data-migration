@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4412/items/585749/images",
+      "name": "Images for POE-AID Nitrile Gloves Size S "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/28-2024-19791671-dfcd-4abf-ab70-be0289694b79/w0552-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/28-2024-19791671-dfcd-4abf-ab70-be0289694b79/w0552-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/28-2024-19791671-dfcd-4abf-ab70-be0289694b79/w0552-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4412/app/28-2024-19791671-dfcd-4abf-ab70-be0289694b79/w0552-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585749",
+  "auctionId": "4412",
+  "collectedAt": "2025-10-24T00:28:12.905Z"
+}

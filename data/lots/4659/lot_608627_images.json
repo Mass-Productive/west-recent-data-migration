@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608627/images",
+      "name": "Images for Quantity of (2) CE Slim Baffle Integrated LED 6&#34; Round Adj Color Temp Canless Recessed Lights, White 4-Pack - $179 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150937x608627/app/01-1341-cedc235b-272a-4a32-aa9c-754db5a1d208/w1084-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608627",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:18:41.513Z"
+}

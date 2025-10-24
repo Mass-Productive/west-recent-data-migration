@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580726/images",
+      "name": "Images for Dough Roller Steel Table"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/a0519fe2/w9465f68f-f1e4-41ff-81a5-408b057f24bc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/a0519fe2/w9465f68f-f1e4-41ff-81a5-408b057f24bc_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580726",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:33.226Z"
+}

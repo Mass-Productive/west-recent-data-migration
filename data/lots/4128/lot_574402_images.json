@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574402/images",
+      "name": "Images for (1) 19&#34; 2U Middle Atlantic Rack Shelf"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/09-2032-e85cd141-018c-477f-80ed-b2c2b4422021/w0144-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574402",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:24.004Z"
+}

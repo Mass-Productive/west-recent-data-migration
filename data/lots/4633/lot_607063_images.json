@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4633/items/607063/images",
+      "name": "Images for Vulcan Hot Box"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4633/app/31-0038-50574428-d2ba-47da-a1a4-0a2def3f2191/w0535-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "607063",
+  "auctionId": "4633",
+  "collectedAt": "2025-10-24T02:39:25.333Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4388/items/584733/images",
+      "name": "Images for Office File Cabinet "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/08-2010-2141241d-9840-4c1b-a0e1-d06712da00e9/w0127-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/08-2010-2141241d-9840-4c1b-a0e1-d06712da00e9/w0127-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/08-2010-2141241d-9840-4c1b-a0e1-d06712da00e9/w0127-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4388/app/08-2010-2141241d-9840-4c1b-a0e1-d06712da00e9/w0127-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584733",
+  "auctionId": "4388",
+  "collectedAt": "2025-10-24T00:15:29.874Z"
+}

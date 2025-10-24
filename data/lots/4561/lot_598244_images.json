@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598244/images",
+      "name": "Images for Husky 29 in. Shop Stool with 360° Swivel Seat -$52 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1183-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1183-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1183-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1183-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598244",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:35.049Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578996/images",
+      "name": "Images for Husky 1200 Lumen Work Light, 14-Piece Magnetic Screwdriver Set, (2) Torque Wrenches, And 3-Piece Locking Pliers Set "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578996/app/17-2001-d34f767e-548d-43a8-93ec-90b51e73aadc/w1179-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578996",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:19.706Z"
+}

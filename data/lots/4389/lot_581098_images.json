@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/581098/images",
+      "name": "Images for RIDGID 16 Gallon 6.5 Peak HP NXT Shop Vacuum Wet Dry Vac with Detachable Blower, Filter, Locking Hose and Accessories"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/wefa743c2-10ed-40ab-9048-5e03a5f525ef.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/wefa743c2-10ed-40ab-9048-5e03a5f525ef_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1742488546x581098/app/14-0248-cee09455-b4d0-4208-a553-66b631a0fd60/w1128-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581098",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:18:04.378Z"
+}

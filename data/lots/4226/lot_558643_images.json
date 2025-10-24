@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558643/images",
+      "name": "Images for Wacker Corporation Compactor with Cart "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/03-1342-c9be6d9f-8ce8-4896-b646-c1602e71b741/w0103-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558643",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:32.276Z"
+}

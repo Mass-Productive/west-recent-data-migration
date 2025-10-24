@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4543/items/594366/images",
+      "name": "Images for (2) Husky Spray Guns"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594366/app/30-2324-84cf317b-5a5a-4002-9532-82af8e209b26/w0338-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594366",
+  "auctionId": "4543",
+  "collectedAt": "2025-10-24T02:09:55.834Z"
+}

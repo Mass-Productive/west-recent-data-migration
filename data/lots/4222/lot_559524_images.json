@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4222/items/559524/images",
+      "name": "Images for Delfield N8273P 73&#34; Elevated Frost Top w/ Built In Compressor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4222/app/03-2240-81c10709-da90-4465-b92c-5640f044fafc/w0112-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559524",
+  "auctionId": "4222",
+  "collectedAt": "2025-10-23T21:15:55.922Z"
+}

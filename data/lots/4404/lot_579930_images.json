@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579930/images",
+      "name": "Images for (30) Red Polycarbonate Roof Panels 8&#39;x3&#39;x0.8mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579930/app/06-2223-229eff98-aa0c-494b-8f78-cf17ea28c24d/wS0589-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579930",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:46.215Z"
+}

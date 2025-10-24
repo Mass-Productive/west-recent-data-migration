@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4404/items/579939/images",
+      "name": "Images for Oversized 48&#34; Heavy-Duty Bolt Cutter with Hardened Steel Alloy Jaws (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4404/cp1741398703x579939/app/07-1935-a4e73ef4-11ac-44c7-8eff-2f36f82f6bc7/wS0502-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579939",
+  "auctionId": "4404",
+  "collectedAt": "2025-10-24T00:22:49.903Z"
+}

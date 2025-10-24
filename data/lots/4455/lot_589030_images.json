@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/589030/images",
+      "name": "Images for Dell 33” Monitor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589030/app/15-2032-a0a852e7-fad8-4faf-91d0-5f08428accd8/w1787-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589030/app/15-2032-a0a852e7-fad8-4faf-91d0-5f08428accd8/w1787-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589030",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:59:59.349Z"
+}

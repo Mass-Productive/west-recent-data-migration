@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584785/images",
+      "name": "Images for RIDGID 9 Gal. 4.25 Peak HP NXT Wet Dry Shop Vac with General Debris Filter, Locking Hose and Attachments - $89 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2118-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584785",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:50:45.253Z"
+}

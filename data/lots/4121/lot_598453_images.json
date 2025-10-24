@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4121/items/598453/images",
+      "name": "Images for Cypress Labbè"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0131-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598453",
+  "auctionId": "4121",
+  "collectedAt": "2025-10-23T21:02:53.908Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4297/items/566508/images",
+      "name": "Images for (3) Fishing Tackle Boxes "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0373-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566508",
+  "auctionId": "4297",
+  "collectedAt": "2025-10-23T21:58:16.374Z"
+}

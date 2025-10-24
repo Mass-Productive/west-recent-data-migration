@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574449/images",
+      "name": "Images for (1) Canon MP20DH III Printing Calculator withTape"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2021-e57dd9bf-37f6-47f0-8ec2-297bf62110c9/w0193-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2021-e57dd9bf-37f6-47f0-8ec2-297bf62110c9/w0193-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574449",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:42.718Z"
+}

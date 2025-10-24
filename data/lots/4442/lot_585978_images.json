@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585978/images",
+      "name": "Images for RIDGID 9-Amp 7 in. Blade Corded Wet Tile Saw with Stand - $369 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-0557-f16e5fab-628c-4262-9c0f-b73e36d67d5f/wH2325-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585978",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:34.946Z"
+}

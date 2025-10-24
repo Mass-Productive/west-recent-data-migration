@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608845/images",
+      "name": "Images for Eaton Outdoor BR 200 Amp 40-Circuit 40-Space Solar Ready EUSERC Meter Breaker Panel - $372 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/i1580.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/i1580_t.png",
+      "image_width": "320",
+      "image_height": "234",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151212x608845/app/02-0130-669c9d25-67b6-4f86-9498-3a1a9f51ee4f/w1580-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608845",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:53:20.702Z"
+}

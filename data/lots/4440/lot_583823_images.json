@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583823/images",
+      "name": "Images for Nite Rider Cherrybomb 100 Tail Light"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583823/w63a3be24-d5bb-410f-8d9a-540bb898dffd.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583823/w63a3be24-d5bb-410f-8d9a-540bb898dffd_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583823/w8113abfa-0cb5-4991-a48f-6baab9bffe61.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050346x583823/w8113abfa-0cb5-4991-a48f-6baab9bffe61_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583823",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:55.737Z"
+}

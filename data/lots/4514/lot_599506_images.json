@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599506/images",
+      "name": "Images for (2) Wine Barrel Topping Kegs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/11-0055-064a3a38-a187-4ee7-bd32-12a1b5ffac6a/w0134-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599506",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:56:39.730Z"
+}

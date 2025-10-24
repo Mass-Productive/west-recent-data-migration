@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4602/items/600725/images",
+      "name": "Images for Contents Of (2) Pallets: Wine Bottle Cardboard Boxes 6x750 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-12.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4602/app/04-1914-769f42bd-ce70-4bd7-9b30-a623107a2b7e/w0216-12_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600725",
+  "auctionId": "4602",
+  "collectedAt": "2025-10-24T02:31:57.300Z"
+}

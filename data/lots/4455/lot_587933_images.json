@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587933/images",
+      "name": "Images for Bissell Vacuum "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746153x587933/app/14-2054-4cee2900-1077-4891-b94b-2ccc0d3c51f7/w1768-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587933",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:21.829Z"
+}

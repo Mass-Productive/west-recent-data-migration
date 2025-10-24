@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608888/images",
+      "name": "Images for Quantity of (2) Everbilt Watershield Shower System 24&#34;x48&#34;x2&#34; XPS Waterproof Backer Board for Rectangular Shower Benches - $218 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/i1523.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/i1523_t.png",
+      "image_width": "320",
+      "image_height": "187",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758151369x608888/app/31-0308-8e56c12f-9549-4db2-8bbf-1fe524ce561e/w1523-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608888",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T04:09:02.751Z"
+}

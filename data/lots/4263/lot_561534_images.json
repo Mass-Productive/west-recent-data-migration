@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561534/images",
+      "name": "Images for (4) Stern Cable Caddy 204-407 Folding Hose Reels"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wf71b5a93-5056-47f5-996e-e72ba0dce369.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wf71b5a93-5056-47f5-996e-e72ba0dce369_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w0357bcbc-9740-44eb-8c82-1b54e5febb32.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/w0357bcbc-9740-44eb-8c82-1b54e5febb32_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wc497eeb5-89c9-44ae-989c-4848d6b0f6e7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/84daf221/wc497eeb5-89c9-44ae-989c-4848d6b0f6e7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561534",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:08.202Z"
+}

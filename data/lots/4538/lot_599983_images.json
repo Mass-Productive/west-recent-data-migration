@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4538/items/599983/images",
+      "name": "Images for (2 Pack) Giinii 7 LED Digital Picture Frame"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-2106-b41aa68c-fce6-4e6f-a637-4afd8c9f4e30/w0362-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4538/app/03-2106-b41aa68c-fce6-4e6f-a637-4afd8c9f4e30/w0362-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599983",
+  "auctionId": "4538",
+  "collectedAt": "2025-10-24T02:07:18.706Z"
+}

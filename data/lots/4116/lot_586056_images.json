@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586056/images",
+      "name": "Images for Box Of Miscellaneous, Mounting Hardware, Rack Panels, And Cables"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2017-5a44e1bc-7352-4d65-bd0c-b83e9282d943/w0300-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2017-5a44e1bc-7352-4d65-bd0c-b83e9282d943/w0300-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2017-5a44e1bc-7352-4d65-bd0c-b83e9282d943/w0300-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/25-2017-5a44e1bc-7352-4d65-bd0c-b83e9282d943/w0300-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586056",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:42.608Z"
+}

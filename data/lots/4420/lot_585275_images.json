@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4420/items/585275/images",
+      "name": "Images for Greenlee Jack Reel Stand "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4420/app/09-0459-7fe72fe8-8606-44d4-96c3-cdf31816861b/w0511-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585275",
+  "auctionId": "4420",
+  "collectedAt": "2025-10-24T00:33:19.775Z"
+}

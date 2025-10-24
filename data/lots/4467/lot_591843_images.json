@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/591843/images",
+      "name": "Images for (100) 118&#34; 25GA Galvalume Corrugated Steel Panels - Approx. 34839 sqft Total Coverage (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355490x591843/app/24-2030-7df73a0e-8858-4b96-a46c-fdc33bdab1fc/wJ0235-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591843",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:07:00.154Z"
+}

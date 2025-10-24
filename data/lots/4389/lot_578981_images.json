@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/578981/images",
+      "name": "Images for RIGID 2-1/2 in. x 7 ft. DUAL-FLEX Locking Vacuum Hose Kit Accessory Shop Vac Attachment for RIDGID Wet Dry Vacuums"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/w37f29524-774c-4864-85e2-a5d6c38c5dbe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/w37f29524-774c-4864-85e2-a5d6c38c5dbe_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/wcb6feebe-0bfc-4f18-a83f-7adfd1222db8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/wcb6feebe-0bfc-4f18-a83f-7adfd1222db8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/w20b38eb8-a75d-4eb9-9db9-4643e132ffd6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546172x578981/w20b38eb8-a75d-4eb9-9db9-4643e132ffd6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578981",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:13.535Z"
+}

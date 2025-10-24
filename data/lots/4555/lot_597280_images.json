@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597280/images",
+      "name": "Images for Kenworth T680 Passenger Side Mirror"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/23-2128-053600ef-9c0d-4a4d-826f-9cd9b1cc43f9/w0131-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597280",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:27.315Z"
+}

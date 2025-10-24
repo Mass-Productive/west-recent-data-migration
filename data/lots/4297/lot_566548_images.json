@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4297/items/566548/images",
+      "name": "Images for (2) Vintage Binocular Cases"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0333-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566548",
+  "auctionId": "4297",
+  "collectedAt": "2025-10-23T21:58:32.750Z"
+}

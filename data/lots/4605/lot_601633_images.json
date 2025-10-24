@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4605/items/601633/images",
+      "name": "Images for 164&#39;x3.3&#39; Roll of Bubble Aluminum Foil Reflective Insulation (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018S1017-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4605/cp1755117435x601633/app/13-1701-0c7c848b-692b-4976-9d96-0545eeda6bf2/wS1018-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601633",
+  "auctionId": "4605",
+  "collectedAt": "2025-10-24T02:33:51.640Z"
+}

@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561275/images",
+      "name": "Images for (3) F. Neri Framed Prints And Empty Frames "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-1_t.jpg",
+      "image_width": "320",
+      "image_height": "290",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/08-1458-b28d99b3-e65e-454e-852b-eb39a0d36dfe/i0476-7_t.jpg",
+      "image_width": "320",
+      "image_height": "259",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i8518a849-0348-4245-bc3c-3448b5fb1268.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/4040bdc3/i8518a849-0348-4245-bc3c-3448b5fb1268_t.jpg",
+      "image_width": "235",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561275",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:47.247Z"
+}

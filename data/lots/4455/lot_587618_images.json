@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587618/images",
+      "name": "Images for Bontrager Circuit Women’s Twin Gel Glove S- Black "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587618/app/07-2126-52947853-a4f3-407c-a795-711e93bd9914/w1444-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587618/app/07-2126-52947853-a4f3-407c-a795-711e93bd9914/w1444-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587618/app/07-2126-52947853-a4f3-407c-a795-711e93bd9914/w1444-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745923x587618/app/07-2126-52947853-a4f3-407c-a795-711e93bd9914/w1444-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587618",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:56:15.580Z"
+}

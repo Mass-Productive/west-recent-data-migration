@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4467/items/591787/images",
+      "name": "Images for (10) 100&#39; Rolls of 14GA Hot-Dip Galvanized Field Fencing - 1000&#39; Total (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4467/cp1747355459x591787/app/23-1715-78ecb419-6661-4ebb-8cad-44b7925539a1/wJ0173-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591787",
+  "auctionId": "4467",
+  "collectedAt": "2025-10-24T01:06:37.621Z"
+}

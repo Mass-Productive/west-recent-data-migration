@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/560485/images",
+      "name": "Images for Aluminum Bar Stool"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/01-2052-056aa6e8-25f6-4a55-91e2-9b5a619ebe26/i0441-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "560485",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:53:32.872Z"
+}

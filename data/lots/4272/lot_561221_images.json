@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561221/images",
+      "name": "Images for Cart With Contents: Lamps And Tablecloth "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/08-2158-47562e48-aa96-420f-a3b1-30cdc14026d9/w1129-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561221",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:49:08.497Z"
+}

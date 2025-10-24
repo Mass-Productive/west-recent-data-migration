@@ -1,0 +1,71 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4217/items/558397/images",
+      "name": "Images for PSL Followspot 575 (made In Italy)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/wbd113bb0-7207-47ef-92df-9a0c2594a629.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/6e50fd7f/wbd113bb0-7207-47ef-92df-9a0c2594a629_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4217/app/10-1718-2f688ba3-d8e3-4079-b89c-3260c37051ef/w1008-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558397",
+  "auctionId": "4217",
+  "collectedAt": "2025-10-23T21:13:34.555Z"
+}

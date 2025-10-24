@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/575874/images",
+      "name": "Images for Contents Of Pallet: (4) Goodridge Radial ST100 ST235/80R16 Tires "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w598d25d0-8b1f-4782-a50c-8f30acd48219.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w598d25d0-8b1f-4782-a50c-8f30acd48219_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w54d79893-96d7-48f0-96e4-7cfebee3e103.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w54d79893-96d7-48f0-96e4-7cfebee3e103_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w1e1b2d88-fd57-42ec-83d7-a100d0f2724c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/w1e1b2d88-fd57-42ec-83d7-a100d0f2724c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/wd29100c0-ea4a-41df-b33d-c5fc0718bc8e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575874/wd29100c0-ea4a-41df-b33d-c5fc0718bc8e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575874",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:11:27.483Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568686/images",
+      "name": "Images for Micrometer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w5316acb6-7c9c-4b9c-8f7c-539e6411d5ff.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w5316acb6-7c9c-4b9c-8f7c-539e6411d5ff_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w2d131b80-d04c-47bf-9007-42a7212dfd5f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w2d131b80-d04c-47bf-9007-42a7212dfd5f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wefe33f1e-37fb-4179-853e-85820244c87c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wefe33f1e-37fb-4179-853e-85820244c87c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w6b269bc3-456a-4a82-a248-7525c7d571f9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w6b269bc3-456a-4a82-a248-7525c7d571f9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w6087abe3-79a0-461f-b0b5-e11b65572f0c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/w6087abe3-79a0-461f-b0b5-e11b65572f0c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wc1b023de-4dd7-40c6-8d27-4c70b12dbbf7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/6c1e785c/wc1b023de-4dd7-40c6-8d27-4c70b12dbbf7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568686",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:26.349Z"
+}

@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4580/items/601058/images",
+      "name": "Images for Flammable Storage Cabinet"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wc21c8154-809d-418f-905e-c725313646ec.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wc21c8154-809d-418f-905e-c725313646ec_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcfe6f935-d4db-4605-b04c-f044f07f59e6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcfe6f935-d4db-4605-b04c-f044f07f59e6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfb63c199-96b6-4a92-94cc-bca9336e2ad2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfb63c199-96b6-4a92-94cc-bca9336e2ad2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfa371727-0880-47f2-80f4-f83e2bfc1ef7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wfa371727-0880-47f2-80f4-f83e2bfc1ef7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wdfad0971-fc6f-4bfb-bf14-6438b5715ce6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wdfad0971-fc6f-4bfb-bf14-6438b5715ce6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wa629375c-4e08-4be8-a0bc-ac45fea6777c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wa629375c-4e08-4be8-a0bc-ac45fea6777c_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcc216c47-7210-4eca-b836-e57ff6b501c6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4580/6c1e785c/wcc216c47-7210-4eca-b836-e57ff6b501c6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "601058",
+  "auctionId": "4580",
+  "collectedAt": "2025-10-24T02:29:27.032Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583886/images",
+      "name": "Images for Bontrager Thermal Knee Warmer Small"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583886/w5c62dba6-7458-4eb0-a038-a4d30e3f8ddf.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583886/w5c62dba6-7458-4eb0-a038-a4d30e3f8ddf_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583886/waae3b6e8-a40c-4921-b1e0-8f0e3c346b7a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583886/waae3b6e8-a40c-4921-b1e0-8f0e3c346b7a_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583886",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:21.386Z"
+}

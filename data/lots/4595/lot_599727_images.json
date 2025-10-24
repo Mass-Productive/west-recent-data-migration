@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4595/items/599727/images",
+      "name": "Images for (30) Red Polycarbonate Roof Panels 8&#39;x3&#39;x0.8mm (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4595/cp1753737821x599727/app/02-1715-a4d83684-aec8-4cc9-8771-32f0245d5334/wS0951-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599727",
+  "auctionId": "4595",
+  "collectedAt": "2025-10-24T02:30:04.027Z"
+}

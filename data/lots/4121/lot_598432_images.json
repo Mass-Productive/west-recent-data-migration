@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4121/items/598432/images",
+      "name": "Images for Cypress Slab"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4121/app/15-1805-55441869-a020-4754-9737-24a7d7815f39/w0152-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598432",
+  "auctionId": "4121",
+  "collectedAt": "2025-10-23T21:02:45.594Z"
+}

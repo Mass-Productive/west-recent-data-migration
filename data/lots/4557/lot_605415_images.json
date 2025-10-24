@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605415/images",
+      "name": "Images for Medium Duty Pallet Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0345-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0345-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0345-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/19-1854-792a5efb-7b0a-4aec-b403-88c817bff327/w0345-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605415",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:17.087Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579029/images",
+      "name": "Images for DEWALT 15 Amp Corded 8-1/4 in. Compact Portable Jobsite Tablesaw (Stand Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579029/app/15-1714-dabf539a-a8e8-4b0a-91d1-a6f78b2d80e2/w1164-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579029",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:33.198Z"
+}

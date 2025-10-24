@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4300/items/574254/images",
+      "name": "Images for Matrix Accent Trainer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2103-9cca12f4-4dab-4703-ab89-9da98e0d2a82/w0132-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574254",
+  "auctionId": "4300",
+  "collectedAt": "2025-10-23T22:00:49.888Z"
+}

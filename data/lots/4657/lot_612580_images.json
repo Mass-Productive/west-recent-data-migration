@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4657/items/612580/images",
+      "name": "Images for Roll of Bubble Aluminum Foil Reflective Insulation, 3.3&#39;x164&#39; (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4657/cp1759965616x612580/app/08-1629-ae376809-0b04-4f3e-85d1-0585fce798c8/wS1123AS1123-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612580",
+  "auctionId": "4657",
+  "collectedAt": "2025-10-24T03:18:02.281Z"
+}

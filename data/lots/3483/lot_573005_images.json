@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/573005/images",
+      "name": "Images for Luminar Outdoor String Lights"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x573005/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2050-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x573005/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2050-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x573005/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2050-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x573005/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2050-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573005",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:50:26.137Z"
+}

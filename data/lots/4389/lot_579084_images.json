@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579084/images",
+      "name": "Images for RIGID 12 Gallon 5.0 Peak HP NXT Shop Vac Wet Dry Vacuum with General Debris Filter, Locking Hose and Accessory Attachments"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/wc9f38f91-cc3b-48a2-acaa-de9dbd5a8df1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/wc9f38f91-cc3b-48a2-acaa-de9dbd5a8df1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/w6bd65a6d-e77d-4f61-bec9-3dfa2c00e2bc.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/w6bd65a6d-e77d-4f61-bec9-3dfa2c00e2bc_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/w13bc81a4-49b2-4d52-be4c-2a61e8156496.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/w13bc81a4-49b2-4d52-be4c-2a61e8156496_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/wa9ce1d4f-cc2e-45d6-94a2-d71561d4ce4e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740547528x579084/wa9ce1d4f-cc2e-45d6-94a2-d71561d4ce4e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579084",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:55.562Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4528/items/597006/images",
+      "name": "Images for Craftsman Belt Sander With (2) Plastic Trays "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4528/app/24-1804-d0de5cc7-218d-45ec-a278-3cec73df64ee/w0126-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597006",
+  "auctionId": "4528",
+  "collectedAt": "2025-10-24T02:04:20.953Z"
+}

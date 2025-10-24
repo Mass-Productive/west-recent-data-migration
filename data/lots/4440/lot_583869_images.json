@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583869/images",
+      "name": "Images for Electra Rear Basket Mounts On Rear Rack"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/we378aae0-ad77-4812-990c-a3115f9ea062.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/we378aae0-ad77-4812-990c-a3115f9ea062_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/w1d827c4a-6bb6-404c-b7da-890b6a5345eb.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/w1d827c4a-6bb6-404c-b7da-890b6a5345eb_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/w918c9b88-9e84-412d-8b0c-7b6f255df9a5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583869/w918c9b88-9e84-412d-8b0c-7b6f255df9a5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583869",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:14.457Z"
+}

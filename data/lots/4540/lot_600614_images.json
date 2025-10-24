@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4540/items/600614/images",
+      "name": "Images for Clovis Goods 22S0301-36, 36 x 28 Inch Rectangular Frameless LED Bathroom Mirror (NEW)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_5_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_4_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_3_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4540/cp1754339660x600614/w0006B22S0301-36_2_t.jpg",
+      "image_width": "320",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600614",
+  "auctionId": "4540",
+  "collectedAt": "2025-10-24T02:08:58.497Z"
+}

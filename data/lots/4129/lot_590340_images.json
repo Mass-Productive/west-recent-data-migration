@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590340/images",
+      "name": "Images for Bar Mats "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/02-1409-5d748cc3-3546-4618-8c7b-7fe09355ee24/w0224-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/02-1409-5d748cc3-3546-4618-8c7b-7fe09355ee24/w0224-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590340",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:05:04.424Z"
+}

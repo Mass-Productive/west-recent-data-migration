@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/588000/images",
+      "name": "Images for Black J Bend Spokes Bulk Lot "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w64ab09ff-d9b9-4401-9b8b-583e4ef33519.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w64ab09ff-d9b9-4401-9b8b-583e4ef33519_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/wefd89fcc-b652-49b4-a067-499c4f3f4d38.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/wefd89fcc-b652-49b4-a067-499c4f3f4d38_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w7bf64afa-0fdc-48a0-90f7-af191f7e8b53.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w7bf64afa-0fdc-48a0-90f7-af191f7e8b53_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w63f9104d-a04d-4d94-ab20-1bea6b1726a3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w63f9104d-a04d-4d94-ab20-1bea6b1726a3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w9b84aec0-f51b-4dca-b912-1b34a4e00a40.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/w9b84aec0-f51b-4dca-b912-1b34a4e00a40_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/wf34a0ff0-47f2-48a0-bcc4-4280642a9ca8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746299x588000/wf34a0ff0-47f2-48a0-bcc4-4280642a9ca8_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "588000",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:58:46.993Z"
+}

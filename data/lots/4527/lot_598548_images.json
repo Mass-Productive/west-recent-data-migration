@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4527/items/598548/images",
+      "name": "Images for Baking Pans Mixed "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4527/app/28-1825-cd585343-d457-4763-aff7-b4d020c3505e/w0206-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598548",
+  "auctionId": "4527",
+  "collectedAt": "2025-10-24T02:03:06.314Z"
+}

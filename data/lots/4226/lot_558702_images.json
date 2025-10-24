@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558702/images",
+      "name": "Images for Milwaukee Sawzall Reciprocating Saw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-2-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-2-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-3-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1705-a7e3370e-395d-48ca-9384-f0322fd87111/w0162-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558702",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:52.159Z"
+}

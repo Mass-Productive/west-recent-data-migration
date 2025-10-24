@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586012/images",
+      "name": "Images for (13) Ultimate Support Lectern/Music Stand Column"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/21-2021-71585cbc-d798-4942-a044-ac4c5a882ed7/w0100-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586012",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:25.006Z"
+}

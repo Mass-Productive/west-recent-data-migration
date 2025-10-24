@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594538/images",
+      "name": "Images for DEWALT Portable Power 2000 Peak Amp Jump Starter w/Digital Compressor - $199 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748891303x594538/app/24-1759-b9f348b6-1752-4e83-bfce-1f220902a56a/wH3140-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594538",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:08.884Z"
+}

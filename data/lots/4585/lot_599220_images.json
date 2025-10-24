@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4585/items/599220/images",
+      "name": "Images for Forma Scientific CO2 Water Jacketed Incubator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4585/cp1752785468x599220/app/27-1508-641ca2d9-820a-4713-a30d-f4ea91204f9f/w0907-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599220",
+  "auctionId": "4585",
+  "collectedAt": "2025-10-24T02:29:56.383Z"
+}

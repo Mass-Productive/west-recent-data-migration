@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4297/items/566546/images",
+      "name": "Images for Sleeve Of Approximately (5,000) Small Arms Cleaning Swabs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4297/app/26-2036-05338097-ce45-45ce-aa6f-b3fc4d17017a/w0335-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "566546",
+  "auctionId": "4297",
+  "collectedAt": "2025-10-23T21:58:31.921Z"
+}

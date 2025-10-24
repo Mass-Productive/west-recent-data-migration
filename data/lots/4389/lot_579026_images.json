@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579026/images",
+      "name": "Images for Husky 4.5 Gal. 175 PSI Portable Electric Quiet Air Compressor"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w873610cc-2411-4546-acfb-f602236a7c1e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w873610cc-2411-4546-acfb-f602236a7c1e_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/wbf48f44c-2fc0-4d1a-ade5-879e4f51db8b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/wbf48f44c-2fc0-4d1a-ade5-879e4f51db8b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/wb37a7826-1fac-49a2-beea-3889b2bd62de.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/wb37a7826-1fac-49a2-beea-3889b2bd62de_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w4cb32f26-3634-43ac-94fa-59aa278f8888.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w4cb32f26-3634-43ac-94fa-59aa278f8888_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w93792bae-4926-47e4-9905-e26d96db2d8a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w93792bae-4926-47e4-9905-e26d96db2d8a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w324ce40e-b5bd-4d0e-a7cf-3ed98278aa7b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740546226x579026/w324ce40e-b5bd-4d0e-a7cf-3ed98278aa7b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579026",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:16:31.990Z"
+}

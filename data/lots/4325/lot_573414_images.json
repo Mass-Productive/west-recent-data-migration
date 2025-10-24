@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573414/images",
+      "name": "Images for Aria Encore 200"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573414/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i0576-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573414/app/26-0354-52a3a722-1e3f-457e-aca1-c94e2e57af8a/i0576-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573414",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:16:54.547Z"
+}

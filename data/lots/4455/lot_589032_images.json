@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/589032/images",
+      "name": "Images for Tubeless Tire Lot Of 4 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744917150x589032/app/16-1903-04e57678-3633-4035-8cd0-bcf79113cc07/w2000-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589032",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T01:00:00.161Z"
+}

@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599252/images",
+      "name": "Images for Receiver-Mount Pintle Hook Ball Combination Hitch with 2-5/16 in. Ball, 2-1/2 in. Shank and 20,000 lbs. Capacity- $122 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753225322/iHitch.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753225322/iHitch_t.png",
+      "image_width": "320",
+      "image_height": "294",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599252",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:23:50.478Z"
+}

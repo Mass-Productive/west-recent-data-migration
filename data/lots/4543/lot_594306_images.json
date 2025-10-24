@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4543/items/594306/images",
+      "name": "Images for Felker Tile Saw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4543/cp1748651290x594306/app/31-0003-ebd045b4-bb0a-4944-8827-bc966799f604/w0398-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594306",
+  "auctionId": "4543",
+  "collectedAt": "2025-10-24T02:09:32.622Z"
+}

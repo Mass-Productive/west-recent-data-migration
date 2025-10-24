@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4557/items/605492/images",
+      "name": "Images for Lumber"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4557/app/20-2017-61de2f4a-44bd-462c-ac1d-073f1592c76c/w0425-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "605492",
+  "auctionId": "4557",
+  "collectedAt": "2025-10-24T02:18:47.937Z"
+}

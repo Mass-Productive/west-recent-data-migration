@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4058/items/600130/images",
+      "name": "Images for (6) BullDog Commercial Non-Handed Grade 2 Security Passage Lever in Oil Rubbed Bronze"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1727109069/w20Copper_Creek_AL6220.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/1727109069/w20Copper_Creek_AL6220_t.jpg",
+      "image_width": "320",
+      "image_height": "279",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4058/app/07-2138-2c0ef35c-54b2-49b0-be2c-e01265a22d9f/w0151-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600130",
+  "auctionId": "4058",
+  "collectedAt": "2025-10-23T20:58:08.340Z"
+}

@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597733/images",
+      "name": "Images for Gympak 86” Olympic Barbell With (2) Barbell Collars"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2029-cf4d090d-dc85-4ecc-a29f-977676eb9707/w0175-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597733",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:20:51.573Z"
+}

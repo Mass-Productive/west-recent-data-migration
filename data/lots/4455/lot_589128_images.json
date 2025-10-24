@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/589128/images",
+      "name": "Images for Vidmar 2 Drawer Cabinet Contents Not Included"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1745001826x589128/app/18-1604-44642ce8-d31c-4906-ac75-2d85f3b692a8/w2008-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1745001826x589128/app/18-1604-44642ce8-d31c-4906-ac75-2d85f3b692a8/w2008-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1745001826x589128/app/18-1604-44642ce8-d31c-4906-ac75-2d85f3b692a8/w2008-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1745001826x589128/app/18-1604-44642ce8-d31c-4906-ac75-2d85f3b692a8/w2008-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "589128",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T01:00:01.371Z"
+}

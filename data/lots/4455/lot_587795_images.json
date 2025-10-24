@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587795/images",
+      "name": "Images for Trek Sealant 3oz Lot Of 12 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587795/app/10-1654-cb9bb776-0ae8-432b-a8af-f46701d60900/w1668-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587795/app/10-1654-cb9bb776-0ae8-432b-a8af-f46701d60900/w1668-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587795/app/10-1654-cb9bb776-0ae8-432b-a8af-f46701d60900/w1668-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587795/app/10-1654-cb9bb776-0ae8-432b-a8af-f46701d60900/w1668-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587795",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:28.011Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4212/items/557771/images",
+      "name": "Images for Large Modular Shelf "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4212/app/03-2147-8b9c22a0-16f2-4d79-acc6-ae7b0a427602/w0114-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557771",
+  "auctionId": "4212",
+  "collectedAt": "2025-10-23T21:13:12.472Z"
+}

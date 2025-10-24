@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3594/items/558604/images",
+      "name": "Images for (1) Creama Bordeaux 2cm Polished Granite"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2bfaaf93-2cd5-48d4-a7dd-f7a0aaab8a7d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/i2bfaaf93-2cd5-48d4-a7dd-f7a0aaab8a7d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/idfc61663-f886-438d-b78a-e1d1fd0c9302.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/idfc61663-f886-438d-b78a-e1d1fd0c9302_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/if61407ae-e7c2-4a5f-bd5a-f5aad8a0df7a.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3594/38b2a962/if61407ae-e7c2-4a5f-bd5a-f5aad8a0df7a_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558604",
+  "auctionId": "3594",
+  "collectedAt": "2025-10-23T20:50:59.086Z"
+}

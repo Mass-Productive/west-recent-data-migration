@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583725/images",
+      "name": "Images for Bells lot of 7 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050270x583725/app/05-1700-494bbf38-b3ac-47c1-a277-68b24e0bd327/w1009-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583725",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:48:15.980Z"
+}

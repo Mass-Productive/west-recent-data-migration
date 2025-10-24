@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568729/images",
+      "name": "Images for The Bone-Ster Shop Creeper"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/24-1516-08915b3b-1a47-455a-abf6-138e6ac38ddf/w0201-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568729",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:54:43.368Z"
+}

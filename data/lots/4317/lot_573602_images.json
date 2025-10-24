@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573602/images",
+      "name": "Images for (2) 40 Gallon Metal Troughs And Garden Hose"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w9b5d68f3-3fe1-492d-bab4-3ffd1f0a6d31.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w9b5d68f3-3fe1-492d-bab4-3ffd1f0a6d31_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w361d58e6-b51c-4b0b-99f4-5c2cd940db74.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w361d58e6-b51c-4b0b-99f4-5c2cd940db74_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w3bc8f07b-cc14-448d-8447-38a94536205c.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w3bc8f07b-cc14-448d-8447-38a94536205c_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w54dc4d66-fa9f-45be-b701-ed79c7f68bd5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w54dc4d66-fa9f-45be-b701-ed79c7f68bd5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w78fca1f1-8bf0-4c3d-a364-40fdca674271.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w78fca1f1-8bf0-4c3d-a364-40fdca674271_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573602",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:58.775Z"
+}

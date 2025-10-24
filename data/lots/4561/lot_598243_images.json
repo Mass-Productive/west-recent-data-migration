@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/598243/images",
+      "name": "Images for Husky Ready-to-Assemble 24-Gauge Steel 2-Door Garage Base Cabinet in Black (28 in. W x 32.8 in. H x 18.3 in. D) -$279 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753228951/ihusky.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/1753228951/ihusky_t.png",
+      "image_width": "320",
+      "image_height": "314",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/25-1725-2aa67892-4b55-4cb9-8844-e0b944d7b5ac/w1185-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598243",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:22:34.654Z"
+}

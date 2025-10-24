@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4660/items/609387/images",
+      "name": "Images for (3) Green Stacking Chairs"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1704-6dee4060-8870-4541-9480-d2f48275ba16/w0826-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4660/app/26-1704-6dee4060-8870-4541-9480-d2f48275ba16/w0826-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "609387",
+  "auctionId": "4660",
+  "collectedAt": "2025-10-24T04:26:58.841Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4116/items/586073/images",
+      "name": "Images for QSC CX302v 70 Volt Power Amplifier"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2049-6e8316f1-f4a9-430e-9f41-e161d7fc8391/w0126-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2049-6e8316f1-f4a9-430e-9f41-e161d7fc8391/w0126-1-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2049-6e8316f1-f4a9-430e-9f41-e161d7fc8391/w0126-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2049-6e8316f1-f4a9-430e-9f41-e161d7fc8391/w0126-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2050-7bfca5f4-7720-49cd-8061-cce19c17fe94/w0126-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4116/app/28-2050-7bfca5f4-7720-49cd-8061-cce19c17fe94/w0126-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "586073",
+  "auctionId": "4116",
+  "collectedAt": "2025-10-23T21:01:49.358Z"
+}

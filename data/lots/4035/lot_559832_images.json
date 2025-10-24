@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4035/items/559832/images",
+      "name": "Images for VaporMan 125 C02 Vaporizer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-6_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4035/app/18-0026-a5b08931-fdd4-4925-9f60-b66925dafd8e/w1131-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "559832",
+  "auctionId": "4035",
+  "collectedAt": "2025-10-23T20:57:37.144Z"
+}

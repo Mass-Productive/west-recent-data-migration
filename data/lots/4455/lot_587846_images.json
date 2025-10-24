@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587846/images",
+      "name": "Images for Pop Up Tent 10 X 10, Includes 2 Sandbags"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587846/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1712-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587846/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1712-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587846/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1712-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744746018x587846/app/10-2029-bd675e5a-4efe-429f-a4a8-54c5df913138/w1712-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587846",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:48.795Z"
+}

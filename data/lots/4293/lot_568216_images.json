@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4293/items/568216/images",
+      "name": "Images for Wine Glasses 7”"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4293/cp1730333295x568216/app/30-1909-7e5ad5ac-cf3b-4c30-a123-924528967f51/w0477-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568216",
+  "auctionId": "4293",
+  "collectedAt": "2025-10-23T21:56:21.689Z"
+}

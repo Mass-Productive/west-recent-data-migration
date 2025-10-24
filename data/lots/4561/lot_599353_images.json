@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599353/images",
+      "name": "Images for (2)Oatey Quadtro 2 in. Copper Sweat Connection Washing Machine Outlet Box with Water Pressure Regulator- $108 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1406-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599353",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:29.713Z"
+}

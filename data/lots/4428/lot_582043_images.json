@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582043/images",
+      "name": "Images for Rabobank team jersey autographed"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0180-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0180-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0180-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/28-2000-8929d1d0-ba2e-4620-bb40-56aac13cfe4b/w0180-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582043",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:15.025Z"
+}

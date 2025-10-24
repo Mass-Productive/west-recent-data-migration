@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599344/images",
+      "name": "Images for Dirt Bike Ramp "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1525-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-0524-6dc93cf6-9806-451d-a6fb-c2c4e5151479/w1525-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/09-1637-f2fa7a20-efb7-4842-9503-6dc88cc1bae9/w1525-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599344",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:26.117Z"
+}

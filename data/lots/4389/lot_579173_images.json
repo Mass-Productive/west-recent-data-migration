@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4389/items/579173/images",
+      "name": "Images for B-Air 1/4 HP Air Mover Blower Fan for Water Damage Restoration Carpet Dryer Floor Home and Plumbing Use in Blue"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579173/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1253-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579173/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1253-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579173/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1253-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4389/cp1740950345x579173/app/20-1626-6d7ff403-882d-424c-84ff-b0ad4d0d85b5/w1253-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "579173",
+  "auctionId": "4389",
+  "collectedAt": "2025-10-24T00:17:31.750Z"
+}

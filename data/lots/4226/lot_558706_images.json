@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558706/images",
+      "name": "Images for Kelman Transport x Portable Dissolved Gas Analysis Components"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-4-rot270_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-5-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1729-bbf81e84-49bc-4187-bdc3-fbcc1da53fa8/w0166-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558706",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:53.856Z"
+}

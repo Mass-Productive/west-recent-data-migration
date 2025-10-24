@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590141/images",
+      "name": "Images for Rudd Commercial Air Conditioner"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-1_t.jpg",
+      "image_width": "320",
+      "image_height": "234",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-2_t.jpg",
+      "image_width": "310",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-3_t.jpg",
+      "image_width": "303",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-4_t.jpg",
+      "image_width": "280",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-5_t.jpg",
+      "image_width": "320",
+      "image_height": "312",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/01-0533-79c3f3c7-d171-4f01-a930-0f08419af7bf/w0104-6_t.jpg",
+      "image_width": "320",
+      "image_height": "227",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590141",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:12.682Z"
+}

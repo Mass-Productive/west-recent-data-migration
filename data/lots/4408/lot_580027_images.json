@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580027/images",
+      "name": "Images for Fridgcon Clear Door Refrigerator "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0127-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0127-2_t.jpg",
+      "image_width": "165",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0127-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/07-2348-fbdc37a5-2c38-4d6e-9e34-dad4e42fb50b/w0127-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580027",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:19.422Z"
+}

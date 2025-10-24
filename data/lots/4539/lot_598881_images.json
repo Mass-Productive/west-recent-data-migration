@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4539/items/598881/images",
+      "name": "Images for 2005 Vanguard 53’ Dry Van Trailer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-15.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-15_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-17.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-17_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-18.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-18_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-16.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-16_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-19.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-19_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-20.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-20_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-14.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4539/app/10-1911-a29c027c-e3f6-411c-a203-7bc56ab0f635/w0160-14_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598881",
+  "auctionId": "4539",
+  "collectedAt": "2025-10-24T02:08:13.118Z"
+}

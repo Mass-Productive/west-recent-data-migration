@@ -1,0 +1,78 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4263/items/561613/images",
+      "name": "Images for Bulk Lot: (2) Rolling Magazine Racks And Assorted Scrap Steel "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4263/app/11-1517-494ad1aa-63d1-4599-bf0d-f65540b63e0b/w0160-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561613",
+  "auctionId": "4263",
+  "collectedAt": "2025-10-23T21:44:40.089Z"
+}

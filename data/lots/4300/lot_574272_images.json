@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4300/items/574272/images",
+      "name": "Images for Lifefitness Adjustable Bench"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-3-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-4-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-4-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-5-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4300/app/07-2156-edc4e137-6c10-4f5e-9d87-3593b3a3358f/w0149-5-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574272",
+  "auctionId": "4300",
+  "collectedAt": "2025-10-23T22:00:57.132Z"
+}

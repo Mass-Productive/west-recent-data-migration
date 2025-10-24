@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4555/items/597263/images",
+      "name": "Images for (14) Tire Chains "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-1-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-1-rot90_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-3-rot90.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-3-rot90_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4555/app/19-2257-588470ea-4ad7-44bf-9cd5-314a62fdfcbb/w0119-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597263",
+  "auctionId": "4555",
+  "collectedAt": "2025-10-24T02:16:20.551Z"
+}

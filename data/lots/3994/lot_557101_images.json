@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3994/items/557101/images",
+      "name": "Images for Lifetime 6’ Folding Table (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-8.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-8_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-9_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-10.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-10_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-11.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3994/app/03-0035-6f9b5742-97f8-466c-8eee-58b248cc2365/w0248-11_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "557101",
+  "auctionId": "3994",
+  "collectedAt": "2025-10-23T20:56:00.129Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4558/items/597789/images",
+      "name": "Images for Handmade Carved Wood Painted Artwork Weightlifter "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4558/app/27-2030-3efad601-49af-43ef-b005-561e4459f711/w0412-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "597789",
+  "auctionId": "4558",
+  "collectedAt": "2025-10-24T02:21:14.003Z"
+}

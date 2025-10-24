@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4514/items/599667/images",
+      "name": "Images for (2) Printers"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4514/app/20-2200-bc1cafc1-d379-4e59-b133-7a8b2c7db520/w0295-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599667",
+  "auctionId": "4514",
+  "collectedAt": "2025-10-24T01:57:44.037Z"
+}

@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4432/items/582459/images",
+      "name": "Images for Air King Fan and Garbage Can"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4432/app/03-1452-002e9a5c-6e9f-4828-a416-0c91f4ba94e9/w0109-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582459",
+  "auctionId": "4432",
+  "collectedAt": "2025-10-24T00:42:53.383Z"
+}

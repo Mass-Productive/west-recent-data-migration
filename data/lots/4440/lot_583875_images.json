@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583875/images",
+      "name": "Images for Wald Quick Release Handlebar Basket For Bikes W/Brake-Shifter Cables"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583875/we5ae59b8-e30e-4db8-a68e-f0d5f44f30e4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583875/we5ae59b8-e30e-4db8-a68e-f0d5f44f30e4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583875/wf7c6fde9-554c-4a5c-8ac2-55c655b820b0.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583875/wf7c6fde9-554c-4a5c-8ac2-55c655b820b0_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583875",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:16.936Z"
+}

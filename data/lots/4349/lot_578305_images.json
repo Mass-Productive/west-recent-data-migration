@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4349/items/578305/images",
+      "name": "Images for (2) 48” And (1) 36” Lozier Style Pegboard Retail Displays (Contents Not Included)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w999cd2ae-3e1d-4369-aebc-01d04dd157ee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w999cd2ae-3e1d-4369-aebc-01d04dd157ee_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w8a5e6b6e-8a1e-4730-af14-6edc3939ac7f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w8a5e6b6e-8a1e-4730-af14-6edc3939ac7f_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w225cf609-fb58-4be3-9274-1a6213c5c355.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w225cf609-fb58-4be3-9274-1a6213c5c355_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wfa8db23c-eb4e-481f-a269-8fc033301d9b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wfa8db23c-eb4e-481f-a269-8fc033301d9b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wea641b2f-c656-4647-b3e4-f0c22201e14f.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/wea641b2f-c656-4647-b3e4-f0c22201e14f_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w28fa069f-5709-47b4-87b0-ab1154ec279d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w28fa069f-5709-47b4-87b0-ab1154ec279d_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2aacf5bb-ca4d-45e5-8ac2-2e5d2b3cc38b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4349/2bdb9722/w2aacf5bb-ca4d-45e5-8ac2-2e5d2b3cc38b_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "578305",
+  "auctionId": "4349",
+  "collectedAt": "2025-10-24T00:09:31.266Z"
+}

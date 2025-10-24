@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4551/items/598933/images",
+      "name": "Images for HUGHES C10 ANTENNA "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0235-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0235-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0235-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4551/app/11-1604-b4bb0b33-0669-4559-9658-a42861a88613/w0235-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "598933",
+  "auctionId": "4551",
+  "collectedAt": "2025-10-24T02:13:34.662Z"
+}

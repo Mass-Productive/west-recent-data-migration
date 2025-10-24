@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/584829/images",
+      "name": "Images for DEWALT 1600 Peak Amp Jump Starter with Digital Compressor and USB Power Bank - $159 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/09-1703-150ba3e8-8514-493a-990a-d34199bab6fe/wH2074-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "584829",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:51:02.964Z"
+}

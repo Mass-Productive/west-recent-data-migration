@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4314/items/575228/images",
+      "name": "Images for Photo Booth"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2207-238557cc-5b5c-4a91-bb58-a8022ac55226/w0102-3_677d711284fbe.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/06-2207-238557cc-5b5c-4a91-bb58-a8022ac55226/w0102-3_677d711284fbe_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/03-2304-2b740b66-03bb-4803-9526-451ceeb81275/w0102-1_677d71203f20b.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4314/app/03-2304-2b740b66-03bb-4803-9526-451ceeb81275/w0102-1_677d71203f20b_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575228",
+  "auctionId": "4314",
+  "collectedAt": "2025-10-23T22:06:33.247Z"
+}

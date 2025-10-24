@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4272/items/561160/images",
+      "name": "Images for Contents Of Table: Typewriter, Bin Of Vintage Tools, Box Of Games "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4272/app/04-2207-8c0ecace-6b41-4ca6-9f5a-46a20b997de3/w1015-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561160",
+  "auctionId": "4272",
+  "collectedAt": "2025-10-23T21:48:43.164Z"
+}

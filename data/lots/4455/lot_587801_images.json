@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4455/items/587801/images",
+      "name": "Images for Park Tool BBT-19.2 Lot Of 2 "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587801/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1681-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587801/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1681-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587801/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1681-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4455/cp1744745988x587801/app/14-1709-30c7897a-f607-48ca-b911-3a04f1d62494/w1681-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "587801",
+  "auctionId": "4455",
+  "collectedAt": "2025-10-24T00:57:30.450Z"
+}

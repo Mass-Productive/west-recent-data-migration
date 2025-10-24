@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4442/items/585995/images",
+      "name": "Images for M-D Building Products 5-5/8 in. x 1-1/8 in. x 36 in. Bronze Adjustable Aluminum and Hardwood Threshold - $39 Retail Price"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4442/app/11-1740-6d66b415-57ac-4eb8-8eaa-04af2adb9515/wH2340A-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "585995",
+  "auctionId": "4442",
+  "collectedAt": "2025-10-24T00:52:41.854Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/590158/images",
+      "name": "Images for Delfield Chef Base Refrigerator"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-3_t.jpg",
+      "image_width": "320",
+      "image_height": "211",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-1_t.jpg",
+      "image_width": "320",
+      "image_height": "222",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-2_t.jpg",
+      "image_width": "293",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/21-2227-71a6626b-5720-4c09-8b02-70cbfb573617/w0119-4_t.jpg",
+      "image_width": "320",
+      "image_height": "177",
+      "archived": "0"
+    }
+  ],
+  "lotId": "590158",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:04:19.427Z"
+}

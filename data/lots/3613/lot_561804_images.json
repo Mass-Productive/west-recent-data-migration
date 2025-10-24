@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3613/items/561804/images",
+      "name": "Images for (8) Glass Jars - Various Sizes"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3613/app/15-1848-6e2c7681-45db-48ad-b81c-f10ddf21ad1f/i0530-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "561804",
+  "auctionId": "3613",
+  "collectedAt": "2025-10-23T20:54:07.783Z"
+}

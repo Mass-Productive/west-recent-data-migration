@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4494/items/594683/images",
+      "name": "Images for Quantity of (6) Mission Cooling Unisex Digi-Camo Hoods"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594683/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3832-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594683/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3832-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594683/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3832-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4494/cp1748974610x594683/app/03-0324-5a6e786e-36b4-4427-9c62-48d34fe9902f/w3832-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "594683",
+  "auctionId": "4494",
+  "collectedAt": "2025-10-24T01:54:09.281Z"
+}

@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4466/items/595091/images",
+      "name": "Images for Hudson Multi Purpose Sprayer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/w2bba2d63-02ea-4934-ade7-595c1603c350.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/w2bba2d63-02ea-4934-ade7-595c1603c350_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/wee17a01d-1065-4d57-82fb-58e95cd2e289.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/wee17a01d-1065-4d57-82fb-58e95cd2e289_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/we730f46b-fcf7-493d-ac39-1390fc5a47a7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4466/cp1749493176x595091/we730f46b-fcf7-493d-ac39-1390fc5a47a7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595091",
+  "auctionId": "4466",
+  "collectedAt": "2025-10-24T01:03:59.598Z"
+}

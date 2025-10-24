@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4428/items/582096/images",
+      "name": "Images for Bike, trek wahoo 26 path kids bike"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/1743638538/iLot_0193.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/1743638538/iLot_0193_t.png",
+      "image_width": "320",
+      "image_height": "239",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/30-1630-a3f73e16-b52a-4ba3-af3d-7c11cbbaa668/w0193-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4428/app/30-1630-a3f73e16-b52a-4ba3-af3d-7c11cbbaa668/w0193-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "582096",
+  "auctionId": "4428",
+  "collectedAt": "2025-10-24T00:40:36.774Z"
+}

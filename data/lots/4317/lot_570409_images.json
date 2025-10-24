@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/570409/images",
+      "name": "Images for Approximately (65) Assorted Table Cloths "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/6e340c4f/wd49b4d2d-85dd-41b7-96c2-21abb2543c62.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/6e340c4f/wd49b4d2d-85dd-41b7-96c2-21abb2543c62_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/22-0022-b99482d0-3fc8-41c6-92e2-1ad5767bcdfd/w0220-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/22-0022-b99482d0-3fc8-41c6-92e2-1ad5767bcdfd/w0220-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/22-0022-b99482d0-3fc8-41c6-92e2-1ad5767bcdfd/w0220-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/app/22-0022-b99482d0-3fc8-41c6-92e2-1ad5767bcdfd/w0220-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "570409",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:07:47.304Z"
+}

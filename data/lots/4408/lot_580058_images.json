@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4408/items/580058/images",
+      "name": "Images for (2) Slim Jim Trash Cans"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/08-1629-2433d220-5510-488e-889d-9e8e17efb813/w0139-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4408/app/08-1629-2433d220-5510-488e-889d-9e8e17efb813/w0139-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "580058",
+  "auctionId": "4408",
+  "collectedAt": "2025-10-24T00:24:31.584Z"
+}

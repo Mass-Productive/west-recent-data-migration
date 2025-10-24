@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4659/items/608713/images",
+      "name": "Images for Quantity of (1) RIDGID CD-100 Micro Combustible Gas Handheld Diagnostic Detector - $251 Retail Value"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/i1253.png",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/i1253_t.png",
+      "image_width": "320",
+      "image_height": "203",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4659/cp1758150991x608713/app/01-0121-ff38577c-6c3d-4301-8022-017723ee4758/w1253-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "608713",
+  "auctionId": "4659",
+  "collectedAt": "2025-10-24T03:36:43.928Z"
+}

@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4598/items/600513/images",
+      "name": "Images for AMSEC AMERICAN SECURITY SAFE"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/30-2007-17e2db5a-cc14-4181-8e5d-51347fc77ed9/w0302-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/30-2007-17e2db5a-cc14-4181-8e5d-51347fc77ed9/w0302-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/30-2007-17e2db5a-cc14-4181-8e5d-51347fc77ed9/w0302-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4598/app/30-2007-17e2db5a-cc14-4181-8e5d-51347fc77ed9/w0302-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "600513",
+  "auctionId": "4598",
+  "collectedAt": "2025-10-24T02:30:11.226Z"
+}

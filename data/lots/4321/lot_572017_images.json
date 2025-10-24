@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4321/items/572017/images",
+      "name": "Images for Tan Sidewalls For 20’x10’ Tents "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/we6330aa1-f862-4286-ac1c-be9c817ed303.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/we6330aa1-f862-4286-ac1c-be9c817ed303_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/wece5baaa-f284-40e5-8739-e9b6575e62ce.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/wece5baaa-f284-40e5-8739-e9b6575e62ce_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/w421df736-58ae-4cd5-af80-1648bcbb8f69.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4321/cp1732742240x572017/w421df736-58ae-4cd5-af80-1648bcbb8f69_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572017",
+  "auctionId": "4321",
+  "collectedAt": "2025-10-23T22:13:55.252Z"
+}

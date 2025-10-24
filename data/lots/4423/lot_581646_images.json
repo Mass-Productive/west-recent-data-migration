@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4423/items/581646/images",
+      "name": "Images for 2025 Future Excavator Rake, Fit to 1-2 Ton Excavator (Unused)"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4423/cp1743294721x581646/app/05-0053-0807832d-f27d-4744-a9f4-348c370d51e8/wF0117-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "581646",
+  "auctionId": "4423",
+  "collectedAt": "2025-10-24T00:34:53.088Z"
+}

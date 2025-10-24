@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4517/items/595860/images",
+      "name": "Images for True 2 Door Refrigerator GDM49HCTL01"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4517/app/06-2212-26438198-6a58-4309-be40-131e4ed5b163/w0802-7_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "595860",
+  "auctionId": "4517",
+  "collectedAt": "2025-10-24T02:01:52.756Z"
+}

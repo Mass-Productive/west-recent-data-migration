@@ -1,0 +1,29 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583861/images",
+      "name": "Images for Bontrager Short Sleeve Women’s Baselayer White L/XL"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583861/w5ba07da3-d2b1-457b-b220-c129a5623c3e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583861/w5ba07da3-d2b1-457b-b220-c129a5623c3e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583861/wf4b99dc9-accf-4c32-b5b8-0f2650ad6e35.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583861/wf4b99dc9-accf-4c32-b5b8-0f2650ad6e35_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583861",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:11.246Z"
+}

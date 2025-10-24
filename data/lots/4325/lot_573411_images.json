@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4325/items/573411/images",
+      "name": "Images for TS21 Test Set"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0573-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0573-2_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/iafef7034-6da1-4076-bbfc-a101d489c339.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/iafef7034-6da1-4076-bbfc-a101d489c339_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0573-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4325/cp1733418365x573411/app/19-0142-f0f5a18e-90d3-43ec-a406-d4cddeaf04b5/i0573-3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573411",
+  "auctionId": "4325",
+  "collectedAt": "2025-10-23T22:16:53.337Z"
+}

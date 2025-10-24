@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4226/items/558696/images",
+      "name": "Images for Porter Cable Porta-Band Model 725 Extra Heavy Duty 2-Speed Band Saw"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1632-9fab89e7-8380-40e9-b0d6-879ae6443028/w0156-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1632-9fab89e7-8380-40e9-b0d6-879ae6443028/w0156-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4226/app/04-1635-a56192bf-8e92-4d1a-b222-fd63251e6651/w0156-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "558696",
+  "auctionId": "4226",
+  "collectedAt": "2025-10-23T21:32:49.139Z"
+}

@@ -1,0 +1,43 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4129/items/591282/images",
+      "name": "Images for Vulcan Deep Fryer "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-1_t.jpg",
+      "image_width": "171",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-2_t.jpg",
+      "image_width": "252",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-3_t.jpg",
+      "image_width": "296",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4129/app/14-0412-9408365d-4b26-44c5-9728-97a7d31d159e/w0243-4_t.jpg",
+      "image_width": "320",
+      "image_height": "194",
+      "archived": "0"
+    }
+  ],
+  "lotId": "591282",
+  "auctionId": "4129",
+  "collectedAt": "2025-10-23T21:05:07.601Z"
+}

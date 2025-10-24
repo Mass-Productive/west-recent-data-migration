@@ -1,0 +1,22 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/3483/items/572703/images",
+      "name": "Images for Light Bulb Changer"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572703/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2360-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/3483/cp1733264230x572703/app/07-2036-03de39da-8fef-40f3-9aea-877a76dc3233/i2360-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "572703",
+  "auctionId": "3483",
+  "collectedAt": "2025-10-23T20:49:33.873Z"
+}

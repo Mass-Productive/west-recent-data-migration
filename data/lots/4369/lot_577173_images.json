@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4369/items/577173/images",
+      "name": "Images for (5,600) Brown Colored Peruvian Travertine Tiles "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-1-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-1-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-4-rot270.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-4-rot270_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-5_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4369/app/27-1811-a3b7296b-144a-48ed-a915-f80f01d96e75/w0174-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "577173",
+  "auctionId": "4369",
+  "collectedAt": "2025-10-24T00:14:28.549Z"
+}

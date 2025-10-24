@@ -1,0 +1,57 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4128/items/574456/images",
+      "name": "Images for (1) Furman PL8 Power Conditioner, and Light Module"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4128/app/28-2111-7744616b-3cd6-4b47-a903-ee54c6ac5147/w0197-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "574456",
+  "auctionId": "4128",
+  "collectedAt": "2025-10-23T21:03:45.545Z"
+}

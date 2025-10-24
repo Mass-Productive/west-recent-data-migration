@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4561/items/599351/images",
+      "name": "Images for 1 in. Lead-Free Brass FPT x FPT Water Pressure Reducing Valve- $390 Retail Price "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4561/app/07-2136-2d5ad5a4-d858-429f-8a79-281e78e2d27b/w1408-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "599351",
+  "auctionId": "4561",
+  "collectedAt": "2025-10-24T02:24:28.916Z"
+}

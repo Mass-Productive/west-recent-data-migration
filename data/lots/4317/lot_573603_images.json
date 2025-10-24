@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4317/items/573603/images",
+      "name": "Images for (2) Stainless Steel Wall Mounted Shelves "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w46d586b7-6147-4188-aa51-567afb76c592.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w46d586b7-6147-4188-aa51-567afb76c592_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w05d3dad8-e234-4025-9a78-07e6d9356fd7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w05d3dad8-e234-4025-9a78-07e6d9356fd7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w6476ca63-179e-4606-971e-18743169f9a7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w6476ca63-179e-4606-971e-18743169f9a7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1b09520a-233e-4019-87da-ee0dfc7a5ba4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w1b09520a-233e-4019-87da-ee0dfc7a5ba4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w9a1c8396-8afa-45a9-83a1-9c82adc113f9.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w9a1c8396-8afa-45a9-83a1-9c82adc113f9_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w0b9468b2-177a-40a0-aa73-1873f5909103.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w0b9468b2-177a-40a0-aa73-1873f5909103_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w74f5e6d1-5d0e-4a2b-bc67-3acc03812319.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4317/2bdb9722/w74f5e6d1-5d0e-4a2b-bc67-3acc03812319_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "573603",
+  "auctionId": "4317",
+  "collectedAt": "2025-10-23T22:10:59.177Z"
+}

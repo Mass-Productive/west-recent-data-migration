@@ -1,0 +1,50 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4331/items/575873/images",
+      "name": "Images for 55 Gallon Liquid Storage Drum With Contents "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w60dffb81-ea88-4cc7-9880-1065cc8ce030.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w60dffb81-ea88-4cc7-9880-1065cc8ce030_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/wc7b5b607-2bcd-4e26-a4ef-616ca74e2e37.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/wc7b5b607-2bcd-4e26-a4ef-616ca74e2e37_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w6b962094-39b0-4e88-8c92-b85191010cee.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w6b962094-39b0-4e88-8c92-b85191010cee_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w14d25cb8-a43d-484a-a929-c56224896d8d.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/w14d25cb8-a43d-484a-a929-c56224896d8d_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/wc9a6c488-6b19-410b-9b22-c2d833cc52e4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4331/cp1737419612x575873/wc9a6c488-6b19-410b-9b22-c2d833cc52e4_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "575873",
+  "auctionId": "4331",
+  "collectedAt": "2025-10-23T23:11:27.084Z"
+}

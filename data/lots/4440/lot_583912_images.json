@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4440/items/583912/images",
+      "name": "Images for Kryptonite Cable Lock Keyed 6’ X 10mm"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/w7de1f38c-0d3a-4a31-9cd5-c52a5ee37596.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/w7de1f38c-0d3a-4a31-9cd5-c52a5ee37596_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/w1b582a33-85e1-4b40-bb5f-2dd800413c7e.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/w1b582a33-85e1-4b40-bb5f-2dd800413c7e_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/wf6e84f3d-ee03-43dc-9be8-9d6b9f9e1bf3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4440/cp1744050382x583912/wf6e84f3d-ee03-43dc-9be8-9d6b9f9e1bf3_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    }
+  ],
+  "lotId": "583912",
+  "auctionId": "4440",
+  "collectedAt": "2025-10-24T00:49:31.974Z"
+}

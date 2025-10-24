@@ -1,0 +1,36 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4654/items/612315/images",
+      "name": "Images for U-edge Steel Edge Banding "
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-1_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4654/cp1759881325x612315/app/06-1739-7a2446be-e0b5-4062-9d85-ecb1ce19d15e/w0412-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "612315",
+  "auctionId": "4654",
+  "collectedAt": "2025-10-24T02:47:23.683Z"
+}

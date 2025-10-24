@@ -1,0 +1,64 @@
+{
+  "result": "success",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://www.westauction.com/api/auctions/4291/items/568836/images",
+      "name": "Images for Abanaki ChillyBits Air Chiller"
+    }
+  ],
+  "data": [
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-1.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-1_t.jpg",
+      "image_width": "240",
+      "image_height": "320",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-2.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-2_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-3.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-3_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-4.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-4_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-5.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-5_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-6.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-6_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    },
+    {
+      "image_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-7.jpg",
+      "thumb_url": "https://d278yjzsv5tla9.cloudfront.net/auctionimages/4291/app/31-0301-feff86a6-a296-480d-9e36-f9aa9319a8f2/w0334-7_t.jpg",
+      "image_width": "320",
+      "image_height": "240",
+      "archived": "0"
+    }
+  ],
+  "lotId": "568836",
+  "auctionId": "4291",
+  "collectedAt": "2025-10-23T21:55:26.857Z"
+}
